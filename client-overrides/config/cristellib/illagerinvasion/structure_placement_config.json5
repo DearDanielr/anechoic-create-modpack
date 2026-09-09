@@ -1,0 +1,28 @@
+{
+  "firecaller_hut": {
+    "salt": 169476076,
+    "separation": 49,
+    "spacing": 74
+  },
+  "illager_fort": {
+    "frequency": 0.2,
+    "salt": 169476082,
+    "separation": 49,
+    "spacing": 74
+  },
+  "illusioner_tower": {
+    "salt": 169476081,
+    "separation": 49,
+    "spacing": 74
+  },
+  "labyrinth": {
+    "salt": 169476079,
+    "separation": 46,
+    "spacing": 84
+  },
+  "sorcerer_hut": {
+    "salt": 169476080,
+    "separation": 25,
+    "spacing": 32
+  }
+}

@@ -1,0 +1,2 @@
+# Preserve generated game settings exactly, including their original whitespace.
+client-overrides/** -text -whitespace

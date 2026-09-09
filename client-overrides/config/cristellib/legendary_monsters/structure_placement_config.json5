@@ -1,0 +1,68 @@
+{
+  "ancient_stronghold": {
+    "spacing": 114,
+    "separation": 62,
+    "salt": 5792349
+  },
+  "ancient_tower_remains": {
+    "spacing": 114,
+    "separation": 62,
+    "salt": 12466453
+  },
+  "cloudy_temple": {
+    "spacing": 175,
+    "separation": 123,
+    "salt": 443951123
+  },
+  "collapsed_kingdom": {
+    "spacing": 193,
+    "separation": 140,
+    "salt": 542863
+  },
+  "frostbitten_temple": {
+    "spacing": 67,
+    "separation": 49,
+    "salt": 6538645
+  },
+  "lava_eater_spawn": {
+    "spacing": 53,
+    "separation": 35,
+    "salt": 435246
+  },
+  "mossy_temple": {
+    "spacing": 62,
+    "separation": 42,
+    "salt": 12381234
+  },
+  "ruined_pyramid": {
+    "spacing": 70,
+    "separation": 53,
+    "salt": 5792349
+  },
+  "shulker_tower": {
+    "spacing": 114,
+    "separation": 62,
+    "salt": 7539258
+  },
+  "skeletosaurus_nest": {
+    "spacing": 62,
+    "separation": 41,
+    "salt": 93781234
+  },
+  "soul_fortress_remains": {
+    "spacing": 62,
+    "separation": 46,
+    "salt": 5478396
+  },
+  "space_station": {
+    "spacing": 193,
+    "separation": 132,
+    "salt": 8570437,
+    "frequency": 0.75
+  },
+  "warped_fungussus_nest": {
+    "spacing": 13,
+    "separation": 9,
+    "salt": 5546645
+  }
+}

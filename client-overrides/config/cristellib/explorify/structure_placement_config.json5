@@ -1,0 +1,83 @@
+{
+  "badlands_pyramids": {
+    "frequency": 0.75,
+    "salt": 63294721,
+    "separation": 21,
+    "spacing": 56
+  },
+  "black_spirals": {
+    "salt": 30184232,
+    "separation": 32,
+    "spacing": 70
+  },
+  "campsites": {
+    "frequency": 0.8,
+    "salt": 51363271,
+    "separation": 28,
+    "spacing": 56
+  },
+  "dark_forest_settlements": {
+    "frequency": 0.8,
+    "salt": 10128856,
+    "separation": 28,
+    "spacing": 56
+  },
+  "desert_shrines": {
+    "salt": 89294828,
+    "separation": 14,
+    "spacing": 42
+  },
+  "end_shipwrecks": {
+    "frequency": 0.5,
+    "salt": 12394461,
+    "separation": 11,
+    "spacing": 42
+  },
+  "farmsteads": {
+    "frequency": 0.8,
+    "salt": 70128199,
+    "separation": 49,
+    "spacing": 67
+  },
+  "guide_posts": {
+    "frequency": 0.75,
+    "salt": 31205983,
+    "separation": 18,
+    "spacing": 56
+  },
+  "mangrove_huts": {
+    "salt": 2063493658,
+    "separation": 21,
+    "spacing": 49
+  },
+  "mausoleums": {
+    "frequency": 0.8,
+    "salt": 535694654,
+    "separation": 28,
+    "spacing": 84
+  },
+  "ruins": {
+    "frequency": 0.8,
+    "salt": 1428017473,
+    "separation": 42,
+    "spacing": 84
+  },
+  "supply_caches": {
+    "frequency": 0.75,
+    "salt": 12413523,
+    "separation": 35,
+    "spacing": 56
+  },
+  "taverns": {
+    "frequency": 0.8,
+    "salt": 15731481,
+    "separation": 32,
+    "spacing": 63
+  },
+  "watchtowers": {
+    "frequency": 0.75,
+    "salt": 17906333,
+    "separation": 42,
+    "spacing": 84
+  }
+}

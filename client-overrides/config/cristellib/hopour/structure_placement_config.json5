@@ -1,0 +1,32 @@
+{
+  "minecraft:ocean_ruins": {
+    "salt": 14357621,
+    "separation": 11,
+    "spacing": 34
+  },
+  "minecraft:shipwrecks": {
+    "salt": 165745295,
+    "separation": 46,
+    "spacing": 62
+  },
+  "underwater_city": {
+    "salt": 77777777,
+    "separation": 67,
+    "spacing": 74
+  },
+  "underwater_fossils": {
+    "salt": 66666666,
+    "separation": 4,
+    "spacing": 28
+  },
+  "underwater_small_ruins": {
+    "salt": 11223344,
+    "separation": 4,
+    "spacing": 20
+  },
+  "underwater_warm_small_ruins": {
+    "salt": 44332211,
+    "separation": 4,
+    "spacing": 20
+  }
+}

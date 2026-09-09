@@ -1,0 +1,42 @@
+{
+  "cave": {
+    "spacing": 12,
+    "separation": 11,
+    "salt": 10000079
+  },
+  "cottage": {
+    "spacing": 224,
+    "separation": 112,
+    "salt": 51511
+  },
+  "little_house": {
+    "spacing": 44,
+    "separation": 39,
+    "salt": 66293
+  },
+  "swamp_hut": {
+    "spacing": 42,
+    "separation": 21,
+    "salt": 992963
+  },
+  "swamp_ruin_1": {
+    "spacing": 16,
+    "separation": 14,
+    "salt": 1000003
+  },
+  "swamp_ruin_2": {
+    "spacing": 27,
+    "separation": 14,
+    "salt": 10000019
+  },
+  "swamp_ruin_3": {
+    "spacing": 32,
+    "separation": 14,
+    "salt": 1000191
+  },
+  "tree_stump": {
+    "spacing": 24,
+    "separation": 18,
+    "salt": 65003
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ancient_crypt": {
+    "spacing": 180,
+    "separation": 113,
+    "salt": 265792644
+  },
+  "ancient_dungeon": {
+    "spacing": 23,
+    "separation": 7,
+    "salt": 512345192
+  },
+  "ancient_ruins": {
+    "spacing": 135,
+    "separation": 68,
+    "salt": 165916912
+  },
+  "ancient_towers": {
+    "spacing": 113,
+    "separation": 90,
+    "salt": 283426912
+  },
+  "field_stone_ruins": {
+    "spacing": 169,
+    "separation": 79,
+    "salt": 558158731
+  },
+  "field_stone_ruins_rocks": {
+    "spacing": 90,
+    "separation": 61,
+    "salt": 144788412
+  },
+  "level_one_ruins": {
+    "spacing": 169,
+    "separation": 90,
+    "salt": 328134491
+  },
+  "level_three_ruins": {
+    "spacing": 192,
+    "separation": 102,
+    "salt": 198312145
+  },
+  "level_two_ruins": {
+    "spacing": 180,
+    "separation": 113,
+    "salt": 697518742
+  },
+  "lost_soul_city": {
+    "spacing": 180,
+    "separation": 147,
+    "salt": 121229911
+  },
+  "ocean_fortress_main": {
+    "spacing": 158,
+    "separation": 113,
+    "salt": 765385625
+  },
+  "ocean_ruins": {
+    "spacing": 113,
+    "separation": 90,
+    "salt": 937485621
+  },
+  "pumpkin_ruins": {
+    "spacing": 113,
+    "separation": 90,
+    "salt": 248791439
+  },
+  "rare_ruin": {
+    "spacing": 810,
+    "separation": 293,
+    "salt": 341891341
+  },
+  "underground_structures": {
+    "spacing": 135,
+    "separation": 79,
+    "salt": 641781942
+  }
+}

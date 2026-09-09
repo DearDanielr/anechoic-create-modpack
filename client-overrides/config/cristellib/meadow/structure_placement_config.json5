@@ -1,0 +1,27 @@
+{
+  "chalet": {
+    "spacing": 86,
+    "separation": 39,
+    "salt": 22427392
+  },
+  "chapel": {
+    "spacing": 130,
+    "separation": 48,
+    "salt": 205745294
+  },
+  "logging_camp": {
+    "spacing": 53,
+    "separation": 49,
+    "salt": 42069
+  },
+  "monument": {
+    "spacing": 35,
+    "separation": 18,
+    "salt": 62069
+  },
+  "observation_post": {
+    "spacing": 58,
+    "separation": 30,
+    "salt": 6942069
+  }
+}

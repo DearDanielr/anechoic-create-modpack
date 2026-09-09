@@ -1,0 +1,28 @@
+{
+  "old_manor": {
+    "spacing": 74,
+    "separation": 28,
+    "salt": 22427392
+  },
+  "mid_rare_ruin": {
+    "spacing": 53,
+    "separation": 28,
+    "salt": 42069420,
+    "frequency": 0.7
+  },
+  "ruin_quiet": {
+    "spacing": 41,
+    "separation": 18,
+    "salt": 6942069
+  },
+  "ruin": {
+    "spacing": 53,
+    "separation": 18,
+    "salt": 992963
+  },
+  "outcast_villager": {
+    "spacing": 77,
+    "separation": 25,
+    "salt": 420
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "mage": {
+    "salt": 2358902,
+    "separation": 28,
+    "spacing": 49
+  },
+  "rare_dungeon": {
+    "salt": 1368854222,
+    "separation": 49,
+    "spacing": 63
+  },
+  "rare_village": {
+    "salt": 1798451114,
+    "separation": 25,
+    "spacing": 63
+  },
+  "regular": {
+    "salt": 2358902,
+    "separation": 27,
+    "spacing": 48
+  },
+  "rubble": {
+    "salt": 920145,
+    "separation": 35,
+    "spacing": 46
+  },
+  "underground": {
+    "salt": 838677219,
+    "separation": 5,
+    "spacing": 16
+  },
+  "underground_dungeon": {
+    "salt": 1722690696,
+    "separation": 9,
+    "spacing": 13
+  }
+}
