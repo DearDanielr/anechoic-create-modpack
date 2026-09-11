@@ -1,0 +1,22 @@
+{
+  "full_server_startup": true,
+  "new_biomes_registered": {
+    "natures_spirit": 51,
+    "yungscavebiomes": 2,
+    "gardens_of_the_dead": 2
+  },
+  "biome_source_samples_per_dimension": 24000,
+  "generated_sample_chunks": 8,
+  "overworld_ground_height_sample": {
+    "min": -10,
+    "max": 275,
+    "samples": 225
+  },
+  "prior_structure_sets_verified": 150,
+  "prior_structure_frequency_mismatches": 0,
+  "existing_libraries_compatible_without_upgrades": true,
+  "limitations": [
+    "A bounded terrain sample, not a full world survey or multiplayer flight/combat test.",
+    "Iris and Distant Horizons alter cave sandstorm fog visuals."
+  ]
+}

@@ -2,13 +2,34 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.9.1 makes large structures 50% rarer and other structures 25% rarer.** Existing 1.9.0 clients
-can still join the server; this update changes configuration only. Older
-1.7.1 and 1.8.0 instances do not contain the matching mod set.
+**1.10.0 adds larger landscapes and new surface, cave, and Nether biomes.**
+Install this version to join the updated server; 1.9.x clients lack the new
+biome blocks and mobs.
 
-[Download 1.9.1 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.1/Create-Aeronautics-Vanilla-Plus-1.9.1-Prism.zip) · [Download 1.9.1 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.1/Create-Aeronautics-Vanilla-Plus-1.9.1.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.9.1)
+[Download 1.10.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.10.0/Create-Aeronautics-Vanilla-Plus-1.10.0-Prism.zip) · [Download 1.10.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.10.0/Create-Aeronautics-Vanilla-Plus-1.10.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.10.0)
 
-## What's new in 1.9.1
+## What's new in 1.10.0
+
+| Addition | What you can explore |
+| --- | --- |
+| Tectonic 3.0.26 | Large mountain ranges, valleys, deep oceans, canyons and underground rivers |
+| Nature's Spirit 2.2.5 | 51 biomes, including redwood and wisteria forests, lavender fields and tropical shores |
+| YUNG's Cave Biomes 3.1.1 | Frosted Caves and Lost Caves, with their own creatures, blocks and discoveries |
+| Gardens of the Dead 5.0.2 | Soulblight Forest and Whistling Woods in the Nether |
+
+Tectonic runs alongside the existing Terralith using its bundled compatibility
+support. Standard world height and existing mod versions are retained. All
+four additions are installed on the server and included in the client pack.
+Nature's Spirit, YUNG's Cave Biomes, and Gardens of the Dead require clients
+to update because they add blocks or mobs.
+
+The reduced structure rates and RPG/boss balance remain. Nature's Spirit's
+villages use the same reduced placement chance as existing villages. New
+biomes appear in newly generated chunks. Existing Nether and End terrain is
+preserved. Sodium's fog occlusion is disabled for the cave sandstorm visuals;
+Iris/Distant Horizons can still alter those effects.
+
+## Structure rates from 1.9.1
 
 Large structure placement chances are **50% lower** than 1.9.0, including
 When Dungeons Arise, Seven Seas, The Lost Castle, major boss dungeons, large
@@ -74,7 +95,7 @@ function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the 1.9.1 Prism ZIP or MRPACK. Import it as a separate instance
+   and select the 1.10.0 Prism ZIP or MRPACK. Import it as a separate instance
    to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. Join `play.create.anechoicaxolotl.com`.
@@ -89,12 +110,12 @@ resource pack for an installation that already has these exact mod versions.
 
 The production server also includes the pack's matching JEI 19.51.0.418, which
 supports the **Move Items** / **+** recipe-transfer button. This fixes the
-"server must have JEI installed" message. Existing 1.9.0 and 1.9.1 clients
-already include this exact version; no client update is needed for this fix.
+"server must have JEI installed" message. The current pack includes this exact version. The biome additions in 1.10.0
+require a client update even though JEI itself is unchanged.
 
-1.9.1 contains **173 client mods and one shader**. Compared with 1.7.1, the
-update adds 43 mods and removes Delivery Quests and ADQ Tweaks; all remaining
-original versions are retained. The matching server runs 139 mod files,
+1.10.0 contains **177 client mods and one shader**. Compared with 1.7.1, the
+update adds 47 mods and removes Delivery Quests and ADQ Tweaks; all remaining
+original versions are retained. The matching server runs 143 mod files,
 including its existing server tools. No mod or shader binaries are
 redistributed by this repository: the manifests reference upstream downloads.
 

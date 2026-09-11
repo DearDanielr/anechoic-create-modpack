@@ -64,6 +64,7 @@ d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8  mods/ferriteco
 40f6129d9124bcd0052a348813425fc223b7b6ef16b81928f5edcb89ea62cfd1  mods/friendsandfoes-neoforge-4.0.27+mc1.21.1.jar
 4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050  mods/fzzy_config-0.7.6+1.21+neoforge.jar
 4e6f7084110c78180b327e134ce3f43420abe58b0719e6963b2e9e26a99bab5f  mods/Galosphere-1.21.1-1.5.5-NeoForge.jar
+c01e40d219ac1ed9fd9f94a54766a6b4e0d0e38592f33f8d1d4dc4b8120b3c2b  mods/gardens-of-the-dead-neoforge-5.0.2.jar
 7cca42528d6432c7979c56a0340b8a2b0af672411c03668beaa95d663fd03c48  mods/gazebo-neoforge-2.2.0+1.21.1.jar
 5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba  mods/geckolib-neoforge-1.21.1-4.9.2.jar
 204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0  mods/gravestone-neoforge-1.21.1-1.0.40.jar
@@ -101,6 +102,7 @@ db3e2fe22f3432fbd3f61dcb895a0c38644c99621f96bf51421089d7dd801ed5  mods/moonlight
 c2d0c4d5acd62912bc6fe428fedfd642588e03d98f6fa4902591e1cbfc165ce2  mods/more_rpg_library-neoforge-2.7.2+1.21.1.jar
 68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b  mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar
 ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a  mods/mru-1.0.19+LTS+1.21.1+neoforge.jar
+d6dcc323e389c2687bacec1457d677ef69be0f1d32ce08d448242c479e57b074  mods/natures_spirit-2.2.5-1.21.1.jar
 0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c  mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar
 88dffb8cf37dbfbcffd856cd3400b7d5aaa1551a0bbb0e7445f4cd41f2404778  mods/nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar
 a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f  mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar
@@ -150,6 +152,7 @@ c18460025b07bc05fdc95bf62621c6b56f45e4eeb1c319f12787f39eb9315ea9  mods/structure
 78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67  mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar
 72f945468ee8c3bc42aa1f222aad2c5a1a52d3a1c3c26068fad228764caf7db2  mods/supplementaries-1.21.1-3.9.7-neoforge.jar
 270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f  mods/t_and_t-fabric-neoforge-1.13.11.jar
+36aa9b4a8c399c9943460a7a58d91402b6d671c10ab11b099c2ee1d75af232ea  mods/tectonic-3.0.26-neoforge-21.1.jar
 0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9  mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar
 d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546  mods/Terralith_1.21.1_v2.6.2_Neoforge.jar
 f7c4592c593901cf14de8fc24e9252fd1a959e6559964ce128bc8e2c8660c8ca  mods/tide-neoforge-1.21.1-2.1.1.jar
@@ -170,5 +173,6 @@ a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0  mods/YungsBett
 5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff  mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar
 cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02  mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar
 a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58  mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar
+7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20  mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar
 c33b99e8976dfeb0aeb1afcc2ad8e65c7310532ae5ccc38c75317d672dc95e6f  mods/zume-1.2.2.jar
 46ed277127f04bac69af03effa897815bd20af959023784fa12a003d31425dfe  shaderpacks/ComplementaryReimagined_r5.9.zip

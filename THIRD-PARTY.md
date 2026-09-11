@@ -77,6 +77,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Friends&Foes (Forge/NeoForge)](https://modrinth.com/mod/friends-and-foes-forge) | neoforge-4.0.27+mc1.21.1 | CC-BY-NC-ND-4.0 |
 | [Fzzy Config](https://modrinth.com/mod/fzzy-config) | 0.7.6+1.21+neoforge | [LicenseRef-TDL-M](https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified) |
 | [Galosphere](https://modrinth.com/mod/galosphere) | 1.21.1-1.5.5 | LicenseRef-All-Rights-Reserved |
+| [Gardens of the Dead](https://modrinth.com/mod/gardens-of-the-dead) | 5.0.2 | MIT |
 | [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
 | [Geckolib](https://modrinth.com/mod/geckolib) | 4.9.2 | MIT |
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | neoforge-1.21.1-1.0.40 | LicenseRef-All-Rights-Reserved |
@@ -109,6 +110,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | 1.21-2.26.1-neoforge | BSD-3-Clause |
 | [MRU](https://modrinth.com/mod/mru) | 1.0.19+LTS+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.21.1-3.4.0-neoforge | CC-BY-NC-SA-4.0 |
+| [Nature's Spirit](https://modrinth.com/mod/natures-spirit) | 2.2.5-1.21.1 | [LicenseRef-Natures-Spirit-License-](https://github.com/Team-Hibiscus/NatureSpirit/blob/master/LICENSE) |
 | [Nemo's Inventory Sorting](https://modrinth.com/mod/nemos-inventory-sorting) | 1.21.1-1.8.2.1 | [LicenseRef-All-Rights-Reserved](https://github.com/NemoNotFound/NemosInventorySorting?tab=License-1-ov-file) |
 | [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) | 1.12.4 | [LicenseRef-tr7zw-Protective-License](https://github.com/tr7zw/NotEnoughAnimations/blob/main/LICENSE) |
 | [Nullscape](https://modrinth.com/mod/nullscape) | 1.2.14 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) |
@@ -135,7 +137,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Runes](https://modrinth.com/mod/runes) | 1.3.2+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
 | [Sable](https://modrinth.com/mod/sable) | 2.0.5+mc1.21.1 | [LicenseRef-PolyForm-Shield-License-1.0.0](https://github.com/ryanhcode/sable/blob/main/LICENSE.md) |
 | [Searchables](https://modrinth.com/mod/searchables) | 1.0.2 | MIT |
-| [ShatterLib | OctoLib](https://modrinth.com/mod/shatterbyte-lib) | 0.6.2 | LicenseRef-All-Rights-Reserved |
+| [ShatterLib \| OctoLib](https://modrinth.com/mod/shatterbyte-lib) | 0.6.2 | LicenseRef-All-Rights-Reserved |
 | [Shield API](https://modrinth.com/mod/shield-api) | 2.2.0-neoforge | MIT |
 | [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.1.9+1.21.1-neoforge | MIT |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-1.21.1-2.6.22 | LicenseRef-All-Rights-Reserved |
@@ -157,6 +159,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Structure Pool API](https://modrinth.com/mod/structure-pool-api) | 1.2.1+1.21.1-neoforge | MIT |
 | [Subtle Effects](https://modrinth.com/mod/subtle-effects) | 1.14.3 | LicenseRef-All-Rights-Reserved |
 | [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.21.1-3.9.7 | [LicenseRef-Supplementaries-Team-License](https://github.com/MehVahdJukaar/Supplementaries-Team-License/blob/main/LICENSE.md) |
+| [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.26-neoforge-21.1 | MIT |
 | [TerraBlender](https://modrinth.com/mod/terrablender) | 4.1.0.8 | [LGPL-3.0-only](https://github.com/Glitchfiend/TerraBlender/blob/TB-1.19.3-2.1.x/LICENSE) |
 | [Terralith](https://modrinth.com/mod/terralith) | 2.6.2 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) |
 | [The Lost Castle](https://modrinth.com/mod/the-lost-castle) | 2.1.0 | LGPL-3.0-only |
@@ -179,4 +182,5 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) | 1.21.1-NeoForge-3.1.5 | LGPL-3.0-only |
 | [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments) | 1.21.1-NeoForge-4.1.2 | LGPL-3.0-only |
 | [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) | 1.21.1-NeoForge-5.1.3 | LGPL-3.0-only |
+| [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes) | 1.21.1-NeoForge-3.1.1 | LicenseRef-All-Rights-Reserved |
 | [Zume](https://modrinth.com/mod/zume) | 1.2.2 | [OSL-3.0](https://github.com/Nolij/Zume/raw/master/LICENSE) |

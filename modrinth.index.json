@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.9.1",
+  "versionId": "1.10.0",
   "name": "Create Aeronautics - Vanilla Plus",
-  "summary": "Create, exploration and RPG classes with balanced bosses; large structures 50% rarer and other structures 25% rarer.",
+  "summary": "Tectonic landscapes, Nature\u2019s Spirit biomes, YUNG\u2019s Cave Biomes and Gardens of the Dead; rare large structures and balanced RPG progression.",
   "files": [
     {
       "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",
@@ -996,6 +996,21 @@
       "fileSize": 35545869
     },
     {
+      "path": "mods/gardens-of-the-dead-neoforge-5.0.2.jar",
+      "hashes": {
+        "sha512": "862a8a7cc63f80a07a626b91d9d1319c8fbb71610ad2b525b6af955bcd0622cfd39c16fe2b0376f6c71cf2a02dc0568b3540812bbb79518399bb475160d75183",
+        "sha1": "a53907122062aa7c12a99f9ee3fffe03acba62f3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lg1TPRFm/versions/YfbXE0Lc/gardens-of-the-dead-neoforge-5.0.2.jar"
+      ],
+      "fileSize": 11891302
+    },
+    {
       "path": "mods/gazebo-neoforge-2.2.0+1.21.1.jar",
       "hashes": {
         "sha1": "0ddeb9ccb65c8d78037c6858673c60d226013d00",
@@ -1549,6 +1564,21 @@
         "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
       ],
       "fileSize": 243953
+    },
+    {
+      "path": "mods/natures_spirit-2.2.5-1.21.1.jar",
+      "hashes": {
+        "sha512": "c99aa5b451c2a8cc3cdb7c36fb9bdf81a8b69bf54956c2897bd7af7478bb1b870cbffc7f3d9e78679e3ed457f2a543daef8e232bef7f130cf7facd2931810a1b",
+        "sha1": "153679dc2dd4601b40beed834799ba1d7c05b08a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WBvnqHfV/versions/MGjl80vc/natures_spirit-2.2.5-1.21.1.jar"
+      ],
+      "fileSize": 18614161
     },
     {
       "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
@@ -2286,6 +2316,21 @@
       "fileSize": 3553006
     },
     {
+      "path": "mods/tectonic-3.0.26-neoforge-21.1.jar",
+      "hashes": {
+        "sha512": "7f91f69f6985cf5d0533dc0a645286f40b9625e0a67e405969d153497923a9b2e6b88e436b017eb969a1fbe28d02850d87152a06f2c01dc55779814912d770ef",
+        "sha1": "3114da043f1b54fe32b2801266a27a8f477d7325"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lWDHr9jE/versions/vNrkxC3z/tectonic-3.0.26-neoforge-21.1.jar"
+      ],
+      "fileSize": 461675
+    },
+    {
       "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "hashes": {
         "sha512": "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50",
@@ -2584,6 +2629,21 @@
         "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
       ],
       "fileSize": 461244
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "hashes": {
+        "sha512": "9e88b5109e06c791f27c23df16ebd2c535b5b27cf9b748ee6a439dccf3e560d32110b81ace5ea7dcca2992394b439223c20e4f2688e80e263efa103e2b154024",
+        "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cs7iGVq1/versions/HYGqXWqQ/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+      ],
+      "fileSize": 13006621
     },
     {
       "path": "mods/zume-1.2.2.jar",

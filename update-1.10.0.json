@@ -1,0 +1,47 @@
+{
+  "version": "1.10.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.249",
+  "added_mods": [
+    {
+      "name": "Tectonic",
+      "version": "3.0.26-neoforge-21.1",
+      "modrinth_version": "vNrkxC3z",
+      "filename": "tectonic-3.0.26-neoforge-21.1.jar",
+      "sha512": "7f91f69f6985cf5d0533dc0a645286f40b9625e0a67e405969d153497923a9b2e6b88e436b017eb969a1fbe28d02850d87152a06f2c01dc55779814912d770ef"
+    },
+    {
+      "name": "Nature's Spirit",
+      "version": "2.2.5-1.21.1",
+      "modrinth_version": "MGjl80vc",
+      "filename": "natures_spirit-2.2.5-1.21.1.jar",
+      "sha512": "c99aa5b451c2a8cc3cdb7c36fb9bdf81a8b69bf54956c2897bd7af7478bb1b870cbffc7f3d9e78679e3ed457f2a543daef8e232bef7f130cf7facd2931810a1b"
+    },
+    {
+      "name": "YUNG's Cave Biomes",
+      "version": "1.21.1-NeoForge-3.1.1",
+      "modrinth_version": "HYGqXWqQ",
+      "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "sha512": "9e88b5109e06c791f27c23df16ebd2c535b5b27cf9b748ee6a439dccf3e560d32110b81ace5ea7dcca2992394b439223c20e4f2688e80e263efa103e2b154024"
+    },
+    {
+      "name": "Gardens of the Dead",
+      "version": "5.0.2",
+      "modrinth_version": "YfbXE0Lc",
+      "filename": "gardens-of-the-dead-neoforge-5.0.2.jar",
+      "sha512": "862a8a7cc63f80a07a626b91d9d1319c8fbb71610ad2b525b6af955bcd0622cfd39c16fe2b0376f6c71cf2a02dc0568b3540812bbb79518399bb475160d75183"
+    }
+  ],
+  "client_mod_count": 177,
+  "server_mod_count": 143,
+  "original_mod_pins_preserved": true,
+  "terrain_settings": "Tectonic defaults with standard -64..320 build limits and nonexperimental terrain.",
+  "new_structure_settings": "Nature\u2019s Spirit villages retain the existing 0.75 placement frequency. All earlier rarity/boss balance settings retained.",
+  "new_biomes": {
+    "natures_spirit": 51,
+    "yungs_cave_biomes": 2,
+    "gardens_of_the_dead": 2
+  },
+  "clients_must_update": true,
+  "client_visual_setting": "Sodium fog occlusion disabled for cave sandstorm rendering."
+}

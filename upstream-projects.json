@@ -639,6 +639,15 @@
     "source": "https://github.com/0rc1nus/Galosphere-Main"
   },
   {
+    "path": "mods/gardens-of-the-dead-neoforge-5.0.2.jar",
+    "title": "Gardens of the Dead",
+    "version": "5.0.2",
+    "project": "https://modrinth.com/mod/gardens-of-the-dead",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/ochotonida/gardens-of-the-dead"
+  },
+  {
     "path": "mods/gazebo-neoforge-2.2.0+1.21.1.jar",
     "title": "Gazebos (RPG Series)",
     "version": "2.2.0+1.21.1-neoforge",
@@ -925,6 +934,15 @@
     "license": "CC-BY-NC-SA-4.0",
     "license_url": null,
     "source": "https://github.com/MattCzyr/NaturesCompass"
+  },
+  {
+    "path": "mods/natures_spirit-2.2.5-1.21.1.jar",
+    "title": "Nature's Spirit",
+    "version": "2.2.5-1.21.1",
+    "project": "https://modrinth.com/mod/natures-spirit",
+    "license": "LicenseRef-Natures-Spirit-License-",
+    "license_url": "https://github.com/Team-Hibiscus/NatureSpirit/blob/master/LICENSE",
+    "source": "https://github.com/Team-Hibiscus/NaturesSpirit"
   },
   {
     "path": "mods/nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar",
@@ -1359,6 +1377,15 @@
     "source": "https://github.com/MehVahdJukaar/Supplementaries"
   },
   {
+    "path": "mods/tectonic-3.0.26-neoforge-21.1.jar",
+    "title": "Tectonic",
+    "version": "3.0.26-neoforge-21.1",
+    "project": "https://modrinth.com/mod/tectonic",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/Apollounknowndev/tectonic"
+  },
+  {
     "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
     "title": "TerraBlender",
     "version": "4.1.0.8",
@@ -1555,6 +1582,15 @@
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/YUNG-GANG/YUNGs-Better-Strongholds"
+  },
+  {
+    "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+    "title": "YUNG's Cave Biomes",
+    "version": "1.21.1-NeoForge-3.1.1",
+    "project": "https://modrinth.com/mod/yungs-cave-biomes",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/yungnickyoung/YUNGs-Cave-Biomes"
   },
   {
     "path": "mods/zume-1.2.2.jar",

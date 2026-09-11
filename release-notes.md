@@ -1,23 +1,26 @@
-Makes large structures **50% rarer** and other configured structures **25%
-rarer** compared with 1.9.0. The stronger reduction covers When Dungeons Arise,
-Seven Seas, The Lost Castle, major boss dungeons, large End ships, fortresses,
-mansions, and monuments.
+Adds larger landscapes and new biomes to explore:
 
-This is a configuration update. **Existing 1.9.0 clients can still join.**
-The server controls multiplayer structure generation. New imports receive the
-same settings for their own worlds.
+- **Tectonic 3.0.26:** large mountain ranges, canyons, valleys, deep oceans,
+  and underground rivers, with built-in Terralith compatibility.
+- **Nature's Spirit 2.2.5:** 51 surface biomes, including redwood and wisteria
+  forests, lavender fields, tropical shores, and white cliffs.
+- **YUNG's Cave Biomes 3.1.1:** Frosted Caves and Lost Caves with new creatures
+  and underground discoveries.
+- **Gardens of the Dead 5.0.2:** two new Nether forest biomes.
 
-- Applies to new structure starts in newly generated terrain.
-- Preserves existing structures and the established boss and loot balance.
-- Keeps the same 173 client mods, one shader, and 138 server mods.
-- Retains existing spacing, salts, structure toggles, and Moog multipliers.
+**Everyone needs this updated client pack to join.** Import it as a separate
+Prism instance to preserve older saves. Use Java 21 and up to 8 GiB of memory.
+The server runs the same additions. JEI's Move Items button is supported.
 
-The Prism ZIP and MRPACK download the pinned mods from Modrinth. Use Java 21
-and up to 8 GiB of client memory.
+Large structure placement remains 50% lower than 1.9.0; other configured
+structures remain 25% lower. New Nature's Spirit villages inherit the reduced
+village rate. Existing RPG, boss, gear, and mining balance stays in place.
 
-The full server pack passed isolated startup, and runtime checks verified all
-150 active configured structure sets with no mismatched placement chances.
+Contains 177 client mods, one shader, and 143 server mods. All earlier mod
+versions are retained. The import files fetch pinned official Modrinth downloads;
+no third-party mod binaries are rehosted here.
 
-Server update: the dedicated server now includes the pack's matching JEI
-19.51.0.418 to support the Move Items / + recipe-transfer button. Existing
-1.9.0 and 1.9.1 clients already contain it; no new download is needed.
+Validation: full-pack startup passed, all 55 added biomes registered, eight
+representative chunks generated, and all 150 earlier structure settings matched.
+Terrain samples included mountains reaching Y 275. This is not a full-world
+survey or multiplayer flight test.
