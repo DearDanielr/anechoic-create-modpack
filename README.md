@@ -2,14 +2,28 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.8.0 is installed on disk and waiting for the Create server's next restart.**
+**1.9.0 is installed on disk and waiting for the Create server's next restart.**
 Keep using [1.7.1](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.7.1)
 to join the currently running server. The new release is marked as a prerelease
 until the server update is activated.
 
-[Download 1.8.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.8.0/Create-Aeronautics-Vanilla-Plus-1.8.0-Prism.zip) · [Download 1.8.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.8.0/Create-Aeronautics-Vanilla-Plus-1.8.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.8.0)
+[Download 1.9.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0-Prism.zip) · [Download 1.9.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.9.0)
 
-## What's new in 1.8.0
+## What's new in 1.9.0
+
+Create: Diesel Generators, Apotheosis (including its Attributes, Enchanting and
+Spawners modules), VeinMiner, and GraveStone Mod are added to the exploration
+and RPG pack below. The balance profile limits gear stacking and strengthens
+major bosses from Legendary Monsters, Aquamirae, and Illager Invasion.
+
+Hold **Sneak** while mining ore to mine up to **16 connected blocks** with the
+correct pickaxe. Each extra block costs durability and hunger, with a two-second
+cooldown between veins. Graves protect items for their owner; return to the
+place of death to recover them.
+
+See [BALANCE.md](BALANCE.md) for the exact boss stats, gear limits, and test scope.
+
+## Exploration and RPG classes
 
 The pack adds When Dungeons Arise, The Lost Castle, Seven Seas, and Lootr.
 Lootr gives each player their own loot from eligible containers. New structures
@@ -39,8 +53,9 @@ Table provide access to spells. Existing controls are preserved.
 Druids 1.2 and More RPG Classes - Skill Tree 1.1.2 use removed Spell Engine APIs
 and are excluded. The latter is an optional addon; the main RPG Series Skill
 Tree is included. Death Knights and Spellblades and Such have no native
-NeoForge 1.21.1 releases. Exact versions and exclusions are recorded in
-[update-1.8.0.json](update-1.8.0.json).
+NeoForge 1.21.1 releases. RPG versions and exclusions are recorded in
+[update-1.8.0.json](update-1.8.0.json); the new additions are in
+[update-1.9.0.json](update-1.9.0.json).
 
 Aeronautics Delivery Quests, ADQ Tweaks, and the server notification addon are
 removed. Delivery Quests caused confirmed quest-sync packet errors that kicked
@@ -50,7 +65,7 @@ will no longer function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the Prism ZIP or MRPACK. Import 1.8.0 as a separate instance so
+   and select the Prism ZIP or MRPACK. Import 1.9.0 as a separate instance so
    1.7.1 remains available while the server update is pending.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. After the server update is activated, join `play.create.anechoicaxolotl.com`.
@@ -63,10 +78,10 @@ resource pack for an installation that already has these exact mod versions.
 
 ## Contents and checks
 
-1.8.0 contains **162 client mods and one shader**. The update adds 32 mods and
-removes Delivery Quests and ADQ Tweaks; all remaining original versions are
-retained. The matching server has 127 mod files after restart, including its
-existing server tools. No mod or shader binaries are
+1.9.0 contains **173 client mods and one shader**. Compared with 1.7.1, the
+update adds 43 mods and removes Delivery Quests and ADQ Tweaks; all remaining
+original versions are retained. The matching server has 138 mod files after
+restart, including its existing server tools. No mod or shader binaries are
 redistributed by this repository: the manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.

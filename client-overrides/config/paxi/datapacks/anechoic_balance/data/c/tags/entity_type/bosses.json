@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aquamirae:captain_cornelia",
+      "required": false
+    },
+    {
+      "id": "illagerinvasion:invoker",
+      "required": false
+    }
+  ]
+}

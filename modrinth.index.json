@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.8.0",
+  "versionId": "1.9.0",
   "name": "Create Aeronautics - Vanilla Plus",
-  "summary": "Exploration and RPG class update; multiplayer activation pending the Create server restart.",
+  "summary": "Diesel, Apotheosis, ore vein mining and gravestones; boss and RPG balance profile; server restart pending.",
   "files": [
     {
       "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",
@@ -49,6 +49,66 @@
         "https://cdn.modrinth.com/data/fM515JnW/versions/RZyxhsqY/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
       ],
       "fileSize": 84811632
+    },
+    {
+      "path": "mods/Apotheosis-1.21.1-8.8.0.jar",
+      "hashes": {
+        "sha512": "8ae7848b2a01d407be31f4e3879cb6ec6a10310f1786625dcd5026c350a854ace0fe097388293bdd4f2ce7fe2d44aab007f08475e5c59c7f21de80137b9aa643",
+        "sha1": "1e4837fcaf24fe73dba1082656736d872690b303"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rqFWfVlz/versions/nEWTeHFF/Apotheosis-1.21.1-8.8.0.jar"
+      ],
+      "fileSize": 7156644
+    },
+    {
+      "path": "mods/ApothicAttributes-1.21.1-2.10.1.jar",
+      "hashes": {
+        "sha1": "cdcf0c7a6398913efa76b5b4e41e4fb67033156e",
+        "sha512": "ecfa2c6b9eca3793977a29d57961a0f552cfc1995ee5d7c6e6dcca888d4c427c4d940c484ebd13c6d2db7c7341d4da0d212e6897ec1f26f0e5c093ce508d4858"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DGaH8Rh0/versions/Xtaunf84/ApothicAttributes-1.21.1-2.10.1.jar"
+      ],
+      "fileSize": 323265
+    },
+    {
+      "path": "mods/ApothicEnchanting-1.21.1-1.6.2.jar",
+      "hashes": {
+        "sha1": "2623af251d3ddeae1d8e710afa76afe753834bab",
+        "sha512": "e03864db8d32a60116dd9b870e7ba7f62564a85180c6b35cfd486deffef4c586254c527c45ab3c0750a4224d732d2c389d2ae84dbfae99ca7f70ee2ba9e7f9c6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/pL8MtgqY/versions/2vH7csNR/ApothicEnchanting-1.21.1-1.6.2.jar"
+      ],
+      "fileSize": 5415666
+    },
+    {
+      "path": "mods/ApothicSpawners-1.21.1-1.4.0.jar",
+      "hashes": {
+        "sha512": "2fdd49cdb3e6610846c3a746ab0730d6d49412eaf8c21e3d0b9d588d80c8cd1a1d0b7e19ade7fc86fd699ac02e270e5fa01fb5cf106d24a7740692ecc1ad8820",
+        "sha1": "b3be29751daea738e691db8949cce079e5aae3be"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DfxVkOAO/versions/pWfxcfO2/ApothicSpawners-1.21.1-1.4.0.jar"
+      ],
+      "fileSize": 129784
     },
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
@@ -501,6 +561,21 @@
       "fileSize": 3328498
     },
     {
+      "path": "mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "hashes": {
+        "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b",
+        "sha512": "1507ebcd07d3185aac3ae6ce768b4d6bab16cb6f39776d25a850c8133a4dc5826b8ddbeca112d76afc64deaa37ec177cac4237c6c34621c4b65e73d83f8ab43f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar"
+      ],
+      "fileSize": 3154746
+    },
+    {
       "path": "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
       "hashes": {
         "sha1": "ed55360f72cd6666a1b191506a6270e05ef1ef49",
@@ -951,6 +1026,21 @@
       "fileSize": 630584
     },
     {
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "hashes": {
+        "sha1": "97230b93af34ac6581ed36b0cc98f6b16b06c04e",
+        "sha512": "5504a222d4085da1898ff6d4dff8eb1821fd14a8caaaac785554277147f984262e63925a411db3f1a34e9c7874652fb6737176bea4c0c3f01243f5eae4ea6eaa"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RYtXKJPr/versions/rMGJpjaM/gravestone-neoforge-1.21.1-1.0.40.jar"
+      ],
+      "fileSize": 322082
+    },
+    {
       "path": "mods/guardvillagers-2.4.12-1.21.1.jar",
       "hashes": {
         "sha512": "2b25eaace0b7ec4ca09ad9c428bd3ee64567bc540bf03e21231b098498a4f95f9f02da5161841e8ec48eabce6e64b49b59995d13a4cebf4efd49feb0dca1e13e",
@@ -1174,6 +1264,21 @@
         "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
       ],
       "fileSize": 7279264
+    },
+    {
+      "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.0+neoforge.jar",
+      "hashes": {
+        "sha512": "fa267dc598338a38cf6033eaae235c2831972cc1a06f6f62c9c8577b702d7dc75a07c29ea572735290a95a4e1a63b618ef15c752b2adf98df387dbb181e63f01",
+        "sha1": "db3fe62f79897378be178ecf351a5e3e93d633d3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1vrSzlao/versions/dlV4uaXo/KotlinLangForge-2.13.0-k2.4.20-3.0%2Bneoforge.jar"
+      ],
+      "fileSize": 8056621
     },
     {
       "path": "mods/legendary_monsters-2.2.2 MC 1.21.1.jar",
@@ -1536,6 +1641,36 @@
       "fileSize": 3114593
     },
     {
+      "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "hashes": {
+        "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+        "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
+      ],
+      "fileSize": 646777
+    },
+    {
+      "path": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "hashes": {
+        "sha512": "ed6a33eb9a4ac6ce4dd0cd03a45aba6068536121ab89cd4040d8c53964d59a7a8ceaee2f3bae13a3df3813eaf8d4fc4f82883e28ac4577b53aa26b750a181699",
+        "sha1": "7140974a26a2cd79cdc7b85ab4e834916eacc7f1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CU0PAyzb/versions/CLZfFbCx/Paxi-1.21.1-NeoForge-5.1.3.jar"
+      ],
+      "fileSize": 102980
+    },
+    {
       "path": "mods/pfsable-1.0.jar",
       "hashes": {
         "sha1": "a216dfce15550c50436012283e49606c67a87e29",
@@ -1564,6 +1699,21 @@
         "https://cdn.modrinth.com/data/KdJhOYVV/versions/EQHGxQAv/Philips-Ruins1.21.1-2.0-NeoForge.jar"
       ],
       "fileSize": 1365582
+    },
+    {
+      "path": "mods/Placebo-1.21.1-9.9.2.jar",
+      "hashes": {
+        "sha512": "e8b4ba06fdbcdef8f936c39e7ba18bbfd326fad8d2512fd6cec80c899001b506a501b1aeac5eef2a1c2d7dd98f89ae3d94fac357c243027d623e59622bd295b5",
+        "sha1": "d44335094cf2db64998cb3ee31e58d8c01e80b4a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar"
+      ],
+      "fileSize": 324058
     },
     {
       "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
@@ -2224,6 +2374,21 @@
         "https://cdn.modrinth.com/data/JtifUr64/versions/2y01mBUy/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
       ],
       "fileSize": 235345
+    },
+    {
+      "path": "mods/veinminer-neoforge-2.11.2+1.21.1.jar",
+      "hashes": {
+        "sha512": "195fdfe9f1358e85218e770c953223825d102f54b5f607857b8893959cd2164a04c921987611a7933592ba89a83aa2bd8f3cec0b1fcf7d87a20b168f88b2cc05",
+        "sha1": "19f67a98cf5e7cfeefb089b5ec31450ac6d5bd53"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OhduvhIc/versions/syKekkIm/veinminer-neoforge-2.11.2%2B1.21.1.jar"
+      ],
+      "fileSize": 616301
     },
     {
       "path": "mods/village_taverns-neoforge-1.3.0+1.21.1.jar",

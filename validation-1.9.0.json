@@ -1,0 +1,23 @@
+{
+  "version": "1.9.0",
+  "verified_import_files": 174,
+  "original_1_8_0_pins_unchanged": 163,
+  "client_mods": 173,
+  "server_mods": 138,
+  "added_mods": 11,
+  "shared_mods": 134,
+  "runtime_boss_health_checks": 5,
+  "enchantment_cap_checks": true,
+  "veinminer_gameplay_checks": true,
+  "all_apotheosis_affixes_and_available_gems_registered": true,
+  "full_multiplayer_playtest": false,
+  "grave_recovery_playtest": false,
+  "mod_binaries_republished": false,
+  "archives_passed": true,
+  "production_restart_performed": false,
+  "final_fresh_world_startup": true,
+  "final_clean_shutdown": true,
+  "production_keep_inventory": false,
+  "server_pack_matches": true,
+  "shared_mods_verified": 134
+}

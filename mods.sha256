@@ -1,6 +1,10 @@
 af9f5188c831c49a2fdcd098958e42a8607982304a9af89f57ddf2aae184c50f  mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar
 a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933  mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar
 07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b  mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar
+11848e1129595d1e9ac302679128364d2fedf2085d9539797c808a9929abf972  mods/Apotheosis-1.21.1-8.8.0.jar
+7f84ee803e9d4fef2858db28f552724dc0ea6c3943db111cc947d70aa2c9c159  mods/ApothicAttributes-1.21.1-2.10.1.jar
+652406bc2e4c2d8488c93d35d38202390897e0ec6b4bc60b4813ce2fb6ad69f6  mods/ApothicEnchanting-1.21.1-1.6.2.jar
+f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe  mods/ApothicSpawners-1.21.1-1.4.0.jar
 38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df  mods/appleskin-neoforge-mc1.21-3.0.9.jar
 a6214c9cfdedea000393a009ffe5fc68a9838fdf5a88d268c039707e5862e1f0  mods/aquamirae-neoforge-1.21.1-7.2.4.jar
 e49a164fa54eae3a14ff93afd4ed7fd5b0e043532985c6608f5b17d1fcbbbac7  mods/archers-neoforge-3.1.1+1.21.1.jar
@@ -31,6 +35,7 @@ f0655f3afac3829d3cda7782f2c64e935fdd7667dda137c108dc9055fc1e5c71  mods/copycats-
 ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a  mods/create-1.21.1-6.0.10.jar
 a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e  mods/create-aeronautics-bundled-1.21.1-1.3.2.jar
 edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e  mods/createdeco-2.1.3.jar
+56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990  mods/createdieselgenerators-1.21.1-1.3.15.jar
 016eaec4445863874b51130a146346f1d862b92f1c4168333fbc219aa1e5d328  mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar
 ed83bea2826667fca80a6a8067f89fe7b97eb8b3213bbcb7f0f4e6a6898c0bc9  mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar
 11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38  mods/cristellib-neoforge-1.21.1-3.1.7.jar
@@ -61,6 +66,7 @@ d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8  mods/ferriteco
 4e6f7084110c78180b327e134ce3f43420abe58b0719e6963b2e9e26a99bab5f  mods/Galosphere-1.21.1-1.5.5-NeoForge.jar
 7cca42528d6432c7979c56a0340b8a2b0af672411c03668beaa95d663fd03c48  mods/gazebo-neoforge-2.2.0+1.21.1.jar
 5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba  mods/geckolib-neoforge-1.21.1-4.9.2.jar
+204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0  mods/gravestone-neoforge-1.21.1-1.0.40.jar
 aab03d59216bd931a05434b2527e0d5b7641793bd0178a9958100579c4f11407  mods/guardvillagers-2.4.12-1.21.1.jar
 6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948  mods/handcrafted-neoforge-1.21.1-4.0.3.jar
 cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b  mods/Highlighter-1.21-neoforge-1.1.11.jar
@@ -76,6 +82,7 @@ ebf500331c07a4c67147f61ad8a5e3b186afa49f70028904a639229fdf40f372  mods/JadeAddon
 e984149ee3275020661f0d691a7e3256df98eede419f2c2833d27f27d26ad7af  mods/journeymap-neoforge-1.21.1-6.0.7.jar
 a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c  mods/kambrik-neoforge-8.0.0-beta.2.jar
 2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139  mods/kotlinforforge-5.12.0-all.jar
+74b0c8ae40d56f3b1ee857f3428353bedb4d70131b5a956cf02f28f5fbbcded0  mods/KotlinLangForge-2.13.0-k2.4.20-3.0+neoforge.jar
 63cd850d2e15b80ffc20cc2319cdac011dd8e675c675a8281bd29376d11a9120  mods/legendary_monsters-2.2.2 MC 1.21.1.jar
 8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493  mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar
 dda4605227be6727668c2768c4f68eecf1de40090a902e4c9545839ee5d01b95  mods/letsdo-bloomingnature-neoforge-1.1.10.jar
@@ -100,8 +107,11 @@ a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f  mods/notenough
 8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae  mods/Nullscape_1.21.x_v1.2.14.jar
 92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38  mods/OctoLib-NEOFORGE-0.6.2+1.21.jar
 4db39abff682d1e707bdc0892e42cc1f8ed371da3b0b77f6b4cf2fc042bdb6a2  mods/paladins-neoforge-3.1.1+1.21.1.jar
+959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993  mods/Patchouli-1.21.1-93-NEOFORGE.jar
+4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7  mods/Paxi-1.21.1-NeoForge-5.1.3.jar
 4a57106efa03a7003da97685be58d0cd415565446111e06ccc6678530c376231  mods/pfsable-1.0.jar
 8a0aaee82b287c22abf4a7ea79e88fdbbe717418a0fbd8e44d4bd86146db9a1a  mods/Philips-Ruins1.21.1-2.0-NeoForge.jar
+1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad  mods/Placebo-1.21.1-9.9.2.jar
 dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92  mods/player-animation-lib-forge-2.0.4+1.21.1.jar
 bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b  mods/polymorph-neoforge-1.1.0+1.21.1.jar
 ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a  mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar
@@ -146,6 +156,7 @@ f7c4592c593901cf14de8fc24e9252fd1a959e6559964ce128bc8e2c8660c8ca  mods/tide-neof
 242d7ed8d7b78e12be37c09d38ed0dc25e55d3af9d5f4395400b7c57cb30381b  mods/tipsmod-neoforge-1.21.1-21.1.3.jar
 a14397c847899e7567c2810434a911be4b1e5cb89c51a6bd91fb6f30735e2996  mods/tlc-neoforge-1.21.1-2.1.0.jar
 f7d6811b58a432e4d7f0e80bfcc48210f7a8da251d1c3e528a73c26d0f2a56ed  mods/TravelersTitles-1.21.1-NeoForge-5.1.3.jar
+2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4  mods/veinminer-neoforge-2.11.2+1.21.1.jar
 d253da1816c49494d916be389c67ae4102ae5a1f00922f3a7fc66c53fae01133  mods/village_taverns-neoforge-1.3.0+1.21.1.jar
 63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac  mods/voicechat-neoforge-1.21.1-2.6.22.jar
 3e98508a4c6469b812283dd7b2a17df2fbaa9a5d0a6e0c9267cbac2c26f5b67a  mods/witcher-class-mod-neoforge-3.1.2+1.21.1.jar

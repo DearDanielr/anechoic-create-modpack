@@ -1,27 +1,27 @@
-The exploration and RPG class update for Minecraft 1.21.1 / NeoForge 21.1.249.
+Adds Create: Diesel Generators, Apotheosis and its required modules, VeinMiner,
+and GraveStone Mod to the exploration and RPG pack.
 
-**Server activation is pending.** The files are installed, but the server has
-not been restarted. Keep using v1.7.1 for the currently running server. Import
-this version as a separate Prism instance; it will be needed after activation.
+**Server restart pending.** Keep using v1.7.1 to join the currently running
+server. Import this release as a separate Prism instance for use after the
+update is activated. No production Minecraft restart has been performed.
 
-- Exploration: When Dungeons Arise, The Lost Castle, Seven Seas, and Lootr.
-- Classes: Archers, Wizards, Paladins & Priests, Rogues & Warriors, Bard,
-  Berserker, Archers Expansion, Forcemaster, Elemental Wizards, and Witcher.
-- Spell Engine 1.10.5, the main RPG Series Skill Tree, class equipment, Runes,
-  Jewelry, Additional Jewelry, Arsenal, Armory, Gazebos, and Village Taverns.
-- Removed Aeronautics Delivery Quests after confirmed quest-sync disconnects,
-  along with ADQ Tweaks and its server notification addon. The removal becomes
-  effective at the next server restart.
-- F7 opens the skill tree. Existing controls and remaining original mod versions are kept.
+- VeinMiner: hold Sneak, correct pickaxe, ores only, 16 blocks maximum,
+  two-second cooldown, durability and hunger costs.
+- Boss balance covers Legendary Monsters, Aquamirae, and Illager Invasion.
+  Five major bosses gain 50% health; Legendary Monsters' three major bosses
+  also use 15% more damage. Native boss protections are retained.
+- Apotheosis combat bonuses are reduced, sockets capped at two, execute
+  disabled, and enchantment caps enforced against excessive stacking.
+- Turbocharged engines consume fuel in proportion to their speed increase.
+- Owner-protected graves require returning to the death location.
+- Includes the previous four exploration mods and compatible RPG classes.
+  Delivery Quests and its addons remain removed.
 
-Contains 162 client mods, with 32 additions and two removals from v1.7.1. Use Java 21 and up to
-8 GiB of client memory. Both the Prism ZIP and MRPACK fetch pinned upstream
-Modrinth files. The Configs ZIP contains only the matching settings and pack.
+See [the balance profile](https://github.com/DearDanielr/anechoic-create-modpack/blob/v1.9.0/BALANCE.md)
+for exact limits, boss stats, and verification scope. Runtime boss-stat,
+enchantment, and simulated-mining checks passed in an isolated server;
+multiplayer combat and grave recovery have not been playtested.
 
-Druids 1.2 and More RPG Classes - Skill Tree 1.1.2 are excluded because they
-reference removed Spell Engine APIs. The main RPG Series Skill Tree is included.
-Death Knights and Spellblades and Such do not have native NeoForge 1.21.1 builds.
-
-The full server mod set passed isolated startup and saved-world restart checks.
-Multiplayer and class-balance playtesting have not been performed. New world
-structures require newly generated chunks; existing builds and terrain remain.
+Contains 173 client mods plus one shader. Use Java 21 and up to 8 GiB of
+client memory. Both Prism ZIP and MRPACK fetch pinned files from Modrinth.
+The Configs ZIP contains only matching settings and original pack resources.

@@ -1,0 +1,334 @@
+{
+  "version": "1.9.0",
+  "modified_apotheosis_data_files": 53,
+  "combat_attribute_bonus_multiplier": 0.5,
+  "socket_limit": 2,
+  "execute_affix_enabled": false,
+  "current_hp_damage_max_per_bonus": 0.025,
+  "life_steal_max_per_bonus": 0.04,
+  "enchantment_caps": {
+    "combat_roll:acrobat": 5,
+    "minecraft:aqua_affinity": 1,
+    "farmersdelight:backstabbing": 3,
+    "minecraft:bane_of_arthropods": 5,
+    "apothic_enchanting:berserkers_fury": 1,
+    "minecraft:binding_curse": 1,
+    "minecraft:blast_protection": 4,
+    "apothic_enchanting:boon_of_the_earth": 5,
+    "minecraft:breach": 4,
+    "create:capacity": 3,
+    "apothic_spawners:capturing": 3,
+    "apothic_enchanting:chainsaw": 1,
+    "critical_strike:chance": 5,
+    "minecraft:channeling": 1,
+    "apothic_enchanting:chromatic": 1,
+    "apothic_enchanting:crescendo_of_bolts": 5,
+    "spell_power:critical_chance": 5,
+    "spell_power:critical_damage": 5,
+    "critical_strike:damage": 5,
+    "minecraft:density": 5,
+    "minecraft:depth_strider": 3,
+    "dungeons_arise:discharge": 3,
+    "minecraft:efficiency": 6,
+    "apothic_enchanting:endless_quiver": 1,
+    "spell_power:energize": 5,
+    "galosphere:enfeeble": 1,
+    "dungeons_arise:ensnaring": 4,
+    "minecraft:feather_falling": 4,
+    "minecraft:fire_aspect": 2,
+    "minecraft:fire_protection": 4,
+    "minecraft:flame": 1,
+    "minecraft:fortune": 3,
+    "minecraft:frost_walker": 2,
+    "apothic_enchanting:growth_serum": 1,
+    "spell_power:haste": 5,
+    "apothic_enchanting:icy_thorns": 3,
+    "minecraft:impaling": 5,
+    "minecraft:infinity": 1,
+    "apothic_enchanting:infusion": 1,
+    "minecraft:knockback": 2,
+    "apothic_enchanting:knowledge_of_the_ages": 3,
+    "apothic_enchanting:life_mending": 3,
+    "dungeons_arise:lolths_curse": 1,
+    "combat_roll:longfooted": 4,
+    "minecraft:looting": 3,
+    "minecraft:loyalty": 3,
+    "minecraft:luck_of_the_sea": 3,
+    "minecraft:lure": 3,
+    "spell_power:magic_protection": 4,
+    "minecraft:mending": 1,
+    "apothic_enchanting:miners_fervor": 5,
+    "combat_roll:multi_roll": 3,
+    "minecraft:multishot": 1,
+    "apothic_enchanting:natures_blessing": 3,
+    "minecraft:piercing": 4,
+    "create:potato_recovery": 3,
+    "minecraft:power": 5,
+    "minecraft:projectile_protection": 4,
+    "minecraft:protection": 4,
+    "minecraft:punch": 2,
+    "dungeons_arise:purification": 3,
+    "minecraft:quick_charge": 3,
+    "apothic_enchanting:rebounding": 3,
+    "apothic_enchanting:reflective_defenses": 5,
+    "minecraft:respiration": 3,
+    "minecraft:riptide": 3,
+    "galosphere:rupture": 3,
+    "apothic_enchanting:scavenger": 3,
+    "minecraft:sharpness": 5,
+    "apothic_enchanting:shield_bash": 4,
+    "galosphere:sifting": 3,
+    "witcher_rpg:sign_intensity": 5,
+    "minecraft:silk_touch": 1,
+    "minecraft:smite": 5,
+    "minecraft:soul_speed": 3,
+    "spell_power:soulfrost": 5,
+    "spell_engine:spell_infinity": 1,
+    "spell_power:spell_power": 5,
+    "apothic_enchanting:stable_footing": 1,
+    "supplementaries:stasis": 1,
+    "more_rpg_classes:stonebloom": 5,
+    "spell_power:sunfire": 5,
+    "galosphere:sustain": 3,
+    "minecraft:sweeping_edge": 3,
+    "minecraft:swift_sneak": 3,
+    "apothic_enchanting:tempting": 1,
+    "minecraft:thorns": 3,
+    "more_rpg_classes:typhoon": 5,
+    "minecraft:unbreaking": 4,
+    "minecraft:vanishing_curse": 1,
+    "dungeons_arise:voltaic_shot": 1,
+    "minecraft:wind_burst": 3,
+    "apothic_enchanting:worker_exploitation": 1
+  },
+  "veinminer": {
+    "ores_only": true,
+    "max_blocks": 16,
+    "cooldown_ticks": 40,
+    "exhaustion_per_extra_block": 0.4,
+    "durability": true,
+    "correct_tool": true,
+    "activation": "sneak"
+  },
+  "bosses": {
+    "legendary_major_health_multiplier": 1.5,
+    "legendary_major_damage_multiplier": 1.15,
+    "cornelia_health": 450,
+    "invoker_health_multiplier": 1.5,
+    "existing_damage_caps_preserved": true
+  },
+  "data_files": {
+    "data/apotheosis/affixes/armor/attribute/adamantine.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/attribute/blessed.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/attribute/ironforged.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/attribute/spiritual.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/attribute/steel_touched.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/attribute/timekeeping.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/blast_forged.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/blockading.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/deflective.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/feathery.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/grounded.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/dmg_reduction/runed.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:damage_reduction"
+    },
+    "data/apotheosis/affixes/armor/mob_effect/bolstering.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:mob_effect"
+    },
+    "data/apotheosis/affixes/melee/executing.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:executing"
+    },
+    "data/apotheosis/affixes/melee/attribute/berserking.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/giant_slaying.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/glacial.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/graceful.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/infernal.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/intricate.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/lacerating.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/murderous.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/piercing.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/vampiric.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/melee/attribute/violent.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/ranged/attribute/agile.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/ranged/attribute/elven.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/shield/attribute/ironforged.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/shield/attribute/steel_touched.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/affixes/shield/mob_effect/galvanizing.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:mob_effect"
+    },
+    "data/apotheosis/affixes/shield/mob_effect/reinforcing.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:mob_effect"
+    },
+    "data/apotheosis/affixes/weapon/attribute/shredding.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:attribute"
+    },
+    "data/apotheosis/gems/core/ballast.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/brawlers.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/breach.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/combatant.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/guardian.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/lunar.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/samurai.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/slipstream.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/solar.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/tyrannical.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/core/warlord.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/overworld/royalty.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/overworld/verdant_ruin.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/the_end/mageslayer.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/the_nether/blood_lord.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/the_nether/inferno.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/the_nether/molten_breach.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/twilight/forest.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/gems/twilight/queen.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:gem"
+    },
+    "data/apotheosis/rarities/epic.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:rarity"
+    },
+    "data/apotheosis/rarities/mythic.json": {
+      "source": "Apotheosis 8.8.0",
+      "type": "apotheosis:rarity"
+    }
+  }
+}

@@ -15,6 +15,10 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Additional Jewelry](https://modrinth.com/mod/additional-rpg-jewelry) | 2.3.1+1.21.1-neoforge | MIT |
 | [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) | 1.6.8 | CC-BY-NC-ND-4.0 |
 | [AmbientSounds](https://modrinth.com/mod/ambientsounds) | 6.3.8 | LGPL-3.0-only |
+| [Apotheosis](https://modrinth.com/mod/apotheosis) | 1.21.1-8.8.0 | MIT |
+| [Apothic Attributes](https://modrinth.com/mod/apothic-attributes) | 1.21.1-2.10.1 | MIT |
+| [Apothic-Enchanting](https://modrinth.com/mod/apothic-enchanting) | 1.21.1-1.6.2 | MIT |
+| [Apothic-Spawners](https://modrinth.com/mod/apothic-spawners) | 1.21.1-1.4.0 | MIT |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | 3.0.9+mc1.21 | Unlicense |
 | [Aquamirae](https://modrinth.com/mod/aquamirae) | 7.2.4 | [LicenseRef-Obscuria-Modding](https://obscurialithium.github.io/license/) |
 | [Archers (RPG Series)](https://modrinth.com/mod/archers) | 3.1.1+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
@@ -46,6 +50,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) | 1.3.2+mc1.21.1 | [LicenseRef-Simulated-Project-License](https://github.com/Creators-of-Aeronautics/Simulated-Project/blob/main/LICENSE.md) |
 | [Create Deco](https://modrinth.com/mod/create-deco) | 2.1.3 | MIT |
 | [Create: Copycats+](https://modrinth.com/mod/copycats) | 3.0.8+mc.1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
+| [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators) | 1.21.1-1.3.15 | MIT |
 | [CreativeCore](https://modrinth.com/mod/creativecore) | 2.13.44 | LGPL-3.0-only |
 | [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) | 4.0.6 | LicenseRef-All-Rights-Reserved |
 | [Cristel Lib](https://modrinth.com/mod/cristel-lib) | neoforge-1.21.1-3.1.7 | [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
@@ -74,6 +79,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Galosphere](https://modrinth.com/mod/galosphere) | 1.21.1-1.5.5 | LicenseRef-All-Rights-Reserved |
 | [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
 | [Geckolib](https://modrinth.com/mod/geckolib) | 4.9.2 | MIT |
+| [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | neoforge-1.21.1-1.0.40 | LicenseRef-All-Rights-Reserved |
 | [Guard Villagers](https://modrinth.com/mod/guard-villagers) | 2.4.12 | [LicenseRef-Custom](https://github.com/seymourimadeit/guardvillagers/blob/main/LICENSE) |
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | 4.0.3 | [LicenseRef-Terrarium-Licence](https://github.com/terrarium-earth/Handcrafted/blob/1.19.2/LICENSE) |
 | [Hopo Better Underwater Ruins](https://modrinth.com/mod/hopo-better-underwater-ruins) | 1.2.1b | LGPL-3.0-or-later |
@@ -89,6 +95,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Just Enough Items (JEI)](https://modrinth.com/mod/jei) | 19.51.0.418 | MIT |
 | [Kambrik](https://modrinth.com/mod/kambrik) | 8.0.0-beta.2 | MPL-2.0 |
 | [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) | 5.12.0 | LGPL-2.1-only |
+| [KotlinLangForge](https://modrinth.com/mod/kotlin-lang-forge) | 2.13.0-k2.4.20-3.0+neoforge | GPL-3.0-only |
 | [Legendary Monsters](https://modrinth.com/mod/legendary-monsters) | 2.2.2 | LicenseRef-All-Rights-Reserved |
 | [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) | 1.5.5 | CC-BY-NC-ND-4.0 |
 | [Lithium](https://modrinth.com/mod/lithium) | mc1.21.1-0.15.4-neoforge | LGPL-3.0-only |
@@ -106,7 +113,10 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) | 1.12.4 | [LicenseRef-tr7zw-Protective-License](https://github.com/tr7zw/NotEnoughAnimations/blob/main/LICENSE) |
 | [Nullscape](https://modrinth.com/mod/nullscape) | 1.2.14 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) |
 | [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests) | 3.1.1+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
+| [Patchouli](https://modrinth.com/mod/patchouli) | 1.21.1-93-neoforge | CC-BY-NC-SA-3.0 |
+| [Paxi](https://modrinth.com/mod/paxi) | 1.21.1-NeoForge-5.1.3 | LGPL-3.0-only |
 | [Philips Ruins](https://modrinth.com/mod/philips-ruins) | 1.21.1-2.0 | LicenseRef-All-Rights-Reserved |
+| [Placebo](https://modrinth.com/mod/placebo) | 1.21.1-9.9.2 | MIT |
 | [playerAnimator](https://modrinth.com/mod/playeranimator) | 2.0.4+1.21.1-forge | MIT |
 | [Polymorph](https://modrinth.com/mod/polymorph) | 1.1.0+1.21.1 | LGPL-3.0-or-later |
 | [Presence Footsteps (NeoForge)](https://modrinth.com/mod/pf-neoforge) | 1.21.1-1.12.0-beta.1 | MIT |
@@ -154,6 +164,7 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Tips](https://modrinth.com/mod/tips) | 21.1.3 | LGPL-2.1-only |
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | 1.13.11 | CC-BY-NC-SA-4.0 |
 | [Traveler's Titles](https://modrinth.com/mod/travelers-titles) | 1.21.1-NeoForge-5.1.3 | LGPL-3.0-only |
+| [VeinMiner](https://modrinth.com/mod/veinminer) | 2.11.2 | AGPL-3.0-only |
 | [Village Taverns (RPG Series)](https://modrinth.com/mod/village-taverns) | 1.3.0+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |
 | [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise) | 2.1.68 | LicenseRef-All-Rights-Reserved |
 | [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas) | 1.0.4 | LicenseRef-All-Rights-Reserved |
