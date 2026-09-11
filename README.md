@@ -29,7 +29,8 @@ utility remain. See [BALANCE.md](BALANCE.md) for the full balance scope.
 The existing structure rarity and class balance remain. New biomes appear
 in newly generated chunks. Sodium's fog occlusion remains disabled for cave
 sandstorm visuals; Iris/Distant Horizons can still alter those effects.
-Chunky is paused following the terrain repair.
+Chunky is pregenerating a 5,000-block-radius circle around the saved spawn.
+Storage monitoring pauses pregeneration if free space becomes low.
 
 ## Structure rates from 1.9.1
 
