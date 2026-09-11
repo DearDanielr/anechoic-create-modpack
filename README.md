@@ -123,11 +123,19 @@ redistributed by this repository: the manifests reference upstream downloads.
 `modrinth.index.json` pins URLs, sizes, and SHA-1/SHA-512 hashes; `mods.sha256`
 records an additional inventory. `SHA256SUMS.txt` accompanies the release assets.
 
-The complete server mod set passed isolated startup and saved-world restart
-checks. Production was activated on September 11, 2026 UTC after a verified
-full offline backup. The balance datapack and Apotheosis registries loaded,
-and read-only server checks returned 20 TPS with Chunky paused. This does not
-replace client, multiplayer, flight, or class-balance playtesting. Existing
-optional-integration warnings remain.
+The complete server mod set passed isolated startup and terrain-generation
+checks. Production 1.10.0 was activated on September 11, 2026 UTC after a verified
+full offline backup. The requested Overworld reset preserved every chunk touching
+the 400-block circle around the saved spawn. A fresh Chunky task is generating
+the surrounding terrain with the new mods. Existing Nether and End chunks remain.
+The balance datapack and all 94 Apotheosis affixes and 21 gems loaded. The updated
+client joined successfully with voice chat connected; Create reported 20 TPS
+while Chunky was running. Flight, boss fights, and the JEI transfer button have
+not been playtested in this update.
+
+The client may log a Tectonic/Forgified Fabric API `fabric:overlays` metadata
+warning. Datapack loading and the observed multiplayer join continued successfully;
+singleplayer world creation has not been separately verified. Existing optional
+integration warnings also remain.
 
 Run `python3 build.py` to reproduce the import archives and checksums in `dist/`.

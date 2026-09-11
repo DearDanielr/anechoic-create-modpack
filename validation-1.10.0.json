@@ -17,6 +17,23 @@
   "existing_libraries_compatible_without_upgrades": true,
   "limitations": [
     "A bounded terrain sample, not a full world survey or multiplayer flight/combat test.",
-    "Iris and Distant Horizons alter cave sandstorm fog visuals."
-  ]
+    "Iris and Distant Horizons alter cave sandstorm fog visuals.",
+    "Client Tectonic/Forgified Fabric API overlay metadata warning did not prevent datapack loading or the observed multiplayer join; singleplayer world creation is unverified."
+  ],
+  "production_activation": {
+    "date_utc": "2026-09-11",
+    "server_mods": 143,
+    "startup_ready": true,
+    "biomes_located_live": true,
+    "balance_datapack_loaded": true,
+    "apotheosis_affixes": 94,
+    "apotheosis_gems": 21,
+    "client_join_observed": true,
+    "voice_connection_observed": true,
+    "chunky_fresh_task_running": true,
+    "overall_tps_sample": 20.0,
+    "overall_mspt_sample": 23.519,
+    "website_version_and_downloads_verified": true,
+    "full_offline_backup_verified_on_two_hosts": true
+  }
 }
