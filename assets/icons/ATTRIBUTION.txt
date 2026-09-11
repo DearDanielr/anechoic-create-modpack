@@ -1,0 +1,20 @@
+Download and server icons identify the corresponding applications and games.
+They do not imply endorsement.
+
+Prism Launcher: Prism Launcher Contributors, CC BY-SA 4.0.
+Original SVG; displayed at a smaller size.
+https://prismlauncher.org/wiki/branding/
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Modrinth and CurseForge: their respective owners.
+Original SVG paths from modrinth/code, colored green/orange in their SVG fill attributes.
+https://github.com/modrinth/code/tree/6ccabcbbe76362f71b4a7f5b7dd0853d5ed09b6e/packages/assets
+
+Create: simibubi and the Create team; original project avatar.
+https://www.curseforge.com/minecraft/mc-mods/create
+
+Minecraft: Mojang Studios / Microsoft; original minecraft.net favicon.
+https://www.minecraft.net/
+
+GitHub: GitHub Octicons; MIT license in GITHUB-LICENSE.txt.
+Exact source URLs and checksums are recorded in sources.json; the recorded SHA-256 values describe the original source bytes.

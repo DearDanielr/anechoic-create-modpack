@@ -1,0 +1,74 @@
+{
+  "version": "1.11.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.249",
+  "curseforge_downloads_verified": 178,
+  "download_bytes": 608768847,
+  "byte_identical_to_modrinth": 165,
+  "equivalent_upstream_builds": 13,
+  "equivalence_checks": {
+    "mods/ApothicAttributes-1.21.1-2.10.1.jar": {
+      "files_checked": 204,
+      "timestamp_only_manifests": 1
+    },
+    "mods/archers-neoforge-3.1.1+1.21.1.jar": {
+      "files_checked": 601,
+      "generated_build_ids": 1
+    },
+    "mods/elemental_wizards_rpg-neoforge-3.1.1+1.21.1.jar": {
+      "files_checked": 713,
+      "generated_build_ids": 1
+    },
+    "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar": {
+      "files_checked": 3045,
+      "nested_archives": 45,
+      "reordered_access_transformers": 3
+    },
+    "mods/kotlinforforge-5.12.0-all.jar": {
+      "files_checked": 96,
+      "nested_archives": 3
+    },
+    "mods/paladins-neoforge-3.1.1+1.21.1.jar": {
+      "files_checked": 766,
+      "nested_archives": 1,
+      "generated_build_ids": 1
+    },
+    "mods/rogues-neoforge-3.1.1+1.21.1.jar": {
+      "files_checked": 606,
+      "generated_build_ids": 1
+    },
+    "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar": {
+      "files_checked": 826,
+      "timestamp_only_manifests": 1
+    },
+    "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar": {
+      "files_checked": 40,
+      "timestamp_only_manifests": 1
+    },
+    "mods/sophisticatedcore-1.21.1-1.4.90.2299.jar": {
+      "files_checked": 823,
+      "timestamp_only_manifests": 1
+    },
+    "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar": {
+      "files_checked": 1879,
+      "timestamp_only_manifests": 1
+    },
+    "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar": {
+      "files_checked": 53,
+      "timestamp_only_manifests": 1
+    },
+    "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
+      "files_checked": 83,
+      "timestamp_only_manifests": 1
+    }
+  },
+  "renamed_identical_file": {
+    "from": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+    "to": "Terralith_1.21.x_v2.6.2.jar"
+  },
+  "overrides_verified": 298,
+  "archive_sha256": "79d7cfda3df3eada8b7700556010d86c2c3acf036f6d9abb7ca88b2f44454d93",
+  "archive_bytes": 240518,
+  "curseforge_app_import_tested": false,
+  "minecraft_launched_or_restarted": false
+}

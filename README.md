@@ -5,7 +5,7 @@ Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 **1.11.0 removes Tectonic and expands the existing Spell Engine classes with
 Relics (RPG Series).** Install this version to join the updated server.
 
-[Download 1.11.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-Prism.zip) · [Download 1.11.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.0)
+[<img src="assets/icons/prism.svg" width="18" height="18" alt="Prism"> Download 1.11.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-Prism.zip) · [<img src="assets/icons/modrinth.svg" width="18" height="18" alt="Modrinth"> Download 1.11.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0.mrpack) · [<img src="assets/icons/curseforge.svg" width="18" height="18" alt="CurseForge"> Download 1.11.0 CurseForge ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-CurseForge.zip) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.0)
 
 ## What's new in 1.11.0
 
@@ -104,7 +104,22 @@ function. Saved quest files are retained in the server backup.
 3. Join `play.create.anechoicaxolotl.com`.
    New players can use the [whitelist site](https://whitelist.anechoicaxolotl.com/).
 
-Both import formats download the pinned files from Modrinth. An internet
+For the **CurseForge app**, choose **Minecraft → Import → Import Profile .zip**
+and select the **CurseForge ZIP**. Use a separate profile, Java 21, and up to
+8 GiB of memory. The Prism ZIP is intended for Prism; select the archive for
+your launcher. [CurseForge's import instructions](https://support.curseforge.com/support/solutions/articles/9000197912)
+show the app's import screen.
+
+The Prism ZIP and MRPACK download the pinned files from Modrinth.
+The CurseForge ZIP downloads all 177 mods and one shader from CurseForge,
+with the same pack settings, resource pack, and controls. No manual mod copying
+is needed. All 178 downloads were verified; 165 match the Modrinth files byte
+for byte, and 13 use upstream builds of the same versions with only verified
+build metadata, generated build IDs, ZIP packaging, or access-rule ordering
+differences. CurseForge's Terralith JAR has a different filename but identical
+bytes. Actual import in the CurseForge app has not been tested.
+
+ An internet
 connection is required. The Prism ZIP uses Prism's Modrinth importer; it is
 not an offline bundle. The Configs ZIP contains settings, controls, and the
 resource pack for an installation that already has these exact mod versions.
@@ -122,8 +137,11 @@ are redistributed by this repository: manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.
 `modrinth.index.json` pins URLs, sizes, and SHA-1/SHA-512 hashes; `mods.sha256`
-records an additional inventory. `SHA256SUMS.txt` accompanies the release assets.
+records an additional inventory. `curseforge-lock.json` pins CurseForge project/file
+IDs and hashes; `curseforge-validation-1.11.0.json` records the conversion checks. `SHA256SUMS.txt` accompanies the release assets.
 
 Validation and deployment results are recorded in `validation-1.11.0.json`.
 Automated compatibility and terrain samples do not establish that every
 structure, class combination, or boss fight has been playtested.
+
+Download icon sources and attribution are in [assets/icons/ATTRIBUTION.txt](assets/icons/ATTRIBUTION.txt).

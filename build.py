@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Prism, MRPACK and configuration downloads from the pinned manifest."""
+"""Build Prism, MRPACK, CurseForge and configuration downloads from the pinned manifest."""
 from pathlib import Path, PurePosixPath
 import hashlib
 import json
@@ -49,7 +49,39 @@ def main():
     shutil.copyfile(mrpack, prism)
     config = DIST / (stem + '-Configs.zip')
     write_zip(config, [(name.removeprefix('client-overrides/'), source) for name, source in overlays])
-    assets = [prism, mrpack, config]
+    lock = json.loads((ROOT / 'curseforge-lock.json').read_text())
+    assert lock['version'] == index['versionId']
+    assert lock['minecraft'] == index['dependencies']['minecraft']
+    assert lock['neoforge'] == index['dependencies']['neoforge']
+    assert {f['path'] for f in lock['files']} == {f['path'] for f in index['files']}
+    assert len(lock['files']) == len(index['files'])
+    assert len({(f['projectID'], f['fileID']) for f in lock['files']}) == len(lock['files'])
+    originals = {f['path']: f for f in index['files']}
+    for f in lock['files']:
+        assert f['modrinth_sha1'] == originals[f['path']]['hashes']['sha1']
+        assert PurePosixPath(f['fileName']).name == f['fileName'] and '..' not in f['fileName']
+        assert f['fileName'].endswith(PurePosixPath(f['path']).suffix)
+        if not f['path'].startswith('mods/'):
+            assert f['fileName'] == PurePosixPath(f['path']).name
+        assert isinstance(f['projectID'], int) and f['projectID'] > 0
+        assert isinstance(f['fileID'], int) and f['fileID'] > 0
+    manifest = {
+        'minecraft': {'version': lock['minecraft'], 'modLoaders': [
+            {'id': 'neoforge-' + lock['neoforge'], 'primary': True}]},
+        'manifestType': 'minecraftModpack', 'manifestVersion': 1,
+        'name': index['name'], 'version': index['versionId'], 'author': 'DearDanielr',
+        'files': [{'projectID': f['projectID'], 'fileID': f['fileID'], 'required': True}
+                  for f in lock['files']],
+        'overrides': 'overrides',
+    }
+    manifest_path = DIST / 'manifest.json'
+    manifest_path.write_text(json.dumps(manifest, indent=2) + '\n')
+    curseforge = DIST / (stem + '-CurseForge.zip')
+    write_zip(curseforge, [('manifest.json', manifest_path),
+        *[('overrides/' + name.removeprefix('client-overrides/'), source)
+          for name, source in overlays]])
+    manifest_path.unlink()
+    assets = [prism, mrpack, config, curseforge]
     checksums = ''.join(hashlib.file_digest(p.open('rb'), 'sha256').hexdigest() + '  ' + p.name + '\n' for p in assets)
     (DIST / 'SHA256SUMS.txt').write_text(checksums)
     for path in assets:

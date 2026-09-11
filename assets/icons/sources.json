@@ -1,0 +1,44 @@
+[
+  {
+    "file": "prism.svg",
+    "url": "https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/0db8771a2805b21a10721bdfd2364757f26cd369/program_info/org.prismlauncher.PrismLauncher.svg",
+    "sha256": "2aa61eb4041e301366fad368b6d8507b1c6aa7c8629e66fb1df43b3be5a1a184",
+    "bytes": 3478
+  },
+  {
+    "file": "modrinth.svg",
+    "url": "https://raw.githubusercontent.com/modrinth/code/6ccabcbbe76362f71b4a7f5b7dd0853d5ed09b6e/packages/assets/branding/logo.svg",
+    "sha256": "754d1bf51ccf5ead929a96ca33bd70cd86683aba77753f6b744d4bc4dd4f8bf4",
+    "bytes": 1710
+  },
+  {
+    "file": "curseforge.svg",
+    "url": "https://raw.githubusercontent.com/modrinth/code/6ccabcbbe76362f71b4a7f5b7dd0853d5ed09b6e/packages/assets/external/curseforge.svg",
+    "sha256": "fed69c71b32919d9633e4fb3b254d9395029231d49dad3222d8efd92c4dfee62",
+    "bytes": 414
+  },
+  {
+    "file": "create.png",
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1065/184/256/256/638598725500886388.png",
+    "sha256": "a3ef0e49eec36c1488d1b367b02e25ef02817d205d0fe9273d049a3826d7dc1e",
+    "bytes": 68460
+  },
+  {
+    "file": "vanilla.png",
+    "url": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon-96x96.png",
+    "sha256": "562ccc07c94250047dba25b77388194b71c4439a9ecd249fe0d3212e3ababd37",
+    "bytes": 756
+  },
+  {
+    "file": "PRISM-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/0db8771a2805b21a10721bdfd2364757f26cd369/COPYING.md",
+    "sha256": "9729ddd9ab5896561e181ef8e1d4271f938e4f9716df0053aa6ccc41381fd40e",
+    "bytes": 20326
+  },
+  {
+    "file": "MODRINTH-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/modrinth/code/6ccabcbbe76362f71b4a7f5b7dd0853d5ed09b6e/COPYING.md",
+    "sha256": "973d2b9a4038f48389e1b310ea31675003f01b67f5f771184573f23c3c0a643b",
+    "bytes": 899
+  }
+]
