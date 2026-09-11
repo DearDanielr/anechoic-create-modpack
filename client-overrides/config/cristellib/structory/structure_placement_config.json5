@@ -1,28 +1,33 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "old_manor": {
     "spacing": 74,
     "separation": 28,
-    "salt": 22427392
+    "salt": 22427392,
+    "frequency": 0.5
   },
   "mid_rare_ruin": {
     "spacing": 53,
     "separation": 28,
     "salt": 42069420,
-    "frequency": 0.7
+    "frequency": 0.525
   },
   "ruin_quiet": {
     "spacing": 41,
     "separation": 18,
-    "salt": 6942069
+    "salt": 6942069,
+    "frequency": 0.75
   },
   "ruin": {
     "spacing": 53,
     "separation": 18,
-    "salt": 992963
+    "salt": 992963,
+    "frequency": 0.75
   },
   "outcast_villager": {
     "spacing": 77,
     "separation": 25,
-    "salt": 420
+    "salt": 420,
+    "frequency": 0.75
   }
 }

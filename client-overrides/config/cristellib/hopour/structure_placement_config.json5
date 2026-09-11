@@ -1,32 +1,39 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "minecraft:ocean_ruins": {
     "salt": 14357621,
     "separation": 11,
-    "spacing": 34
+    "spacing": 34,
+    "frequency": 0.75
   },
   "minecraft:shipwrecks": {
     "salt": 165745295,
     "separation": 46,
-    "spacing": 62
+    "spacing": 62,
+    "frequency": 0.75
   },
   "underwater_city": {
     "salt": 77777777,
     "separation": 67,
-    "spacing": 74
+    "spacing": 74,
+    "frequency": 0.5
   },
   "underwater_fossils": {
     "salt": 66666666,
     "separation": 4,
-    "spacing": 28
+    "spacing": 28,
+    "frequency": 0.75
   },
   "underwater_small_ruins": {
     "salt": 11223344,
     "separation": 4,
-    "spacing": 20
+    "spacing": 20,
+    "frequency": 0.75
   },
   "underwater_warm_small_ruins": {
     "salt": 44332211,
     "separation": 4,
-    "spacing": 20
+    "spacing": 20,
+    "frequency": 0.75
   }
 }

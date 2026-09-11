@@ -1,7 +1,9 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "ribbit_village": {
     "salt": 2937541,
     "separation": 12,
-    "spacing": 38
+    "spacing": 38,
+    "frequency": 0.75
   }
 }

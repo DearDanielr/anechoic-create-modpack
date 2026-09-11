@@ -1,27 +1,33 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "skeleton_dungeons": {
     "salt": 732581671,
     "separation": 30,
-    "spacing": 60
+    "spacing": 60,
+    "frequency": 0.5
   },
   "small_dungeons": {
     "salt": 34239823,
     "separation": 8,
-    "spacing": 13
+    "spacing": 13,
+    "frequency": 0.75
   },
   "small_nether_dungeons": {
     "salt": 998767517,
     "separation": 13,
-    "spacing": 21
+    "spacing": 21,
+    "frequency": 0.75
   },
   "spider_dungeons": {
     "salt": 596523129,
     "separation": 29,
-    "spacing": 58
+    "spacing": 58,
+    "frequency": 0.5
   },
   "zombie_dungeons": {
     "salt": 280667671,
     "separation": 32,
-    "spacing": 63
+    "spacing": 63,
+    "frequency": 0.5
   }
 }

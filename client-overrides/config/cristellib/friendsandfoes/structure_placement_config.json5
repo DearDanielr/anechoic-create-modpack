@@ -1,22 +1,27 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "citadel": {
     "salt": 878514152,
     "separation": 14,
-    "spacing": 28
+    "spacing": 28,
+    "frequency": 0.75
   },
   "iceologer_cabin": {
     "salt": 516979219,
     "separation": 18,
-    "spacing": 70
+    "spacing": 70,
+    "frequency": 0.75
   },
   "illusioner_shack": {
     "salt": 365262534,
     "separation": 18,
-    "spacing": 70
+    "spacing": 70,
+    "frequency": 0.75
   },
   "illusioner_training_grounds": {
     "salt": 819729564,
     "separation": 18,
-    "spacing": 70
+    "spacing": 70,
+    "frequency": 0.75
   }
 }

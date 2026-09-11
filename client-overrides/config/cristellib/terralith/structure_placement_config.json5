@@ -1,37 +1,45 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "mage": {
     "salt": 2358902,
     "separation": 28,
-    "spacing": 49
+    "spacing": 49,
+    "frequency": 0.75
   },
   "rare_dungeon": {
     "salt": 1368854222,
     "separation": 49,
-    "spacing": 63
+    "spacing": 63,
+    "frequency": 0.75
   },
   "rare_village": {
     "salt": 1798451114,
     "separation": 25,
-    "spacing": 63
+    "spacing": 63,
+    "frequency": 0.75
   },
   "regular": {
     "salt": 2358902,
     "separation": 27,
-    "spacing": 48
+    "spacing": 48,
+    "frequency": 0.75
   },
   "rubble": {
     "salt": 920145,
     "separation": 35,
-    "spacing": 46
+    "spacing": 46,
+    "frequency": 0.75
   },
   "underground": {
     "salt": 838677219,
     "separation": 5,
-    "spacing": 16
+    "spacing": 16,
+    "frequency": 0.75
   },
   "underground_dungeon": {
     "salt": 1722690696,
     "separation": 9,
-    "spacing": 13
+    "spacing": 13,
+    "frequency": 0.75
   }
 }

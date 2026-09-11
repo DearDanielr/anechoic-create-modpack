@@ -1,12 +1,15 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "galleons": {
     "salt": 121047156,
     "separation": 34,
-    "spacing": 55
+    "spacing": 55,
+    "frequency": 0.5
   },
   "road_signs": {
     "salt": 431041526,
     "separation": 18,
-    "spacing": 34
+    "spacing": 34,
+    "frequency": 0.75
   }
 }

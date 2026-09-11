@@ -1,6 +1,7 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "mineshafts": {
-    "frequency": 0.00177515,
+    "frequency": 0.0013313625,
     "salt": 593751784,
     "separation": 0,
     "spacing": 1

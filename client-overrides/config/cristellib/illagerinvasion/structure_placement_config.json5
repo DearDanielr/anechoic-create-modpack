@@ -1,11 +1,13 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "firecaller_hut": {
     "salt": 169476076,
     "separation": 49,
-    "spacing": 74
+    "spacing": 74,
+    "frequency": 0.75
   },
   "illager_fort": {
-    "frequency": 0.2,
+    "frequency": 0.1,
     "salt": 169476082,
     "separation": 49,
     "spacing": 74
@@ -13,16 +15,19 @@
   "illusioner_tower": {
     "salt": 169476081,
     "separation": 49,
-    "spacing": 74
+    "spacing": 74,
+    "frequency": 0.5
   },
   "labyrinth": {
     "salt": 169476079,
     "separation": 46,
-    "spacing": 84
+    "spacing": 84,
+    "frequency": 0.5
   },
   "sorcerer_hut": {
     "salt": 169476080,
     "separation": 25,
-    "spacing": 32
+    "spacing": 32,
+    "frequency": 0.75
   }
 }

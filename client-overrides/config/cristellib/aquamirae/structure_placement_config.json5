@@ -1,12 +1,15 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "surface": {
     "spacing": 7,
     "separation": 0,
-    "salt": 9191766080
+    "salt": 9191766080,
+    "frequency": 0.5
   },
   "shipwreck": {
     "spacing": 11,
     "separation": 2,
-    "salt": 165745295
+    "salt": 165745295,
+    "frequency": 0.5
   }
 }

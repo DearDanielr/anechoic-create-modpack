@@ -1,12 +1,15 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "forgotten_ruins": {
     "spacing": 45,
     "separation": 12,
-    "salt": 87964965
+    "salt": 87964965,
+    "frequency": 0.5
   },
   "pink_salt_shrine": {
     "spacing": 21,
     "separation": 12,
-    "salt": 9237591
+    "salt": 9237591,
+    "frequency": 0.75
   }
 }

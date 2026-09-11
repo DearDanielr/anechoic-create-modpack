@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.9.0",
+  "versionId": "1.9.1",
   "name": "Create Aeronautics - Vanilla Plus",
-  "summary": "Diesel, Apotheosis, ore vein mining and gravestones; boss and RPG balance profile; server restart pending.",
+  "summary": "Create, exploration and RPG classes with balanced bosses; large structures 50% rarer and other structures 25% rarer.",
   "files": [
     {
       "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",

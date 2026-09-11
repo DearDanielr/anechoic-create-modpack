@@ -1,11 +1,13 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "other": {
     "salt": 213742069,
     "separation": 28,
-    "spacing": 56
+    "spacing": 56,
+    "frequency": 0.75
   },
   "towers": {
-    "frequency": 0.2,
+    "frequency": 0.15,
     "salt": 213742069,
     "separation": 21,
     "spacing": 84
@@ -13,6 +15,7 @@
   "towns": {
     "salt": 213742069,
     "separation": 17,
-    "spacing": 69
+    "spacing": 69,
+    "frequency": 0.75
   }
 }

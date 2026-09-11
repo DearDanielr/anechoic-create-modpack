@@ -2,12 +2,23 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.9.0 is live on the Create server.** Download this version to join; older
+**1.9.1 makes large structures 50% rarer and other structures 25% rarer.** Existing 1.9.0 clients
+can still join the server; this update changes configuration only. Older
 1.7.1 and 1.8.0 instances do not contain the matching mod set.
 
-[Download 1.9.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0-Prism.zip) · [Download 1.9.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.9.0)
+[Download 1.9.1 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.1/Create-Aeronautics-Vanilla-Plus-1.9.1-Prism.zip) · [Download 1.9.1 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.1/Create-Aeronautics-Vanilla-Plus-1.9.1.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.9.1)
 
-## What's new in 1.9.0
+## What's new in 1.9.1
+
+Large structure placement chances are **50% lower** than 1.9.0, including
+When Dungeons Arise, Seven Seas, The Lost Castle, major boss dungeons, large
+End ships, fortresses, mansions, and monuments. Other configured structure
+sets have **25% lower** placement chances. Existing structures remain in
+place; the change applies to newly generated terrain. Spacing, boss difficulty,
+loot, mod versions, and existing Moog multipliers are retained. Exact per-set
+settings are in [structure-density-1.9.1.json](structure-density-1.9.1.json).
+
+## Additions in 1.9.0
 
 Create: Diesel Generators, Apotheosis (including its Attributes, Enchanting and
 Spawners modules), VeinMiner, and GraveStone Mod are added to the exploration
@@ -63,7 +74,7 @@ function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the 1.9.0 Prism ZIP or MRPACK. Import it as a separate instance
+   and select the 1.9.1 Prism ZIP or MRPACK. Import it as a separate instance
    to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. Join `play.create.anechoicaxolotl.com`.
@@ -76,7 +87,7 @@ resource pack for an installation that already has these exact mod versions.
 
 ## Contents and checks
 
-1.9.0 contains **173 client mods and one shader**. Compared with 1.7.1, the
+1.9.1 contains **173 client mods and one shader**. Compared with 1.7.1, the
 update adds 43 mods and removes Delivery Quests and ADQ Tweaks; all remaining
 original versions are retained. The matching server runs 138 mod files,
 including its existing server tools. No mod or shader binaries are

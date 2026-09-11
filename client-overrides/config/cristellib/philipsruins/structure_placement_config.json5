@@ -1,77 +1,93 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "ancient_crypt": {
     "spacing": 180,
     "separation": 113,
-    "salt": 265792644
+    "salt": 265792644,
+    "frequency": 0.5
   },
   "ancient_dungeon": {
     "spacing": 23,
     "separation": 7,
-    "salt": 512345192
+    "salt": 512345192,
+    "frequency": 0.5
   },
   "ancient_ruins": {
     "spacing": 135,
     "separation": 68,
-    "salt": 165916912
+    "salt": 165916912,
+    "frequency": 0.75
   },
   "ancient_towers": {
     "spacing": 113,
     "separation": 90,
-    "salt": 283426912
+    "salt": 283426912,
+    "frequency": 0.5
   },
   "field_stone_ruins": {
     "spacing": 169,
     "separation": 79,
-    "salt": 558158731
+    "salt": 558158731,
+    "frequency": 0.75
   },
   "field_stone_ruins_rocks": {
     "spacing": 90,
     "separation": 61,
-    "salt": 144788412
+    "salt": 144788412,
+    "frequency": 0.75
   },
   "level_one_ruins": {
     "spacing": 169,
     "separation": 90,
-    "salt": 328134491
+    "salt": 328134491,
+    "frequency": 0.75
   },
   "level_three_ruins": {
     "spacing": 192,
     "separation": 102,
-    "salt": 198312145
+    "salt": 198312145,
+    "frequency": 0.75
   },
   "level_two_ruins": {
     "spacing": 180,
     "separation": 113,
-    "salt": 697518742
+    "salt": 697518742,
+    "frequency": 0.75
   },
   "lost_soul_city": {
     "spacing": 180,
     "separation": 147,
-    "salt": 121229911
+    "salt": 121229911,
+    "frequency": 0.5
   },
   "ocean_fortress_main": {
     "spacing": 158,
     "separation": 113,
-    "salt": 765385625
+    "salt": 765385625,
+    "frequency": 0.5
   },
   "ocean_ruins": {
     "spacing": 113,
     "separation": 90,
-    "salt": 937485621
+    "salt": 937485621,
+    "frequency": 0.75
   },
   "pumpkin_ruins": {
     "spacing": 113,
     "separation": 90,
-    "salt": 248791439
+    "salt": 248791439,
+    "frequency": 0.75
   },
   "rare_ruin": {
     "spacing": 810,
     "separation": 293,
-    "salt": 341891341
+    "salt": 341891341,
+    "frequency": 0.5
   },
   "underground_structures": {
     "spacing": 135,
     "separation": 79,
-    "salt": 641781942
+    "salt": 641781942,
+    "frequency": 0.75
   }
 }

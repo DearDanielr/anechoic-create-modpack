@@ -1,9 +1,9 @@
 /* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
-  "fortress": {
-    "salt": 784827271,
-    "separation": 26,
-    "spacing": 39,
+  "minor_structures": {
+    "salt": 98123789,
+    "separation": 60,
+    "spacing": 68,
     "frequency": 0.5
   }
 }

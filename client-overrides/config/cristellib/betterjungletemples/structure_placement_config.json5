@@ -1,7 +1,9 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "jungle_temples": {
     "salt": 996971851,
     "separation": 11,
-    "spacing": 32
+    "spacing": 32,
+    "frequency": 0.5
   }
 }

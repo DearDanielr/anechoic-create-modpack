@@ -1,0 +1,1268 @@
+{
+  "version": "1.9.1",
+  "large_structure_frequency_multiplier": 0.5,
+  "other_structure_frequency_multiplier": 0.75,
+  "files": 31,
+  "entries": 157,
+  "unique_structure_sets": 154,
+  "method": "Cristel Lib placement frequency multiplied by 0.5 for large structures and 0.75 otherwise; existing spacing, separation, salt, Moog multiplier and structure toggles retained.",
+  "scope": "New structure starts in newly generated terrain only.",
+  "changes": [
+    {
+      "config": "config/cristellib/apotheosis/structure_placement_config.json5",
+      "structure_set": "apotheosis:towers",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/aquamirae/structure_placement_config.json5",
+      "structure_set": "aquamirae:surface",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/aquamirae/structure_placement_config.json5",
+      "structure_set": "aquamirae:shipwreck",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterdeserttemples/structure_placement_config.json5",
+      "structure_set": "betterdeserttemples:desert_temples",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "structure_set": "betterdungeons:skeleton_dungeons",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "structure_set": "betterdungeons:small_dungeons",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "structure_set": "betterdungeons:small_nether_dungeons",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "structure_set": "betterdungeons:spider_dungeons",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "structure_set": "betterdungeons:zombie_dungeons",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterfortresses/structure_placement_config.json5",
+      "structure_set": "betterfortresses:fortress",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterjungletemples/structure_placement_config.json5",
+      "structure_set": "betterjungletemples:jungle_temples",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/bettermineshafts/structure_placement_config.json5",
+      "structure_set": "bettermineshafts:mineshafts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.00177515,
+      "new_frequency": 0.0013313625
+    },
+    {
+      "config": "config/cristellib/betteroceanmonuments/structure_placement_config.json5",
+      "structure_set": "betteroceanmonuments:ocean_monument",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/betterstrongholds/structure_placement_config.json5",
+      "structure_set": "betterstrongholds:stronghold",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:cave",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:cottage",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:little_house",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:swamp_hut",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:swamp_ruin_1",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:swamp_ruin_2",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:swamp_ruin_3",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "structure_set": "bloomingnature:tree_stump",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/dungeons_arise/structure_placement_config.json5",
+      "structure_set": "dungeons_arise:major_structures",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/dungeons_arise/structure_placement_config.json5",
+      "structure_set": "dungeons_arise:minor_structures",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/dungeons_arise_seven_seas/structure_placement_config.json5",
+      "structure_set": "dungeons_arise_seven_seas:minor_structures",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/ecologics/structure_placement_config.json5",
+      "structure_set": "ecologics:desert_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:badlands_pyramids",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.75,
+      "new_frequency": 0.5625
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:black_spirals",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:campsites",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:dark_forest_settlements",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:desert_shrines",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:end_shipwrecks",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.5,
+      "new_frequency": 0.375
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:farmsteads",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:guide_posts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.75,
+      "new_frequency": 0.5625
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:mangrove_huts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:mausoleums",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:supply_caches",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.75,
+      "new_frequency": 0.5625
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:taverns",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.8,
+      "new_frequency": 0.6
+    },
+    {
+      "config": "config/cristellib/explorify/structure_placement_config.json5",
+      "structure_set": "explorify:watchtowers",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.75,
+      "new_frequency": 0.5625
+    },
+    {
+      "config": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "structure_set": "friendsandfoes:citadel",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "structure_set": "friendsandfoes:iceologer_cabin",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "structure_set": "friendsandfoes:illusioner_shack",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "structure_set": "friendsandfoes:illusioner_training_grounds",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/galosphere/structure_placement_config.json5",
+      "structure_set": "galosphere:forgotten_ruins",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/galosphere/structure_placement_config.json5",
+      "structure_set": "galosphere:pink_salt_shrine",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "minecraft:ocean_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "minecraft:shipwrecks",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "hopour:underwater_city",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "hopour:underwater_fossils",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "hopour:underwater_small_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/hopour/structure_placement_config.json5",
+      "structure_set": "hopour:underwater_warm_small_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/illagerinvasion/structure_placement_config.json5",
+      "structure_set": "illagerinvasion:firecaller_hut",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/illagerinvasion/structure_placement_config.json5",
+      "structure_set": "illagerinvasion:illager_fort",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 0.2,
+      "new_frequency": 0.1
+    },
+    {
+      "config": "config/cristellib/illagerinvasion/structure_placement_config.json5",
+      "structure_set": "illagerinvasion:illusioner_tower",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/illagerinvasion/structure_placement_config.json5",
+      "structure_set": "illagerinvasion:labyrinth",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/illagerinvasion/structure_placement_config.json5",
+      "structure_set": "illagerinvasion:sorcerer_hut",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:ancient_stronghold",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:ancient_tower_remains",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:cloudy_temple",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:collapsed_kingdom",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:frostbitten_temple",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:lava_eater_spawn",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:mossy_temple",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:ruined_pyramid",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:shulker_tower",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:skeletosaurus_nest",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:soul_fortress_remains",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:space_station",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 0.75,
+      "new_frequency": 0.375
+    },
+    {
+      "config": "config/cristellib/legendary_monsters/structure_placement_config.json5",
+      "structure_set": "legendary_monsters:warped_fungussus_nest",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/meadow/structure_placement_config.json5",
+      "structure_set": "meadow:chalet",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/meadow/structure_placement_config.json5",
+      "structure_set": "meadow:chapel",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/meadow/structure_placement_config.json5",
+      "structure_set": "meadow:logging_camp",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/meadow/structure_placement_config.json5",
+      "structure_set": "meadow:monument",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/meadow/structure_placement_config.json5",
+      "structure_set": "meadow:observation_post",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:astral_hideaway",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:astral_meteorite",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:ender_spire",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:enderbloom_grove",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:enderkeep_courtyard",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:enderpin_spikes",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:enderskog",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:enderwatch_tower",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:endscraps",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:manuscript_shrine",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_basic",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_crashed",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_crashed_2",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_crashed_deepslate",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_deepslate",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_deepslate_2",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mega_ship_deepslate_3",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:monolith",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mystical_archway",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:mythic_garden",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:phantom_citadel",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:placid_prairie",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:ruined_pillar",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/mes/structure_placement_config.json5",
+      "structure_set": "mes:starlight_voyager",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/nullscape/structure_placement_config.json5",
+      "structure_set": "nullscape:dragon_skeleton",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/nullscape/structure_placement_config.json5",
+      "structure_set": "minecraft:end_cities",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/nullscape/structure_placement_config.json5",
+      "structure_set": "nullscape:rift",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ancient_crypt",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ancient_dungeon",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ancient_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ancient_towers",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:field_stone_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:field_stone_ruins_rocks",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:level_one_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:level_three_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:level_two_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:lost_soul_city",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ocean_fortress_main",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:ocean_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:pumpkin_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:rare_ruin",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/philipsruins/structure_placement_config.json5",
+      "structure_set": "philipsruins:underground_structures",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/ribbits/structure_placement_config.json5",
+      "structure_set": "ribbits:ribbit_village",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/structory/structure_placement_config.json5",
+      "structure_set": "structory:old_manor",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/structory/structure_placement_config.json5",
+      "structure_set": "structory:mid_rare_ruin",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.7,
+      "new_frequency": 0.525
+    },
+    {
+      "config": "config/cristellib/structory/structure_placement_config.json5",
+      "structure_set": "structory:ruin_quiet",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/structory/structure_placement_config.json5",
+      "structure_set": "structory:ruin",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/structory/structure_placement_config.json5",
+      "structure_set": "structory:outcast_villager",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/supplementaries/structure_placement_config.json5",
+      "structure_set": "supplementaries:galleons",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/supplementaries/structure_placement_config.json5",
+      "structure_set": "supplementaries:road_signs",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:mage",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:rare_dungeon",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:rare_village",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:regular",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:rubble",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:underground",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/terralith/structure_placement_config.json5",
+      "structure_set": "terralith:underground_dungeon",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/cristellib/tlc/structure_placement_config.json5",
+      "structure_set": "tlc:structure_lost_castle_set",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/cristellib/witcher_rpg/structure_placement_config.json5",
+      "structure_set": "witcher_rpg:medium_witcher_structures",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/towns_and_towers/structure_rarity_new.json5",
+      "structure_set": "towns_and_towers:other",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/towns_and_towers/structure_rarity_new.json5",
+      "structure_set": "towns_and_towers:towers",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.2,
+      "new_frequency": 0.15
+    },
+    {
+      "config": "config/towns_and_towers/structure_rarity_new.json5",
+      "structure_set": "towns_and_towers:towns",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:ancient_cities",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:buried_treasures",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.01,
+      "new_frequency": 0.0075
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:desert_pyramids",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:end_cities",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:igloos",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:jungle_temples",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:mineshafts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.004,
+      "new_frequency": 0.003
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:nether_complexes",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:nether_fossils",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:ocean_monuments",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:ocean_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:pillager_outposts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 0.2,
+      "new_frequency": 0.15
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:ruined_portals",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:shipwrecks",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:swamp_huts",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:trail_ruins",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:trial_chambers",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:villages",
+      "size_group": "other",
+      "frequency_multiplier": 0.75,
+      "old_frequency": 1.0,
+      "new_frequency": 0.75
+    },
+    {
+      "config": "config/vanilla_structures/placement_structure_config.json5",
+      "structure_set": "minecraft:woodland_mansions",
+      "size_group": "large",
+      "frequency_multiplier": 0.5,
+      "old_frequency": 1.0,
+      "new_frequency": 0.5
+    }
+  ]
+}

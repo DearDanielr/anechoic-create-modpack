@@ -1,0 +1,13 @@
+{
+  "full_pack_startup": true,
+  "runtime_placements_verified": 150,
+  "mismatches": 0,
+  "inactive_legacy_entries": [
+    "hopour:underwater_city",
+    "hopour:underwater_fossils",
+    "hopour:underwater_small_ruins",
+    "hopour:underwater_warm_small_ruins"
+  ],
+  "scope": "Isolated full server pack with a private runtime registry inspection helper. No multiplayer or full world structure-count survey. Four legacy Hopour-only entries are absent from the active registry; its Minecraft ocean ruin and shipwreck overrides were verified.",
+  "pinned_mods_unchanged": true
+}

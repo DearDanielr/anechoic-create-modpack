@@ -1,9 +1,9 @@
 /* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
-  "fortress": {
-    "salt": 784827271,
-    "separation": 26,
-    "spacing": 39,
+  "structure_lost_castle_set": {
+    "salt": 1734426469,
+    "separation": 200,
+    "spacing": 300,
     "frequency": 0.5
   }
 }

@@ -1,42 +1,51 @@
+/* Anechoic: large structures 50% rarer; other structures 25% rarer than 1.9.0. */
 {
   "cave": {
     "spacing": 12,
     "separation": 11,
-    "salt": 10000079
+    "salt": 10000079,
+    "frequency": 0.75
   },
   "cottage": {
     "spacing": 224,
     "separation": 112,
-    "salt": 51511
+    "salt": 51511,
+    "frequency": 0.75
   },
   "little_house": {
     "spacing": 44,
     "separation": 39,
-    "salt": 66293
+    "salt": 66293,
+    "frequency": 0.75
   },
   "swamp_hut": {
     "spacing": 42,
     "separation": 21,
-    "salt": 992963
+    "salt": 992963,
+    "frequency": 0.75
   },
   "swamp_ruin_1": {
     "spacing": 16,
     "separation": 14,
-    "salt": 1000003
+    "salt": 1000003,
+    "frequency": 0.75
   },
   "swamp_ruin_2": {
     "spacing": 27,
     "separation": 14,
-    "salt": 10000019
+    "salt": 10000019,
+    "frequency": 0.75
   },
   "swamp_ruin_3": {
     "spacing": 32,
     "separation": 14,
-    "salt": 1000191
+    "salt": 1000191,
+    "frequency": 0.75
   },
   "tree_stump": {
     "spacing": 24,
     "separation": 18,
-    "salt": 65003
+    "salt": 65003,
+    "frequency": 0.75
   }
 }
