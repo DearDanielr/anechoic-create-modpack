@@ -1,0 +1,29 @@
+{
+  "version": "1.11.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.249",
+  "removed_mods": [
+    "mods/tectonic-3.0.26-neoforge-21.1.jar"
+  ],
+  "added_mods": [
+    {
+      "name": "Relics (RPG Series)",
+      "version": "1.4.0+1.21.1-neoforge",
+      "modrinth_version": "O6zfkTwx",
+      "filename": "relics-neoforge-1.4.0+1.21.1.jar",
+      "sha512": "025308d0c11bd546c005a05a62f4f2eb973cc3c849423828b3c18a630e7f63d83909d52411a30cd118a80bdcae46f5adb704f3f3d8a7058e7292b128363faa1e"
+    }
+  ],
+  "client_mod_count": 177,
+  "server_mod_count": 143,
+  "clients_must_update": true,
+  "terrain": "Tectonic removed; Terralith, Natures Spirit, YUNGs Cave Biomes and Gardens of the Dead retained.",
+  "server_difficulty": "hard",
+  "chunky": "paused",
+  "balance": "Relics combat attribute/effect bonuses halved; mobility/roll utility preserved; one-second stuns; 30-second minimum crowd-control cooldown; c:bosses excluded from relic stuns/levitation, including Warden. Existing boss/Apotheosis tuning retained.",
+  "excluded_candidates": {
+    "lne_addons": "Core Loot & Explore has no native NeoForge 1.21.1 release; observed Wizards conditional-recipe errors and upstream standalone creative-tab crash report.",
+    "irons_and_ars": "Separate magic systems; user prioritizes the existing Spell Engine setup.",
+    "druids": "Previously verified incompatible API; no newer native candidate."
+  }
+}

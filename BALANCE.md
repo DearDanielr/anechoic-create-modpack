@@ -1,4 +1,4 @@
-# Balance profile for 1.9.0
+# Balance profile for 1.11.0
 
 This profile covers the installed modded bosses as well as equipment used
 against vanilla bosses. It is a tested starting configuration, not a claim
@@ -53,6 +53,20 @@ profile does not unlock higher-tier loot at the start of the game.
 - The existing RPG class tuning is retained, including the shared five-tick
   instant-spell cooldown and reduced execute, healing, stealth, and stun
   settings. The optional incompatible class-tree addon and Druids remain out.
+
+## Relics (RPG Series) in 1.11.0
+
+- Positive combat attributes on items and temporary effects are halved;
+  movement speed, visual scale and extra combat rolls retain their defaults.
+- Relic stuns last one second. Stun and levitation cooldowns are at least
+  30 seconds, and these abilities exclude `c:bosses` from their targets.
+  The Warden is added to that tag alongside the existing modded boss entries.
+- Existing activation chances, dungeon/boss loot sources, slot rules and
+  progression remain. No new structures or independent magic system are added.
+- The server now uses Hard difficulty at the owner's request. Existing boss
+  health and damage settings remain; no full boss-fight playtest is claimed.
+
+Exact item/effect changes are in [relics-balance-1.11.0.json](relics-balance-1.11.0.json).
 
 ## Mining, engines, and graves
 

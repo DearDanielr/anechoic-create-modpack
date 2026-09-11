@@ -8,6 +8,10 @@
     {
       "id": "illagerinvasion:invoker",
       "required": false
+    },
+    {
+      "id": "minecraft:warden",
+      "required": true
     }
   ]
 }

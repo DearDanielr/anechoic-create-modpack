@@ -159,7 +159,6 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [Structure Pool API](https://modrinth.com/mod/structure-pool-api) | 1.2.1+1.21.1-neoforge | MIT |
 | [Subtle Effects](https://modrinth.com/mod/subtle-effects) | 1.14.3 | LicenseRef-All-Rights-Reserved |
 | [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.21.1-3.9.7 | [LicenseRef-Supplementaries-Team-License](https://github.com/MehVahdJukaar/Supplementaries-Team-License/blob/main/LICENSE.md) |
-| [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.26-neoforge-21.1 | MIT |
 | [TerraBlender](https://modrinth.com/mod/terrablender) | 4.1.0.8 | [LGPL-3.0-only](https://github.com/Glitchfiend/TerraBlender/blob/TB-1.19.3-2.1.x/LICENSE) |
 | [Terralith](https://modrinth.com/mod/terralith) | 2.6.2 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) |
 | [The Lost Castle](https://modrinth.com/mod/the-lost-castle) | 2.1.0 | LGPL-3.0-only |
@@ -184,3 +183,4 @@ The bundled Skybound Clarity resource pack and configuration files are part of t
 | [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) | 1.21.1-NeoForge-5.1.3 | LGPL-3.0-only |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes) | 1.21.1-NeoForge-3.1.1 | LicenseRef-All-Rights-Reserved |
 | [Zume](https://modrinth.com/mod/zume) | 1.2.2 | [OSL-3.0](https://github.com/Nolij/Zume/raw/master/LICENSE) |
+| [Relics (RPG Series)](https://modrinth.com/mod/relics-rpg) | 1.4.0+1.21.1-neoforge | LicenseRef-All-Rights-Reserved |

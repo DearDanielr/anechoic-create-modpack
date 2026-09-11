@@ -1,0 +1,40 @@
+{
+  "version": "1.11.0",
+  "server_mods": 143,
+  "client_mods": 177,
+  "shared_hashes_verified": 139,
+  "unchanged_server_jar_hashes": 142,
+  "isolated_checks": {
+    "startup": true,
+    "terrain_generation": true,
+    "native_blending_metadata": true,
+    "protected_fixture_chunks": 2065,
+    "sampled_grounded_village_houses": 10,
+    "maximum_air_gap_in_12_blocks_below_sampled_floors": 1,
+    "sampled_boundary_pairs": 80,
+    "worst_adjacent_boundary_height_difference_before": 23,
+    "worst_adjacent_boundary_height_difference_after": 4,
+    "relic_items_registered": 48,
+    "relic_spells_registered": 37,
+    "boss_crowd_control_exclusion_checks": [
+      "minecraft:ender_dragon",
+      "minecraft:wither",
+      "minecraft:warden",
+      "legendary_monsters:the_obliterator",
+      "legendary_monsters:cloud_golem",
+      "legendary_monsters:posessed_paladin",
+      "aquamirae:captain_cornelia",
+      "illagerinvasion:invoker"
+    ],
+    "ordinary_mob_crowd_control_allowed": true,
+    "medium_spell_power_effect_bonus": 0.1,
+    "exact_143_mod_startup_and_clean_exit": true,
+    "hard_difficulty_command": true,
+    "no_private_qa_addon_in_exact_pack": true
+  },
+  "limits": [
+    "Terrain samples cover the reported village and nearby boundary, not all possible structures.",
+    "Full client gameplay, all class combinations and boss-fight difficulty have not been playtested."
+  ],
+  "private_world_data_published": false
+}

@@ -1,0 +1,564 @@
+{
+  "effects.json": [
+    {
+      "path": "/effects/relics_rpgs:lesser_attack_damage/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_attack_speed/attributes/0",
+      "attribute": "minecraft:generic.attack_speed",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_attack_speed/attributes/1",
+      "attribute": "ranged_weapon:haste",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_ranged_damage/attributes/0",
+      "attribute": "ranged_weapon:damage",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/1",
+      "attribute": "spell_power:fire",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/2",
+      "attribute": "spell_power:frost",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/3",
+      "attribute": "spell_power:healing",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/4",
+      "attribute": "spell_power:lightning",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/5",
+      "attribute": "spell_power:soul",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/6",
+      "attribute": "spell_power:water",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/7",
+      "attribute": "spell_power:air",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/8",
+      "attribute": "spell_power:earth",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/9",
+      "attribute": "spell_power:nature",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/10",
+      "attribute": "spell_power:sign",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/11",
+      "attribute": "spell_power:aard",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/12",
+      "attribute": "spell_power:axii",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/13",
+      "attribute": "spell_power:igni",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/14",
+      "attribute": "spell_power:quen",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_power/attributes/15",
+      "attribute": "spell_power:yrden",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_haste/attributes/0",
+      "attribute": "spell_power:haste",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_crit_chance/attributes/0",
+      "attribute": "spell_power:critical_chance",
+      "before": 0.15,
+      "after": 0.075
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_arcane_fire/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.15,
+      "after": 0.075
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_arcane_fire/attributes/1",
+      "attribute": "spell_power:fire",
+      "before": 0.15,
+      "after": 0.075
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_frost_healing/attributes/0",
+      "attribute": "spell_power:frost",
+      "before": 0.15,
+      "after": 0.075
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_frost_healing/attributes/1",
+      "attribute": "spell_power:healing",
+      "before": 0.15,
+      "after": 0.075
+    },
+    {
+      "path": "/effects/relics_rpgs:lesser_spell_crit_damage/attributes/0",
+      "attribute": "spell_power:critical_chance",
+      "before": 0.5,
+      "after": 0.25
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_attack_damage/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_attack_speed/attributes/0",
+      "attribute": "minecraft:generic.attack_speed",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_attack_speed/attributes/1",
+      "attribute": "ranged_weapon:haste",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_ranged_damage/attributes/0",
+      "attribute": "ranged_weapon:damage",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_defense/attributes/0",
+      "attribute": "minecraft:generic.armor_toughness",
+      "before": 4.0,
+      "after": 2.0
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_evasion/attributes/0",
+      "attribute": "spell_engine:evasion_chance",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/1",
+      "attribute": "spell_power:fire",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/2",
+      "attribute": "spell_power:frost",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/3",
+      "attribute": "spell_power:healing",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/4",
+      "attribute": "spell_power:lightning",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/5",
+      "attribute": "spell_power:soul",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/6",
+      "attribute": "spell_power:water",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/7",
+      "attribute": "spell_power:air",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/8",
+      "attribute": "spell_power:earth",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/9",
+      "attribute": "spell_power:nature",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/10",
+      "attribute": "spell_power:sign",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/11",
+      "attribute": "spell_power:aard",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/12",
+      "attribute": "spell_power:axii",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/13",
+      "attribute": "spell_power:igni",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/14",
+      "attribute": "spell_power:quen",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_power/attributes/15",
+      "attribute": "spell_power:yrden",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_spell_haste/attributes/0",
+      "attribute": "spell_power:haste",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_arcane_power/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_fire_power/attributes/0",
+      "attribute": "spell_power:fire",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_frost_power/attributes/0",
+      "attribute": "spell_power:frost",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:medium_healing_power/attributes/0",
+      "attribute": "spell_power:healing",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:greater_evasion_attack/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.5,
+      "after": 0.25
+    },
+    {
+      "path": "/effects/relics_rpgs:greater_physical_trance/attributes/0",
+      "attribute": "minecraft:generic.attack_speed",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:greater_physical_trance/attributes/1",
+      "attribute": "ranged_weapon:haste",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:greater_spell_trance/attributes/0",
+      "attribute": "spell_power:haste",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/effects/relics_rpgs:greater_defense_armor/attributes/0",
+      "attribute": "minecraft:generic.armor",
+      "before": 10.0,
+      "after": 5.0
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_attack_damage/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_attack_damage/attributes/1",
+      "attribute": "ranged_weapon:damage",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/1",
+      "attribute": "spell_power:fire",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/2",
+      "attribute": "spell_power:frost",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/3",
+      "attribute": "spell_power:lightning",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/4",
+      "attribute": "spell_power:soul",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/5",
+      "attribute": "spell_power:water",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/6",
+      "attribute": "spell_power:air",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/7",
+      "attribute": "spell_power:earth",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/8",
+      "attribute": "spell_power:nature",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/9",
+      "attribute": "spell_power:sign",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/10",
+      "attribute": "spell_power:aard",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/11",
+      "attribute": "spell_power:axii",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/12",
+      "attribute": "spell_power:igni",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/13",
+      "attribute": "spell_power:quen",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_spell_power/attributes/14",
+      "attribute": "spell_power:yrden",
+      "before": 0.2,
+      "after": 0.1
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_healing_taken/attributes/0",
+      "attribute": "spell_engine:healing_taken",
+      "before": 0.5,
+      "after": 0.25
+    },
+    {
+      "path": "/effects/relics_rpgs:superior_defense_health/attributes/0",
+      "attribute": "minecraft:generic.max_health",
+      "before": 0.5,
+      "after": 0.25
+    }
+  ],
+  "items_v2.json": [
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_ruby/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_topaz/attributes/0",
+      "attribute": "spell_power:arcane",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_topaz/attributes/1",
+      "attribute": "spell_power:fire",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_citrine/attributes/0",
+      "attribute": "spell_power:healing",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_citrine/attributes/1",
+      "attribute": "spell_power:lightning",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_jade/attributes/0",
+      "attribute": "ranged_weapon:damage",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_sapphire/attributes/0",
+      "attribute": "minecraft:generic.max_health",
+      "before": 2.0,
+      "after": 1.0
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_tanzanite/attributes/0",
+      "attribute": "spell_power:frost",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:jewel_figurine_tanzanite/attributes/1",
+      "attribute": "spell_power:soul",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:lesser_evasion/attributes/0",
+      "attribute": "spell_engine:evasion_chance",
+      "before": 0.03,
+      "after": 0.015
+    },
+    {
+      "path": "/entries/relics_rpgs:lesser_melee_crit_chance/conditional_attributes/attributes/0",
+      "attribute": "critical_strike:chance",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:lesser_melee_crit_chance/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:lesser_melee_crit_damage/conditional_attributes/attributes/0",
+      "attribute": "critical_strike:damage",
+      "before": 0.1,
+      "after": 0.05
+    },
+    {
+      "path": "/entries/relics_rpgs:lesser_melee_crit_damage/attributes/0",
+      "attribute": "minecraft:generic.attack_damage",
+      "before": 0.05,
+      "after": 0.025
+    },
+    {
+      "path": "/entries/relics_rpgs:greater_healing_taken/attributes/0",
+      "attribute": "spell_engine:healing_taken",
+      "before": 0.1,
+      "after": 0.05
+    }
+  ]
+}

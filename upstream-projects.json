@@ -1116,6 +1116,15 @@
     "source": "https://github.com/SSKirillSS/relics/tree/1.18.2"
   },
   {
+    "path": "mods/relics-neoforge-1.4.0+1.21.1.jar",
+    "title": "Relics (RPG Series)",
+    "version": "1.4.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/relics-rpg",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Relics"
+  },
+  {
     "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
     "title": "Resourceful Config",
     "version": "3.0.11",
@@ -1375,15 +1384,6 @@
     "license": "LicenseRef-Supplementaries-Team-License",
     "license_url": "https://github.com/MehVahdJukaar/Supplementaries-Team-License/blob/main/LICENSE.md",
     "source": "https://github.com/MehVahdJukaar/Supplementaries"
-  },
-  {
-    "path": "mods/tectonic-3.0.26-neoforge-21.1.jar",
-    "title": "Tectonic",
-    "version": "3.0.26-neoforge-21.1",
-    "project": "https://modrinth.com/mod/tectonic",
-    "license": "MIT",
-    "license_url": null,
-    "source": "https://github.com/Apollounknowndev/tectonic"
   },
   {
     "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",

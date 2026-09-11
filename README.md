@@ -2,32 +2,34 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.10.0 adds larger landscapes and new surface, cave, and Nether biomes.**
-Install this version to join the updated server; 1.9.x clients lack the new
-biome blocks and mobs.
+**1.11.0 removes Tectonic and expands the existing Spell Engine classes with
+Relics (RPG Series).** Install this version to join the updated server.
 
-[Download 1.10.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.10.0/Create-Aeronautics-Vanilla-Plus-1.10.0-Prism.zip) · [Download 1.10.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.10.0/Create-Aeronautics-Vanilla-Plus-1.10.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.10.0)
+[Download 1.11.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-Prism.zip) · [Download 1.11.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.0)
 
-## What's new in 1.10.0
+## What's new in 1.11.0
 
-| Addition | What you can explore |
-| --- | --- |
-| Tectonic 3.0.26 | Large mountain ranges, valleys, deep oceans, canyons and underground rivers |
-| Nature's Spirit 2.2.5 | 51 biomes, including redwood and wisteria forests, lavender fields and tropical shores |
-| YUNG's Cave Biomes 3.1.1 | Frosted Caves and Lost Caves, with their own creatures, blocks and discoveries |
-| Gardens of the Dead 5.0.2 | Soulblight Forest and Whistling Woods in the Nether |
+Tectonic is removed to address terrain seams and floating village buildings
+observed after the terrain update. Terralith, Nature's Spirit, YUNG's Cave
+Biomes and Gardens of the Dead remain, with standard world height. Existing
+Nether and End terrain is preserved. The server uses **Hard** difficulty.
 
-Tectonic runs alongside the existing Terralith using its bundled compatibility
-support. Standard world height and existing mod versions are retained. All
-four additions are installed on the server and included in the client pack.
-Nature's Spirit, YUNG's Cave Biomes, and Gardens of the Dead require clients
-to update because they add blocks or mobs.
+[Relics (RPG Series)](https://modrinth.com/mod/relics-rpg) adds 48 trinkets with
+active and passive abilities through the existing Spell Engine system. Find
+rewards in dungeon chests and from enemies and bosses; some use Jewelry gems.
+This is an addition to the separate Relics mod already present in the pack.
+It adds no structures or separate casting system.
 
-The reduced structure rates and RPG/boss balance remain. Nature's Spirit's
-villages use the same reduced placement chance as existing villages. New
-biomes appear in newly generated chunks. Existing Nether and End terrain is
-preserved. Sodium's fog occlusion is disabled for the cave sandstorm visuals;
-Iris/Distant Horizons can still alter those effects.
+Relics combat attribute bonuses are halved to limit stacking with Apotheosis
+and class gear. Its stuns last one second, its crowd-control abilities have
+at least 30-second cooldowns, and stuns/levitation exclude the shared boss tag,
+including the Warden and the pack's major modded bosses. Movement and roll
+utility remain. See [BALANCE.md](BALANCE.md) for the full balance scope.
+
+The existing structure rarity and class balance remain. New biomes appear
+in newly generated chunks. Sodium's fog occlusion remains disabled for cave
+sandstorm visuals; Iris/Distant Horizons can still alter those effects.
+Chunky is paused following the terrain repair.
 
 ## Structure rates from 1.9.1
 
@@ -95,7 +97,7 @@ function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the 1.10.0 Prism ZIP or MRPACK. Import it as a separate instance
+   and select the 1.11.0 Prism ZIP or MRPACK. Import it as a separate instance
    to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. Join `play.create.anechoicaxolotl.com`.
@@ -110,32 +112,17 @@ resource pack for an installation that already has these exact mod versions.
 
 The production server also includes the pack's matching JEI 19.51.0.418, which
 supports the **Move Items** / **+** recipe-transfer button. This fixes the
-"server must have JEI installed" message. The current pack includes this exact version. The biome additions in 1.10.0
-require a client update even though JEI itself is unchanged.
+"server must have JEI installed" message. The current pack includes this exact version.
 
-1.10.0 contains **177 client mods and one shader**. Compared with 1.7.1, the
-update adds 47 mods and removes Delivery Quests and ADQ Tweaks; all remaining
-original versions are retained. The matching server runs 143 mod files,
-including its existing server tools. No mod or shader binaries are
-redistributed by this repository: the manifests reference upstream downloads.
+1.11.0 contains **177 client mods and one shader**. The matching server runs
+143 mod files, including its existing server tools. All 1.10.0 mod versions
+other than the removed Tectonic file are retained. No mod or shader binaries
+are redistributed by this repository: manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.
 `modrinth.index.json` pins URLs, sizes, and SHA-1/SHA-512 hashes; `mods.sha256`
 records an additional inventory. `SHA256SUMS.txt` accompanies the release assets.
 
-The complete server mod set passed isolated startup and terrain-generation
-checks. Production 1.10.0 was activated on September 11, 2026 UTC after a verified
-full offline backup. The requested Overworld reset preserved every chunk touching
-the 400-block circle around the saved spawn. A fresh Chunky task is generating
-the surrounding terrain with the new mods. Existing Nether and End chunks remain.
-The balance datapack and all 94 Apotheosis affixes and 21 gems loaded. The updated
-client joined successfully with voice chat connected; Create reported 20 TPS
-while Chunky was running. Flight, boss fights, and the JEI transfer button have
-not been playtested in this update.
-
-The client may log a Tectonic/Forgified Fabric API `fabric:overlays` metadata
-warning. Datapack loading and the observed multiplayer join continued successfully;
-singleplayer world creation has not been separately verified. Existing optional
-integration warnings also remain.
-
-Run `python3 build.py` to reproduce the import archives and checksums in `dist/`.
+Validation and deployment results are recorded in `validation-1.11.0.json`.
+Automated compatibility and terrain samples do not establish that every
+structure, class combination, or boss fight has been playtested.
