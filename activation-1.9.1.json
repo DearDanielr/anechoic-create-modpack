@@ -1,0 +1,16 @@
+{
+  "version": "1.9.1",
+  "production_config_files_verified": 31,
+  "server_mods": 138,
+  "mod_versions_unchanged": true,
+  "structure_runtime_test": {
+    "active_sets_verified": 150,
+    "frequency_mismatches": 0
+  },
+  "public_minecraft_handshake": "passed",
+  "large_structure_frequency_multiplier": 0.5,
+  "other_structure_frequency_multiplier": 0.75,
+  "existing_1_9_0_clients_compatible": true,
+  "github_assets_verified": true,
+  "terrain_regeneration_started": true
+}
