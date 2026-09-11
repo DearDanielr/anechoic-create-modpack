@@ -2,10 +2,8 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.9.0 is installed on disk and waiting for the Create server's next restart.**
-Keep using [1.7.1](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.7.1)
-to join the currently running server. The new release is marked as a prerelease
-until the server update is activated.
+**1.9.0 is live on the Create server.** Download this version to join; older
+1.7.1 and 1.8.0 instances do not contain the matching mod set.
 
 [Download 1.9.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0-Prism.zip) · [Download 1.9.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.9.0/Create-Aeronautics-Vanilla-Plus-1.9.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.9.0)
 
@@ -59,16 +57,16 @@ NeoForge 1.21.1 releases. RPG versions and exclusions are recorded in
 
 Aeronautics Delivery Quests, ADQ Tweaks, and the server notification addon are
 removed. Delivery Quests caused confirmed quest-sync packet errors that kicked
-players. Removal takes effect after the server restart; existing quest tables
-will no longer function. Saved quest files are retained in the server backup.
+players. These mods are no longer loaded, and existing quest tables no longer
+function. Saved quest files are retained in the server backup.
 
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the Prism ZIP or MRPACK. Import 1.9.0 as a separate instance so
-   1.7.1 remains available while the server update is pending.
+   and select the 1.9.0 Prism ZIP or MRPACK. Import it as a separate instance
+   to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
-3. After the server update is activated, join `play.create.anechoicaxolotl.com`.
+3. Join `play.create.anechoicaxolotl.com`.
    New players can use the [whitelist site](https://whitelist.anechoicaxolotl.com/).
 
 Both import formats download the pinned files from Modrinth. An internet
@@ -80,8 +78,8 @@ resource pack for an installation that already has these exact mod versions.
 
 1.9.0 contains **173 client mods and one shader**. Compared with 1.7.1, the
 update adds 43 mods and removes Delivery Quests and ADQ Tweaks; all remaining
-original versions are retained. The matching server has 138 mod files after
-restart, including its existing server tools. No mod or shader binaries are
+original versions are retained. The matching server runs 138 mod files,
+including its existing server tools. No mod or shader binaries are
 redistributed by this repository: the manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.
@@ -89,7 +87,10 @@ redistributed by this repository: the manifests reference upstream downloads.
 records an additional inventory. `SHA256SUMS.txt` accompanies the release assets.
 
 The complete server mod set passed isolated startup and saved-world restart
-checks. This does not replace client, multiplayer, flight, or class-balance
-playtesting. Existing optional-integration warnings remain.
+checks. Production was activated on September 11, 2026 UTC after a verified
+full offline backup. The balance datapack and Apotheosis registries loaded,
+and read-only server checks returned 20 TPS with Chunky paused. This does not
+replace client, multiplayer, flight, or class-balance playtesting. Existing
+optional-integration warnings remain.
 
 Run `python3 build.py` to reproduce the import archives and checksums in `dist/`.

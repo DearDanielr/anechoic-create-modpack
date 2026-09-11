@@ -1,0 +1,19 @@
+{
+  "version": "1.9.0",
+  "activated_at": "2026-09-11T02:38:59.607942+00:00",
+  "server_mods": 138,
+  "client_mods": 173,
+  "create_restart_performed": true,
+  "vanilla_restart_performed": false,
+  "full_offline_backup_verified": true,
+  "backup_copied_to_pc_and_verified": true,
+  "balance_datapack_enabled": true,
+  "apotheosis_affixes_registered": 94,
+  "apotheosis_available_gems_registered": 21,
+  "chunky_paused": true,
+  "minecraft_public_status_passed": true,
+  "website_home_and_authenticated_success_links_verified": true,
+  "github_latest": "v1.9.0",
+  "production_read_only_tick_check": "20 TPS; average 2.3 ms at verification",
+  "full_multiplayer_combat_playtest": false
+}

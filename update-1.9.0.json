@@ -2,8 +2,7 @@
   "version": "1.9.0",
   "base_version": "1.8.0",
   "client_mods": 173,
-  "server_mods_after_restart": 138,
-  "server_activation": "Pending restart; no production restart performed",
+  "server_activation": "Live on production Create server; activated 2026-09-11 UTC",
   "additions": [
     {
       "project": "Apotheosis",
@@ -62,5 +61,6 @@
     }
   ],
   "balance": "BALANCE.md",
-  "delivery_quests": "Remains removed"
+  "delivery_quests": "Remains removed",
+  "server_mods": 138
 }

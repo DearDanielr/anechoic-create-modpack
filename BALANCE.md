@@ -83,9 +83,10 @@ Simulated mining verified the 16-block limit, cooldown, sneak requirement,
 tool tier, stone exclusion, durability use, and hunger charge.
 
 Full multiplayer combat, flight, boss-fight difficulty, and player death/grave
-recovery have not been playtested. New mods take effect on the production
-server's next authorized restart; no production restart was performed while
-preparing this release.
+recovery have not been playtested. Production was activated on September 11,
+2026 UTC after a verified full offline backup. All 138 server mods loaded,
+the balance datapack was enabled, and Apotheosis registered all 94 affixes
+and 21 available gems. Read-only checks returned 20 TPS with Chunky paused.
 
 Exact settings are recorded in [balance-1.9.0.json](balance-1.9.0.json).
 Apotheosis data overrides retain its MIT license inside the balance datapack.
