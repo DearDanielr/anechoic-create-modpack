@@ -17,3 +17,7 @@ and up to 8 GiB of client memory.
 
 The full server pack passed isolated startup, and runtime checks verified all
 150 active configured structure sets with no mismatched placement chances.
+
+Server update: the dedicated server now includes the pack's matching JEI
+19.51.0.418 to support the Move Items / + recipe-transfer button. Existing
+1.9.0 and 1.9.1 clients already contain it; no new download is needed.

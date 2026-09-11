@@ -1,0 +1,22 @@
+{
+  "server_update": "1.9.1-server.1",
+  "mod": "Just Enough Items",
+  "version": "19.51.0.418",
+  "minecraft": "1.21.1",
+  "loader": "NeoForge 21.1.249",
+  "filename": "jei-1.21.1-neoforge-19.51.0.418.jar",
+  "reason": "Install the existing client-pack JEI version on the dedicated server for recipe item transfer.",
+  "client_pack_changed": false,
+  "existing_client_versions": [
+    "1.9.0",
+    "1.9.1"
+  ],
+  "original_server_jars_preserved": 138,
+  "server_mod_count": 139,
+  "verification": {
+    "isolated_full_pack_startup": true,
+    "server_config_loaded": true,
+    "polymorph_recipe_transfer_mixin_loaded": true,
+    "live_client_button_click_tested": false
+  }
+}

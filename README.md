@@ -87,9 +87,14 @@ resource pack for an installation that already has these exact mod versions.
 
 ## Contents and checks
 
+The production server also includes the pack's matching JEI 19.51.0.418, which
+supports the **Move Items** / **+** recipe-transfer button. This fixes the
+"server must have JEI installed" message. Existing 1.9.0 and 1.9.1 clients
+already include this exact version; no client update is needed for this fix.
+
 1.9.1 contains **173 client mods and one shader**. Compared with 1.7.1, the
 update adds 43 mods and removes Delivery Quests and ADQ Tweaks; all remaining
-original versions are retained. The matching server runs 138 mod files,
+original versions are retained. The matching server runs 139 mod files,
 including its existing server tools. No mod or shader binaries are
 redistributed by this repository: the manifests reference upstream downloads.
 
