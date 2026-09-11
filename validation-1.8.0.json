@@ -1,0 +1,19 @@
+{
+  "version": "1.8.0",
+  "verified_import_files": 163,
+  "original_pins_retained_unchanged": 131,
+  "client_mods": 162,
+  "server_mods": 127,
+  "added_mods": 32,
+  "removed_client_mods": 2,
+  "removed_server_mods": 3,
+  "shared_mods": 123,
+  "saved_world_startup_after_delivery_removal": true,
+  "chunky_running": false,
+  "full_multiplayer_playtest": false,
+  "mod_binaries_republished": false,
+  "archives_passed": true,
+  "production_restart_performed": false,
+  "new_world_startup": true,
+  "clean_shutdown_checks": 2
+}

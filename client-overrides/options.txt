@@ -288,3 +288,4 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
+key_key.puffish_skills.open:key.keyboard.f7

@@ -31,7 +31,10 @@ def main():
     index = json.loads((ROOT / 'modrinth.index.json').read_text())
     assert index['formatVersion'] == 1 and index['game'] == 'minecraft'
     assert index['dependencies'] == {'minecraft': '1.21.1', 'neoforge': '21.1.249'}
-    assert len(index['files']) == 133
+    projects = json.loads((ROOT / 'upstream-projects.json').read_text())
+    assert len(index['files']) == len(projects)
+    assert len({entry['path'] for entry in index['files']}) == len(index['files'])
+    assert {entry['path'] for entry in index['files']} == {p['path'] for p in projects}
     for entry in index['files']:
         assert not PurePosixPath(entry['path']).is_absolute() and '..' not in PurePosixPath(entry['path']).parts
         assert set(entry['hashes']) >= {'sha1', 'sha512'}

@@ -54,13 +54,13 @@
     "source": "https://github.com/Let-s-Do-Collection/WilderNature"
   },
   {
-    "path": "mods/adq_tweaks-1.0.3.jar",
-    "title": "ADQ TWEAKS",
-    "version": "1.0.3",
-    "project": "https://modrinth.com/mod/adq-tweaks",
+    "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",
+    "title": "Additional Jewelry",
+    "version": "2.3.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/additional-rpg-jewelry",
     "license": "MIT",
     "license_url": null,
-    "source": null
+    "source": "https://github.com/ProfessorFichte/Additional-RPG-Jewelry"
   },
   {
     "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
@@ -70,15 +70,6 @@
     "license": "CC-BY-NC-ND-4.0",
     "license_url": null,
     "source": "https://github.com/AHilyard/AdvancementPlaques/"
-  },
-  {
-    "path": "mods/aeronautics_delivery_quests-1.1.1.jar",
-    "title": "Aeronautics Delivery Quests",
-    "version": "1.1.1",
-    "project": "https://modrinth.com/mod/aeronautics-delivery-quests",
-    "license": "LicenseRef-All-Rights-Reserved",
-    "license_url": null,
-    "source": null
   },
   {
     "path": "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
@@ -108,6 +99,24 @@
     "source": "https://github.com/ObscuriaLithium/Aquamirae"
   },
   {
+    "path": "mods/archers-neoforge-3.1.1+1.21.1.jar",
+    "title": "Archers (RPG Series)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/archers",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Archers"
+  },
+  {
+    "path": "mods/archers_expansion-neoforge-2.1.1+1.21.1.jar",
+    "title": "Archers Expansion (More RPG Classes)",
+    "version": "2.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/archers-expansion",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ProfessorFichte/Archers-Expansion"
+  },
+  {
     "path": "mods/architectury-13.0.11-neoforge.jar",
     "title": "Architectury API",
     "version": "13.0.11+neoforge",
@@ -115,6 +124,33 @@
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/architectury/architectury"
+  },
+  {
+    "path": "mods/armor_model_api-neoforge-1.1.0+1.21.1.jar",
+    "title": "Armor Model API",
+    "version": "1.1.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/armor-model-api",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/FabricExtras/ArmorModelAPI"
+  },
+  {
+    "path": "mods/armory-neoforge-1.5.2+1.21.1.jar",
+    "title": "Armory (RPG Series)",
+    "version": "1.5.2+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/armory-rpg-series",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Armory"
+  },
+  {
+    "path": "mods/arsenal-neoforge-1.5.0+1.21.1.jar",
+    "title": "Arsenal (RPG Series)",
+    "version": "1.5.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/arsenal-rpg-series",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Arsenal"
   },
   {
     "path": "mods/artifacts-neoforge-13.2.5.jar",
@@ -133,6 +169,24 @@
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": "https://mods.twelveiterations.com/permissions",
     "source": "https://github.com/TwelveIterations/Balm"
+  },
+  {
+    "path": "mods/bards_rpg-neoforge-1.1.1-1.21.1.jar",
+    "title": "Bard (RPG Series Plus)",
+    "version": "1.1.1-1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/bard-more-rpg-classes",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ProfessorFichte/Bards"
+  },
+  {
+    "path": "mods/berserker_rpg-neoforge-3.1.1+1.21.1.jar",
+    "title": "Berserker (More RPG Classes)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/berserker-rpg-class",
+    "license": "LicenseRef-Custom-License",
+    "license_url": "https://github.com/ProfessorFichte/Berserker/blob/1.21.1/LICENSE",
+    "source": "https://github.com/ProfessorFichte/Berserker-RPG-Class"
   },
   {
     "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
@@ -187,6 +241,15 @@
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/ejektaflex/Bountiful/issues"
+  },
+  {
+    "path": "mods/bundle-api-neoforge-1.1.0.jar",
+    "title": "Bundle API",
+    "version": "1.1.0-neoforge",
+    "project": "https://modrinth.com/mod/bundle-api",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/TheRedBrain/bundle-api"
   },
   {
     "path": "mods/cloth-config-15.0.140-neoforge.jar",
@@ -324,6 +387,15 @@
     "source": "https://github.com/Cristelknight999/Cristel-Lib"
   },
   {
+    "path": "mods/critical_strike-neoforge-1.0.4+1.21.1.jar",
+    "title": "Critical Strike",
+    "version": "1.0.4+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/critical-strike",
+    "license": "GPL-3.0-only",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Critical-Strike"
+  },
+  {
     "path": "mods/crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
     "title": "Critters and Companions",
     "version": "2.7.0",
@@ -376,6 +448,15 @@
     "license": "LicenseRef-Multiple",
     "license_url": "https://github.com/samedifferent/Ecologics/blob/1.19-crossplatform/LICENSE",
     "source": "https://github.com/samedifferent/Ecologics"
+  },
+  {
+    "path": "mods/elemental_wizards_rpg-neoforge-3.1.1+1.21.1.jar",
+    "title": "Elemental Wizards (More RPG Classes)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/elemental-wizards-rpg",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ProfessorFichte/Elemental-Wizards-RPG-Class"
   },
   {
     "path": "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
@@ -459,6 +540,15 @@
     "source": "https://github.com/malte0811/FerriteCore"
   },
   {
+    "path": "mods/forcemaster_rpg-neoforge-3.1.1+1.21.1.jar",
+    "title": "Forcemaster (More RPG Classes)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/forcemaster-rpg-class",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": "https://github.com/ProfessorFichte/Forcemaster/blob/1.21.1/LICENSE",
+    "source": "https://github.com/ProfessorFichte/Forcemaster-RPG-Class"
+  },
+  {
     "path": "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
     "title": "Forgified Fabric API",
     "version": "0.116.15+2.3.5+1.21.1",
@@ -502,6 +592,15 @@
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/0rc1nus/Galosphere-Main"
+  },
+  {
+    "path": "mods/gazebo-neoforge-2.2.0+1.21.1.jar",
+    "title": "Gazebos (RPG Series)",
+    "version": "2.2.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/gazebos",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Gazebo"
   },
   {
     "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
@@ -603,6 +702,15 @@
     "source": "https://github.com/Snownee/Jade"
   },
   {
+    "path": "mods/jewelry-neoforge-2.4.0+1.21.1.jar",
+    "title": "Jewelry (RPG Series)",
+    "version": "2.4.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/jewelry",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Jewelry"
+  },
+  {
     "path": "mods/journeymap-neoforge-1.21.1-6.0.7.jar",
     "title": "JourneyMap",
     "version": "1.21.1-6.0.7+neoforge",
@@ -675,6 +783,15 @@
     "source": "https://github.com/Apollounknowndev/lithostitched/"
   },
   {
+    "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
+    "title": "Lootr",
+    "version": "1.21.1-1.11.38.125",
+    "project": "https://modrinth.com/mod/lootr",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/noobanidus/lootr"
+  },
+  {
     "path": "mods/MoogsEndStructures-1.21-2.0.3.jar",
     "title": "MES - Moog's End Structures",
     "version": "2.0.3",
@@ -709,6 +826,15 @@
     "license": "LicenseRef-LGPL-with-additional-dependency-clause",
     "license_url": "https://github.com/MehVahdJukaar/Moonlight/blob/1.20/license.md",
     "source": "https://github.com/MehVahdJukaar/Moonlight/tree/multi-loader"
+  },
+  {
+    "path": "mods/more_rpg_library-neoforge-2.7.2+1.21.1.jar",
+    "title": "More RPG Library",
+    "version": "2.7.2+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/more-rpg-library",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/ProfessorFichte/More-RPG-Classes"
   },
   {
     "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -763,6 +889,15 @@
     "license": "LicenseRef-Stardust-Labs-License",
     "license_url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt",
     "source": "https://github.com/Stardust-Labs-MC/Nullscape"
+  },
+  {
+    "path": "mods/paladins-neoforge-3.1.1+1.21.1.jar",
+    "title": "Paladins & Priests (RPG Series)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/paladins-and-priests",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Paladins"
   },
   {
     "path": "mods/Philips-Ruins1.21.1-2.0-NeoForge.jar",
@@ -828,6 +963,15 @@
     "source": "https://github.com/AHilyard/Prism/"
   },
   {
+    "path": "mods/puffish_skills-0.19.0-1.21-neoforge.jar",
+    "title": "Pufferfish's Skills",
+    "version": "0.19.0",
+    "project": "https://modrinth.com/mod/skills",
+    "license": "LicenseRef-Custom",
+    "license_url": "https://github.com/pufmat/skillsmod/wiki/License",
+    "source": "https://github.com/pufmat/skillsmod"
+  },
+  {
     "path": "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
     "title": "Puzzles Lib",
     "version": "21.1.56",
@@ -844,6 +988,15 @@
     "license": "LGPL-3.0-or-later",
     "license_url": null,
     "source": "https://github.com/yurisuika/Raised"
+  },
+  {
+    "path": "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
+    "title": "Ranged Weapon API",
+    "version": "3.0.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/ranged-weapon-api",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/FabricExtras/RangedWeaponAPI"
   },
   {
     "path": "mods/relics-1.21.1-0.12.8.jar",
@@ -882,6 +1035,24 @@
     "source": "https://github.com/yungnickyoung/Ribbits"
   },
   {
+    "path": "mods/rogues-neoforge-3.1.1+1.21.1.jar",
+    "title": "Rogues & Warriors (RPG Series)",
+    "version": "3.1.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/rogues-and-warriors",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Rogues"
+  },
+  {
+    "path": "mods/runes-neoforge-1.3.2+1.21.1.jar",
+    "title": "Runes",
+    "version": "1.3.2+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/runes",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Runes"
+  },
+  {
     "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
     "title": "Sable",
     "version": "2.0.5+mc1.21.1",
@@ -907,6 +1078,15 @@
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/Octo-Studios/octo-lib"
+  },
+  {
+    "path": "mods/shield_api-neoforge-2.2.0.jar",
+    "title": "Shield API",
+    "version": "2.2.0-neoforge",
+    "project": "https://modrinth.com/mod/shield-api",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/FabricExtras/ShieldAPI"
   },
   {
     "path": "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
@@ -943,6 +1123,15 @@
     "license": "LicenseRef-Timefall-Development-License-1.2",
     "license_url": "https://github.com/Sweenus/simplytooltips/blob/master/LICENSE.txt",
     "source": "https://github.com/Sweenus/simplytooltips"
+  },
+  {
+    "path": "mods/skill_tree-neoforge-1.6.0+1.21.1.jar",
+    "title": "Skill Tree (RPG Series)",
+    "version": "1.6.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/skill-tree",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/SkillTree"
   },
   {
     "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
@@ -1026,6 +1215,24 @@
     "source": "https://github.com/Tschipcraft/spawnanimations"
   },
   {
+    "path": "mods/spell_engine-neoforge-1.10.5+1.21.1.jar",
+    "title": "Spell Engine",
+    "version": "1.10.5+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/spell-engine",
+    "license": "GPL-3.0-only",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/SpellEngine"
+  },
+  {
+    "path": "mods/spell_power-neoforge-1.6.0+1.21.1.jar",
+    "title": "Spell Power Attributes",
+    "version": "1.6.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/spell-power",
+    "license": "LGPL-3.0-only",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/SpellPower"
+  },
+  {
     "path": "mods/Structory_26.2_v1.3.7.jar",
     "title": "Structory",
     "version": "1.3.17",
@@ -1033,6 +1240,15 @@
     "license": "LicenseRef-Stardust-Labs-License",
     "license_url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt",
     "source": "https://github.com/Stardust-Labs-MC/Structory"
+  },
+  {
+    "path": "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+    "title": "Structure Pool API",
+    "version": "1.2.1+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/structure-pool-api",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/FabricExtras/StructurePoolAPI"
   },
   {
     "path": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
@@ -1071,6 +1287,15 @@
     "source": "https://github.com/Stardust-Labs-MC/Terralith"
   },
   {
+    "path": "mods/tlc-neoforge-1.21.1-2.1.0.jar",
+    "title": "The Lost Castle",
+    "version": "2.1.0",
+    "project": "https://modrinth.com/mod/the-lost-castle",
+    "license": "LGPL-3.0-only",
+    "license_url": null,
+    "source": "https://github.com/Team-Remastered/The-Lost-Castle-Forge"
+  },
+  {
     "path": "mods/tide-neoforge-1.21.1-2.1.1.jar",
     "title": "Tide 2",
     "version": "2.1.1",
@@ -1105,6 +1330,51 @@
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/YUNG-GANG/Travelers-Titles"
+  },
+  {
+    "path": "mods/village_taverns-neoforge-1.3.0+1.21.1.jar",
+    "title": "Village Taverns (RPG Series)",
+    "version": "1.3.0+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/village-taverns",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Taverns"
+  },
+  {
+    "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+    "title": "When Dungeons Arise",
+    "version": "2.1.68",
+    "project": "https://modrinth.com/mod/when-dungeons-arise",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": null
+  },
+  {
+    "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+    "title": "When Dungeons Arise: Seven Seas",
+    "version": "1.0.4",
+    "project": "https://modrinth.com/mod/when-dungeons-arise-seven-seas",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": null
+  },
+  {
+    "path": "mods/witcher-class-mod-neoforge-3.1.2+1.21.1.jar",
+    "title": "Witcher (More RPG Classes)",
+    "version": "3.1.2+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/witcher-rpg-class",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ProfessorFichte/Witcher-RPG-Class"
+  },
+  {
+    "path": "mods/wizards-neoforge-3.1.2+1.21.1.jar",
+    "title": "Wizards (RPG Series)",
+    "version": "3.1.2+1.21.1-neoforge",
+    "project": "https://modrinth.com/mod/wizards",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "license_url": null,
+    "source": "https://github.com/ZsoltMolnarrr/Wizards"
   },
   {
     "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",

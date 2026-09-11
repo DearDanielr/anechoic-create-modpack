@@ -1,0 +1,237 @@
+{
+  "version": "1.8.0",
+  "base_version": "1.7.1",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.249",
+  "client_mods": 162,
+  "server_mods_after_restart": 127,
+  "activation": "Installed files take effect at the next server restart. No restart was requested.",
+  "additions": [
+    {
+      "project": "Additional Jewelry",
+      "url": "https://modrinth.com/mod/additional-rpg-jewelry",
+      "version": "2.3.1+1.21.1-neoforge",
+      "version_id": "FtXm9snY"
+    },
+    {
+      "project": "Archers (RPG Series)",
+      "url": "https://modrinth.com/mod/archers",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "it5wwINY"
+    },
+    {
+      "project": "Archers Expansion (More RPG Classes)",
+      "url": "https://modrinth.com/mod/archers-expansion",
+      "version": "2.1.1+1.21.1-neoforge",
+      "version_id": "nOK3xplJ"
+    },
+    {
+      "project": "Armor Model API",
+      "url": "https://modrinth.com/mod/armor-model-api",
+      "version": "1.1.0+1.21.1-neoforge",
+      "version_id": "QRkmKYGJ"
+    },
+    {
+      "project": "Armory (RPG Series)",
+      "url": "https://modrinth.com/mod/armory-rpg-series",
+      "version": "1.5.2+1.21.1-neoforge",
+      "version_id": "51cccxUm"
+    },
+    {
+      "project": "Arsenal (RPG Series)",
+      "url": "https://modrinth.com/mod/arsenal-rpg-series",
+      "version": "1.5.0+1.21.1-neoforge",
+      "version_id": "rYyhslig"
+    },
+    {
+      "project": "Bard (RPG Series Plus)",
+      "url": "https://modrinth.com/mod/bard-more-rpg-classes",
+      "version": "1.1.1-1.21.1-neoforge",
+      "version_id": "K2t0CqfR"
+    },
+    {
+      "project": "Berserker (More RPG Classes)",
+      "url": "https://modrinth.com/mod/berserker-rpg-class",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "Z169ob2G"
+    },
+    {
+      "project": "Bundle API",
+      "url": "https://modrinth.com/mod/bundle-api",
+      "version": "1.1.0-neoforge",
+      "version_id": "w5F5wdko"
+    },
+    {
+      "project": "Critical Strike",
+      "url": "https://modrinth.com/mod/critical-strike",
+      "version": "1.0.4+1.21.1-neoforge",
+      "version_id": "2LZ76MSH"
+    },
+    {
+      "project": "Elemental Wizards (More RPG Classes)",
+      "url": "https://modrinth.com/mod/elemental-wizards-rpg",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "lZy9JjDR"
+    },
+    {
+      "project": "Forcemaster (More RPG Classes)",
+      "url": "https://modrinth.com/mod/forcemaster-rpg-class",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "2yMJPJK9"
+    },
+    {
+      "project": "Gazebos (RPG Series)",
+      "url": "https://modrinth.com/mod/gazebos",
+      "version": "2.2.0+1.21.1-neoforge",
+      "version_id": "ktRCCPX3"
+    },
+    {
+      "project": "Jewelry (RPG Series)",
+      "url": "https://modrinth.com/mod/jewelry",
+      "version": "2.4.0+1.21.1-neoforge",
+      "version_id": "UYMxzqUh"
+    },
+    {
+      "project": "Lootr",
+      "url": "https://modrinth.com/mod/lootr",
+      "version": "1.21.1-1.11.38.125",
+      "version_id": "ST5FHZnD"
+    },
+    {
+      "project": "More RPG Library",
+      "url": "https://modrinth.com/mod/more-rpg-library",
+      "version": "2.7.2+1.21.1-neoforge",
+      "version_id": "aYw4LYyV"
+    },
+    {
+      "project": "Paladins & Priests (RPG Series)",
+      "url": "https://modrinth.com/mod/paladins-and-priests",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "gO23y4tZ"
+    },
+    {
+      "project": "Ranged Weapon API",
+      "url": "https://modrinth.com/mod/ranged-weapon-api",
+      "version": "3.0.0+1.21.1-neoforge",
+      "version_id": "WxNYN3Zh"
+    },
+    {
+      "project": "Rogues & Warriors (RPG Series)",
+      "url": "https://modrinth.com/mod/rogues-and-warriors",
+      "version": "3.1.1+1.21.1-neoforge",
+      "version_id": "xnANhdPV"
+    },
+    {
+      "project": "Runes",
+      "url": "https://modrinth.com/mod/runes",
+      "version": "1.3.2+1.21.1-neoforge",
+      "version_id": "Br4oP4M6"
+    },
+    {
+      "project": "Shield API",
+      "url": "https://modrinth.com/mod/shield-api",
+      "version": "2.2.0-neoforge",
+      "version_id": "fgK2cNYi"
+    },
+    {
+      "project": "Skill Tree (RPG Series)",
+      "url": "https://modrinth.com/mod/skill-tree",
+      "version": "1.6.0+1.21.1-neoforge",
+      "version_id": "sxJUD8Hf"
+    },
+    {
+      "project": "Pufferfish's Skills",
+      "url": "https://modrinth.com/mod/skills",
+      "version": "0.19.0",
+      "version_id": "PFZY8Vfz"
+    },
+    {
+      "project": "Spell Engine",
+      "url": "https://modrinth.com/mod/spell-engine",
+      "version": "1.10.5+1.21.1-neoforge",
+      "version_id": "VQ29MaF4"
+    },
+    {
+      "project": "Spell Power Attributes",
+      "url": "https://modrinth.com/mod/spell-power",
+      "version": "1.6.0+1.21.1-neoforge",
+      "version_id": "RFCD8Aio"
+    },
+    {
+      "project": "Structure Pool API",
+      "url": "https://modrinth.com/mod/structure-pool-api",
+      "version": "1.2.1+1.21.1-neoforge",
+      "version_id": "kdWVYKdx"
+    },
+    {
+      "project": "The Lost Castle",
+      "url": "https://modrinth.com/mod/the-lost-castle",
+      "version": "2.1.0",
+      "version_id": "1SIEERGM"
+    },
+    {
+      "project": "Village Taverns (RPG Series)",
+      "url": "https://modrinth.com/mod/village-taverns",
+      "version": "1.3.0+1.21.1-neoforge",
+      "version_id": "qhOcjQ6u"
+    },
+    {
+      "project": "When Dungeons Arise",
+      "url": "https://modrinth.com/mod/when-dungeons-arise",
+      "version": "2.1.68",
+      "version_id": "XIRJSFQ0"
+    },
+    {
+      "project": "When Dungeons Arise: Seven Seas",
+      "url": "https://modrinth.com/mod/when-dungeons-arise-seven-seas",
+      "version": "1.0.4",
+      "version_id": "erk04BGa"
+    },
+    {
+      "project": "Witcher (More RPG Classes)",
+      "url": "https://modrinth.com/mod/witcher-rpg-class",
+      "version": "3.1.2+1.21.1-neoforge",
+      "version_id": "kKeWwRSD"
+    },
+    {
+      "project": "Wizards (RPG Series)",
+      "url": "https://modrinth.com/mod/wizards",
+      "version": "3.1.2+1.21.1-neoforge",
+      "version_id": "JuuGt2qE"
+    }
+  ],
+  "exclusions": [
+    {
+      "mod": "Druids (RPG Series Plus)",
+      "version": "1.2",
+      "reason": "Still the latest native NeoForge release; previously reproduced missing Spell Engine ConfigFile$Equipment with 1.10.5. No compatible published update found."
+    },
+    {
+      "mod": "More RPG Classes - Skill Tree",
+      "version": "1.1.2",
+      "reason": "Full-pack test fails at startup: NoClassDefFoundError net/spell_engine/api/config/ConfigFile$Effects. The base RPG Series Skill Tree is retained."
+    },
+    {
+      "mod": "Death Knights and Spellblades and Such",
+      "reason": "No native NeoForge 1.21.1 versions published on the official Modrinth projects."
+    }
+  ],
+  "controls": {
+    "open_skill_tree": "F7"
+  },
+  "instant_spell_global_cooldown_ticks": 5,
+  "removals": [
+    {
+      "mod": "Aeronautics Delivery Quests",
+      "reason": "Removed at owner request after confirmed quest_sync encoding disconnects."
+    },
+    {
+      "mod": "ADQ Tweaks",
+      "reason": "Addon for removed Delivery Quests."
+    },
+    {
+      "mod": "ADQ Notification Fix (server only)",
+      "reason": "Addon for removed ADQ Tweaks."
+    }
+  ]
+}
