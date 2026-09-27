@@ -1,0 +1,106 @@
+{
+  "version": "1.12.0",
+  "date_utc": "2026-09-27",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.252",
+  "selection": {
+    "upstream_updates": 46,
+    "additional_required_libraries": 1,
+    "beta_builds": 6,
+    "spell_engine": "1.10.7",
+    "excluded_latest": "Spell Engine 1.10.8 fails server loot loading with Witcher 3.1.4: LootHelper.configure NoSuchMethodError."
+  },
+  "client": {
+    "pinned_downloads_sha512_verified": 179,
+    "extra_local_mod_preserved": "Scrapbook 0.2.0, excluded from public pack",
+    "actual_game_startup": true,
+    "actual_loopback_multiplayer_join": true,
+    "world_render_observed": true,
+    "sable_udp_authenticated": true,
+    "voice_chat_authenticated": true,
+    "startup_mod_workers": 1
+  },
+  "server": {
+    "production_jar_count": 147,
+    "shared_jars_matching_client": 140,
+    "upstream_mod_replacements": 41,
+    "additional_library": "MezzConfig 0.6.5",
+    "custom_policy_rebuilds": [
+      "Anechoic Anvil Policy 1.0.1",
+      "Anechoic Tier Spawns 1.1.1"
+    ],
+    "custom_policy_logic_changes": false,
+    "custom_policy_change": "Retarget the tested NeoForge dependency from 21.1.249 to 21.1.252.",
+    "anvil_native_checks": 6983,
+    "mining_native_checks": 47,
+    "tier_native_checks": 64,
+    "tier_native_spawn_results": {
+      "haven": {
+        "passes": 0,
+        "joined_mobs": 72,
+        "finalize_events": 72
+      },
+      "frontier": {
+        "passes": 0,
+        "joined_mobs": 70,
+        "finalize_events": 70
+      },
+      "ascent": {
+        "passes": 0,
+        "joined_mobs": 70,
+        "finalize_events": 70
+      },
+      "summit": {
+        "passes": 0,
+        "joined_mobs": 72,
+        "finalize_events": 71
+      },
+      "pinnacle": {
+        "passes": 0,
+        "joined_mobs": 72,
+        "finalize_events": 71
+      }
+    },
+    "equipment_affix_entries_after_native_reload": 744,
+    "fresh_world_start_and_saved_test_world_restart": true,
+    "tested_worlds": "Disposable normal world for startup/mining/anvils/login; flat fixture for controlled native spawning checks.",
+    "production_stage_files_sha256_verified": 251,
+    "production_activation": "Pending authorized restart; production worlds and mods have not been changed."
+  },
+  "packages": {
+    "assets": [
+      {
+        "name": "Create-Aeronautics-Vanilla-Plus-1.12.0-Configs.zip",
+        "bytes": 232391,
+        "sha256": "134e3fdaf187a86f1e537a5600900ce94cc63517cf60072fd20e567c35bab620"
+      },
+      {
+        "name": "Create-Aeronautics-Vanilla-Plus-1.12.0-CurseForge.zip",
+        "bytes": 241077,
+        "sha256": "1bbbc169b2d2aeba4ff77a5df2cc01841c6a7f079ddca9546b40020fa4817c98"
+      },
+      {
+        "name": "Create-Aeronautics-Vanilla-Plus-1.12.0-Prism.zip",
+        "bytes": 271968,
+        "sha256": "3808528e6c77c8b71f3edee85848d15389568f04c1dbc12f877cbbcc0b905ceb"
+      },
+      {
+        "name": "Create-Aeronautics-Vanilla-Plus-1.12.0.mrpack",
+        "bytes": 271968,
+        "sha256": "3808528e6c77c8b71f3edee85848d15389568f04c1dbc12f877cbbcc0b905ceb"
+      }
+    ],
+    "updated_curseforge_downloads_sha512_verified": 46,
+    "curseforge_indexed_files": 178,
+    "curseforge_manual_files": 1,
+    "curseforge_manual_file": "WilderNature 1.1.6 NeoForge is absent from its CurseForge project. EXTERNAL-MODS.txt supplies the author-hosted Modrinth URL and SHA512; Prism/MRPACK install automatically.",
+    "curseforge_equivalence": "Four Sophisticated builds differ only in build timestamp. Paladins differs only in generated Architectury identifiers; nested library entries compare identically. Existing unchanged files retain previously verified pins."
+  },
+  "limits": [
+    "One actual loopback client join was observed; this is not a multiplayer load or extended gameplay test.",
+    "The production saved world has not been run under the new software before activation. A verified full offline backup is required before installation.",
+    "Nonfatal upstream recipe, optional compatibility, resource and missing-tag warnings remain; successful startup does not mean warning-free logs.",
+    "The CurseForge app itself was not used to perform a fresh import.",
+    "Private QA modules and QA world/configuration changes are excluded from the staged server release."
+  ]
+}

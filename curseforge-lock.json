@@ -1,7 +1,7 @@
 {
-  "version": "1.11.1",
+  "version": "1.12.0",
   "minecraft": "1.21.1",
-  "neoforge": "21.1.249",
+  "neoforge": "21.1.252",
   "files": [
     {
       "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",
@@ -120,36 +120,32 @@
       "download": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar"
     },
     {
-      "path": "mods/aquamirae-neoforge-1.21.1-7.2.4.jar",
+      "path": "mods/aquamirae-neoforge-1.21.1-7.2.10.jar",
       "projectID": 536254,
-      "fileID": 8773400,
-      "fileName": "aquamirae-neoforge-1.21.1-7.2.4.jar",
-      "fileSize": 26119858,
+      "fileID": 8931374,
+      "fileName": "aquamirae-neoforge-1.21.1-7.2.10.jar",
+      "fileSize": 26095099,
       "hashes": {
-        "sha1": "27eef2706e87ddfd5faca5d17ad354156d31afdf",
-        "sha512": "c24080b0f5f3f53f56cceab7617ff03b480ca931827a786d8e7c5c76a8360fd310436a1cdcd8b66c238caf09a316925bf6facc6fd32f2a3507b9ba377d2993f9"
+        "sha512": "d3e7986083d84982206391b13a6e3d3ef2496e9caa849471107ee8acb148315db789eeea2173eac910e2383ed173bbe3d2c3042da3181853ad6d59f42f9eab1b",
+        "sha1": "28d18d2da303d50738e080b8a67b60358f6511b9"
       },
-      "modrinth_sha1": "27eef2706e87ddfd5faca5d17ad354156d31afdf",
+      "modrinth_sha1": "28d18d2da303d50738e080b8a67b60358f6511b9",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8773/400/aquamirae-neoforge-1.21.1-7.2.4.jar"
+      "download": "https://edge.forgecdn.net/files/8931/374/aquamirae-neoforge-1.21.1-7.2.10.jar"
     },
     {
-      "path": "mods/archers-neoforge-3.1.1+1.21.1.jar",
+      "path": "mods/archers-neoforge-3.1.3+1.21.1.jar",
       "projectID": 932359,
-      "fileID": 8695273,
-      "fileName": "archers-neoforge-3.1.1+1.21.1.jar",
-      "fileSize": 902745,
+      "fileID": 8982143,
+      "fileName": "archers-neoforge-3.1.3+1.21.1.jar",
+      "fileSize": 903289,
       "hashes": {
-        "sha1": "2dbebe6966bd8f9d3b52aba9f5b21a457ea77ac4",
-        "sha512": "d08d3974700aa35a8d2a15de6cdf6d7b240d870c468b701b6607b9485e016288ccfa27ef7bb0a935534760e81a7dd1000de4e35e3691973f75d988af594ac43d"
+        "sha1": "75164980b2e88b5a1f1fffb7fdcffb51d2f7d8a4",
+        "sha512": "97f0f02d8f4dd8ab655ef6eb08b04e9345b6dc1ad72ad6a385617fa78cc0be9e8ec3209ca1c15fd03bf29a0ee844481f673278996a77b7f8d7949b2e80adaa52"
       },
-      "modrinth_sha1": "76a6ef48d7e77d81cbf0f158ff23cd62a5063189",
-      "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8695/273/archers-neoforge-3.1.1%2b1.21.1.jar",
-      "equivalence_checks": {
-        "files_checked": 601,
-        "generated_build_ids": 1
-      }
+      "modrinth_sha1": "75164980b2e88b5a1f1fffb7fdcffb51d2f7d8a4",
+      "comparison": "byte-identical",
+      "download": "https://edge.forgecdn.net/files/8982/143/archers-neoforge-3.1.3%2b1.21.1.jar"
     },
     {
       "path": "mods/archers_expansion-neoforge-2.1.1+1.21.1.jar",
@@ -236,18 +232,18 @@
       "download": "https://edge.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar"
     },
     {
-      "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
+      "path": "mods/balm-neoforge-1.21.1-21.0.66.jar",
       "projectID": 531761,
-      "fileID": 8645517,
-      "fileName": "balm-neoforge-1.21.1-21.0.65.jar",
+      "fileID": 8969738,
+      "fileName": "balm-neoforge-1.21.1-21.0.66.jar",
       "fileSize": 783793,
       "hashes": {
-        "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d",
-        "sha512": "779b4f9e9738ae6f010e87f71b2ed5a114eb9b1b3d5b55cf42ad538094e5b064a1d3f4ff00064aac90da1c841a144464d47378d9bffc448a71d87132cb954101"
+        "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+        "sha512": "0262d51c0e931d10c3dccefb3b5426a1622edecab243d4b15dce07a23309641370184776739765067d292d808242d088c6fbf249762689824eff9ba42c2d1e63"
       },
-      "modrinth_sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d",
+      "modrinth_sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8645/517/balm-neoforge-1.21.1-21.0.65.jar"
+      "download": "https://edge.forgecdn.net/files/8969/738/balm-neoforge-1.21.1-21.0.66.jar"
     },
     {
       "path": "mods/bards_rpg-neoforge-1.1.1-1.21.1.jar",
@@ -404,18 +400,18 @@
       "download": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar"
     },
     {
-      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "path": "mods/colorwheel-neoforge-1.3.0+mc1.21.1.jar",
       "projectID": 1254143,
-      "fileID": 8206645,
-      "fileName": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
-      "fileSize": 398004,
+      "fileID": 8990905,
+      "fileName": "colorwheel-neoforge-1.3.0+mc1.21.1.jar",
+      "fileSize": 514376,
       "hashes": {
-        "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
-        "sha512": "d2473439fdb26ff6a217808beea389f81e4cb387a9d7fde084660c432e70b8689d960c8e269820932632e6cefb7c11c1e24de758dceee723d93a83035927ccdc"
+        "sha512": "1d2088d41f57cef08b8b9692a5f95427c34cf218e0e0fe20bc335e7a5cab9e37cea414b786070cc29947fbbe9e9dba1a4134f722c35b9ccbef60e2a075e352aa",
+        "sha1": "350a9476147f00e351745ae1c1446eefe706bd89"
       },
-      "modrinth_sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
+      "modrinth_sha1": "350a9476147f00e351745ae1c1446eefe706bd89",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9%2bmc1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8990/905/colorwheel-neoforge-1.3.0%2bmc1.21.1.jar"
     },
     {
       "path": "mods/combat_roll-neoforge-2.0.6+1.21.1.jar",
@@ -460,18 +456,18 @@
       "download": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar"
     },
     {
-      "path": "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
       "projectID": 968398,
-      "fileID": 8714287,
-      "fileName": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
-      "fileSize": 1799269,
+      "fileID": 8822348,
+      "fileName": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "fileSize": 1799381,
       "hashes": {
-        "sha1": "ee0cddd7053622aa0a6964e7367bd69795273e7d",
-        "sha512": "85edd42d46ba2c331212584d1009bf2c7bd21782c89d2a1d994dbdd170a6812e20fee6aa51faf0aa9357bd75e973b692b460c30680093f8fc2c097c52dc60b08"
+        "sha512": "432b5cde473976476b0729172710d32805576d0c3a5fd66d21f882d96cef0c4eef1b85e4e3a1a316e2adc473784b11e156b0265b0f62bcfd5b035a6ff7dfcc6e",
+        "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7"
       },
-      "modrinth_sha1": "ee0cddd7053622aa0a6964e7367bd69795273e7d",
+      "modrinth_sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8714/287/copycats-3.0.8%2bmc.1.21.1-neoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8822/348/copycats-3.0.9%2bmc.1.21.1-neoforge.jar"
     },
     {
       "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
@@ -544,18 +540,18 @@
       "download": "https://edge.forgecdn.net/files/8542/167/createdieselgenerators-1.21.1-1.3.15.jar"
     },
     {
-      "path": "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar",
       "projectID": 257814,
-      "fileID": 8699787,
-      "fileName": "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
-      "fileSize": 1232783,
+      "fileID": 8975261,
+      "fileName": "CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar",
+      "fileSize": 1236290,
       "hashes": {
-        "sha1": "ed55360f72cd6666a1b191506a6270e05ef1ef49",
-        "sha512": "bf09773b202158d6ceb81ccfad3a8dd5b2e422d5cd0a7b9affca821af163c381bf839117765e7ca10b32ace0f477141e57f0ae9ea5c4fee38f06e1af6accef2b"
+        "sha512": "344ebfc6ab4043620a66f127bacfe115f897e01ce130aa0b154d59672f5a7bde27e522201c1737c0062c03940ecd9ec44cfb2ebbe9da0abfbf0a09e84b31a765",
+        "sha1": "69be287d26967aad86f8090f709934746966c232"
       },
-      "modrinth_sha1": "ed55360f72cd6666a1b191506a6270e05ef1ef49",
+      "modrinth_sha1": "69be287d26967aad86f8090f709934746966c232",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8699/787/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8975/261/CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar"
     },
     {
       "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
@@ -628,18 +624,18 @@
       "download": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar"
     },
     {
-      "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
       "projectID": 508933,
-      "fileID": 8389148,
-      "fileName": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-      "fileSize": 30207268,
+      "fileID": 8943824,
+      "fileName": "DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
+      "fileSize": 28224156,
       "hashes": {
-        "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
-        "sha512": "d4199f92f992fbd2c75a3b0e4e81c8a98bee889013f7347f2149ffa62c86748bde22135e9b2c82a10875db94fa576571c661c5ee16d2f567bd8a93d6f255fd22"
+        "sha1": "d18b0829416ec6948102524b6e913e5bc73ae402",
+        "sha512": "758d9591bb63a7851d368b6439135ec35ceb3b22e35723fca26433c4069be87c4098a23e8fc590be61903ac92e6ae1e3e1adf5beb744e6226c1fe70dd1933011"
       },
-      "modrinth_sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
+      "modrinth_sha1": "d18b0829416ec6948102524b6e913e5bc73ae402",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8389/148/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8943/824/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar"
     },
     {
       "path": "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
@@ -800,18 +796,18 @@
       "download": "https://edge.forgecdn.net/files/8082/824/Explorify%20v1.6.5.mod.jar"
     },
     {
-      "path": "mods/exposure-neoforge-1.21.1-1.9.18.jar",
+      "path": "mods/exposure-neoforge-1.21.1-1.9.19.jar",
       "projectID": 871755,
-      "fileID": 8223555,
-      "fileName": "exposure-neoforge-1.21.1-1.9.18.jar",
-      "fileSize": 2192415,
+      "fileID": 8957000,
+      "fileName": "exposure-neoforge-1.21.1-1.9.19.jar",
+      "fileSize": 2206392,
       "hashes": {
-        "sha1": "c37fe23cb482e9b3716ff5439defd4c84e2615ee",
-        "sha512": "2c0310cfbc9abfcf9e589fdf1079829253e47eb3ac84684a643951ebc432536a4e6f6567a67fc8ba4f4d55036e513804ff0996adee6a8a11cf59c76399de5ef6"
+        "sha512": "b6b18638d61196c3b579dcb5cd977b125586c848822ffa3bb247b3d34dc019e3ca53629303cbb57c0875f7e29be30ae036e81d90dd8feb5dd87090b2b81c08b7",
+        "sha1": "181d328a0328523fa99dd310937c40d917e91029"
       },
-      "modrinth_sha1": "c37fe23cb482e9b3716ff5439defd4c84e2615ee",
+      "modrinth_sha1": "181d328a0328523fa99dd310937c40d917e91029",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8223/555/exposure-neoforge-1.21.1-1.9.18.jar"
+      "download": "https://edge.forgecdn.net/files/8957/0/exposure-neoforge-1.21.1-1.9.19.jar"
     },
     {
       "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
@@ -889,18 +885,18 @@
       }
     },
     {
-      "path": "mods/fragmentum-neoforge-1.21.1-2.4.4.jar",
+      "path": "mods/fragmentum-5.0.0+1.21.1-neoforge.jar",
       "projectID": 1123977,
-      "fileID": 8707553,
-      "fileName": "fragmentum-neoforge-1.21.1-2.4.4.jar",
-      "fileSize": 1939369,
+      "fileID": 8921953,
+      "fileName": "fragmentum-5.0.0+1.21.1-neoforge.jar",
+      "fileSize": 7795977,
       "hashes": {
-        "sha1": "09995d8f0da787acdf5df590defc8dd38cf69884",
-        "sha512": "d86d4e2386f853e768659f0beb8debee6d9b0b17d081ec8ab8dcb171edbfa819bcdb49f5572734e680a73ab641de053d7bc103c742b0e487854506052b704cac"
+        "sha1": "bd5e53aed71308da1f12740c2af88019b4e7c2b3",
+        "sha512": "db7f71f4deb5dfec7141a86803bc38af9e21ee7c831ac56b3e9b1a73300e7fdcd37ebb7d836a6ed1b7219479d552a68427d318373bd534e0419faa8cc1e702af"
       },
-      "modrinth_sha1": "09995d8f0da787acdf5df590defc8dd38cf69884",
+      "modrinth_sha1": "bd5e53aed71308da1f12740c2af88019b4e7c2b3",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8707/553/fragmentum-neoforge-1.21.1-2.4.4.jar"
+      "download": "https://edge.forgecdn.net/files/8921/953/fragmentum-5.0.0%2b1.21.1-neoforge.jar"
     },
     {
       "path": "mods/friendsandfoes-neoforge-4.0.27+mc1.21.1.jar",
@@ -917,18 +913,18 @@
       "download": "https://edge.forgecdn.net/files/8589/256/friendsandfoes-neoforge-4.0.27%2bmc1.21.1.jar"
     },
     {
-      "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "path": "mods/fzzy_config-0.7.7+1.21+neoforge.jar",
       "projectID": 1005914,
-      "fileID": 7568897,
-      "fileName": "fzzy_config-0.7.6+1.21+neoforge.jar",
-      "fileSize": 2369895,
+      "fileID": 8883390,
+      "fileName": "fzzy_config-0.7.7+1.21+neoforge.jar",
+      "fileSize": 2392693,
       "hashes": {
-        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
-        "sha512": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d"
+        "sha512": "ef03b411b0e1b241a9952e1a8fdac61979665953eb5f28116aac06530964e7378eb20a78594a47ba4d942c74dfa20d550c292014b5de8e63c42b882a33aef5a5",
+        "sha1": "518eadc53c065a74a49207769209c116e77d1849"
       },
-      "modrinth_sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+      "modrinth_sha1": "518eadc53c065a74a49207769209c116e77d1849",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8883/390/fzzy_config-0.7.7%2b1.21%2bneoforge.jar"
     },
     {
       "path": "mods/Galosphere-1.21.1-1.5.5-NeoForge.jar",
@@ -973,18 +969,18 @@
       "download": "https://edge.forgecdn.net/files/8694/227/gazebo-neoforge-2.2.0%2b1.21.1.jar"
     },
     {
-      "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "projectID": 388172,
-      "fileID": 8350073,
-      "fileName": "geckolib-neoforge-1.21.1-4.9.2.jar",
-      "fileSize": 630584,
+      "fileID": 8893490,
+      "fileName": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "fileSize": 634531,
       "hashes": {
-        "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
-        "sha512": "c91012b16cc40c8f48f69b78cb8e2e5c006486ae2431fbd289dfc01be7a4217294becea22d83a155d6b32b3969450df871352a3695e1452168b84f41355f7b9e"
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
       },
-      "modrinth_sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
+      "modrinth_sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8350/73/geckolib-neoforge-1.21.1-4.9.2.jar"
+      "download": "https://edge.forgecdn.net/files/8893/490/geckolib-neoforge-1.21.1-4.9.3.jar"
     },
     {
       "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
@@ -1141,46 +1137,46 @@
       "download": "https://edge.forgecdn.net/files/8777/229/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
     },
     {
-      "path": "mods/jei-1.21.1-neoforge-19.51.0.418.jar",
+      "path": "mods/jei-1.21.1-neoforge-19.57.0.449.jar",
       "projectID": 238222,
-      "fileID": 8792638,
-      "fileName": "jei-1.21.1-neoforge-19.51.0.418.jar",
-      "fileSize": 1804792,
+      "fileID": 8964989,
+      "fileName": "jei-1.21.1-neoforge-19.57.0.449.jar",
+      "fileSize": 2252654,
       "hashes": {
-        "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
-        "sha512": "a6ca3abc3080f6f41033a77cb955fefe9f9ebae795c33546227f555b2d31e8d4131cc705126d14a3fbabb31097fc0e876dc0bbeb05ad907a1b796f21e57527bf"
+        "sha512": "d7ebef36c1ded726702b3372fe3f573970188768bf78ce863d552af8b1ab701eb292cb5938618c6aa9d523fe5968857f226846a2003297aff8c8fd14b355c29e",
+        "sha1": "e93a639ccaf91f5f59be8e65ee8c66db31ef474f"
       },
-      "modrinth_sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
+      "modrinth_sha1": "e93a639ccaf91f5f59be8e65ee8c66db31ef474f",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8792/638/jei-1.21.1-neoforge-19.51.0.418.jar"
+      "download": "https://edge.forgecdn.net/files/8964/989/jei-1.21.1-neoforge-19.57.0.449.jar"
     },
     {
-      "path": "mods/jewelry-neoforge-2.4.0+1.21.1.jar",
+      "path": "mods/jewelry-neoforge-2.5.0+1.21.1.jar",
       "projectID": 910706,
-      "fileID": 8694246,
-      "fileName": "jewelry-neoforge-2.4.0+1.21.1.jar",
-      "fileSize": 502727,
+      "fileID": 8992119,
+      "fileName": "jewelry-neoforge-2.5.0+1.21.1.jar",
+      "fileSize": 624614,
       "hashes": {
-        "sha1": "6ad0c02c2e8d857b4403db76bd425eb025fa955f",
-        "sha512": "a6d8284b5caa731e3b729b732ddfb17f654920fec98042cefed5d299e13a114c7b85a9b9d81f705c177dc6679e4057a9d8619c268f293480dbfac38a5bb7777d"
+        "sha512": "f03c161e95a48c19a31aca902ee04272d8a80909ba185d4ec247b0182cdd203acd5618179ebda21f6a46d1dd58f21a7c632f9570792234bc6405e5c64847fd24",
+        "sha1": "9074c9b974a9be27eea73ad9101fdde4954e2943"
       },
-      "modrinth_sha1": "6ad0c02c2e8d857b4403db76bd425eb025fa955f",
+      "modrinth_sha1": "9074c9b974a9be27eea73ad9101fdde4954e2943",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8694/246/jewelry-neoforge-2.4.0%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8992/119/jewelry-neoforge-2.5.0%2b1.21.1.jar"
     },
     {
-      "path": "mods/journeymap-neoforge-1.21.1-6.0.7.jar",
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.9.jar",
       "projectID": 32274,
-      "fileID": 8764294,
-      "fileName": "journeymap-neoforge-1.21.1-6.0.7.jar",
-      "fileSize": 4299852,
+      "fileID": 8923668,
+      "fileName": "journeymap-neoforge-1.21.1-6.0.9.jar",
+      "fileSize": 4320499,
       "hashes": {
-        "sha1": "cecb19e67cb5d9023057c1a94bab328723ba30dc",
-        "sha512": "5e79ec5aaf06329513e9b4537d8ef91a9d91ab3091fa475df4ba15bbd5907192c100f7870ae705dfc31f3ea7e82b8e98173ffc04dda9c292eeaa816bd33076fa"
+        "sha512": "8900ee4cdb7d1ffb6559decdeec84ad479d04b2e7b01a60be9f6e328809af2bfd7a80077b7da0e49bc96261fe8fe274ba33c62f6c9f65302c783ed823c4ff746",
+        "sha1": "3a5c86e620a7d5aa53b6e42ca4a1577bbba1d332"
       },
-      "modrinth_sha1": "cecb19e67cb5d9023057c1a94bab328723ba30dc",
+      "modrinth_sha1": "3a5c86e620a7d5aa53b6e42ca4a1577bbba1d332",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8764/294/journeymap-neoforge-1.21.1-6.0.7.jar"
+      "download": "https://edge.forgecdn.net/files/8923/668/journeymap-neoforge-1.21.1-6.0.9.jar"
     },
     {
       "path": "mods/kambrik-neoforge-8.0.0-beta.2.jar",
@@ -1215,32 +1211,32 @@
       }
     },
     {
-      "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.0+neoforge.jar",
+      "path": "mods/KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar",
       "projectID": 1244682,
-      "fileID": 8853180,
-      "fileName": "KotlinLangForge-2.13.0-k2.4.20-3.0+neoforge.jar",
-      "fileSize": 8056621,
+      "fileID": 8896109,
+      "fileName": "KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar",
+      "fileSize": 8214901,
       "hashes": {
-        "sha1": "db3fe62f79897378be178ecf351a5e3e93d633d3",
-        "sha512": "fa267dc598338a38cf6033eaae235c2831972cc1a06f6f62c9c8577b702d7dc75a07c29ea572735290a95a4e1a63b618ef15c752b2adf98df387dbb181e63f01"
+        "sha512": "8d6faf1fa623529e794fb0429b96f71965843ea1876262c26cecf4fe17dd6e64334498f984cca487e3083881f0e917a26af3862b72e85a2d0d5a7225104355da",
+        "sha1": "1a68ab7829e03b2f9ef59d4d2d58ac4c5be74ffc"
       },
-      "modrinth_sha1": "db3fe62f79897378be178ecf351a5e3e93d633d3",
+      "modrinth_sha1": "1a68ab7829e03b2f9ef59d4d2d58ac4c5be74ffc",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8853/180/KotlinLangForge-2.13.0-k2.4.20-3.0%2bneoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8896/109/KotlinLangForge-2.14.1-k2.4.20-3.0%2bneoforge.jar"
     },
     {
-      "path": "mods/legendary_monsters-2.2.2 MC 1.21.1.jar",
+      "path": "mods/legendary_monsters-2.2.3 MC 1.21.1.jar",
       "projectID": 944035,
-      "fileID": 8715533,
-      "fileName": "legendary_monsters-2.2.2 MC 1.21.1.jar",
-      "fileSize": 44757560,
+      "fileID": 8902342,
+      "fileName": "legendary_monsters-2.2.3 MC 1.21.1.jar",
+      "fileSize": 44748618,
       "hashes": {
-        "sha1": "8910859ba94190dd8cbc8c2c1e2f07562db729b4",
-        "sha512": "b7c4a811dba7aa0fdd813605277fd9a6bfcc4b971c4b592dfed13e99b96f0dc5fb9c13290080b4a7660e920003d3070861348aef5853a208d0e91521ee943a6d"
+        "sha512": "b82d2dbbf28bc9c657948b14e0a65e4d10e38793e41822fe6979f22f1f533ee6a604aea933d6b55afd3ab00ede18892efdfc50e0d6e17848547b7e6cbd58be6c",
+        "sha1": "0fbe7bfd238e64c6c54e8b9c2c8af44b4b1ce475"
       },
-      "modrinth_sha1": "8910859ba94190dd8cbc8c2c1e2f07562db729b4",
+      "modrinth_sha1": "0fbe7bfd238e64c6c54e8b9c2c8af44b4b1ce475",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8715/533/legendary_monsters-2.2.2%20MC%201.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8902/342/legendary_monsters-2.2.3%20MC%201.21.1.jar"
     },
     {
       "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -1257,88 +1253,74 @@
       "download": "https://edge.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
     },
     {
-      "path": "mods/letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "path": "mods/letsdo-bloomingnature-neoforge-1.1.11.jar",
       "projectID": 962885,
-      "fileID": 7829623,
-      "fileName": "letsdo-bloomingnature-neoforge-1.1.10.jar",
-      "fileSize": 3147224,
+      "fileID": 8914292,
+      "fileName": "letsdo-bloomingnature-neoforge-1.1.11.jar",
+      "fileSize": 3156249,
       "hashes": {
-        "sha1": "4c161f19d06d5eba52f8ad212fe7fd7c1fcc2c8b",
-        "sha512": "a5b50d5e76ed698262a746337771c99507f9a6292c2df77d4856c3d101ac852db851101c3f742d7cd9f12ebe2d3d135549029f69ff38601cbe15b58251282c30"
+        "sha1": "44a84e69d3f64638d281675e27930daa6f7343fc",
+        "sha512": "4b211a5a9c3d4e1e2fc88e35d411a62078140bffb947f43ed1a49e85edd15a45338340e84efd4b49bf256655e7d0e42d91d0c4aef36b6bed720f75aeabcd48a4"
       },
-      "modrinth_sha1": "4c161f19d06d5eba52f8ad212fe7fd7c1fcc2c8b",
+      "modrinth_sha1": "44a84e69d3f64638d281675e27930daa6f7343fc",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7829/623/letsdo-bloomingnature-neoforge-1.1.10.jar"
+      "download": "https://edge.forgecdn.net/files/8914/292/letsdo-bloomingnature-neoforge-1.1.11.jar"
     },
     {
-      "path": "mods/letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+      "path": "mods/letsdo-hearth_and_timber-neoforge-1.0.4.jar",
       "projectID": 1397796,
-      "fileID": 7704753,
-      "fileName": "letsdo-hearth_and_timber-neoforge-1.0.3.jar",
-      "fileSize": 1750092,
+      "fileID": 8918376,
+      "fileName": "letsdo-hearth_and_timber-neoforge-1.0.4.jar",
+      "fileSize": 1763264,
       "hashes": {
-        "sha1": "98116f4b15c912d57d51886f9bd7470ad7d397da",
-        "sha512": "373cb8ce45cc2cf12b29e3a355f86c618080b540df63a6e93f76d802ae872b4c99789b342bc7b29e0900513b8fc3ff902440b7eb825666b030b6e363e7a54ab4"
+        "sha1": "03d94d1735212ddccc9f9d2f8fbadc2d535a4cb0",
+        "sha512": "e20eb902358dc636d1a0c5fe77d5ad10f045a3f7ca16cb5aeb0552b38579389adb73e764ed261f475df149de03fba5bae559409b8b5e462d60f5005a01c8271a"
       },
-      "modrinth_sha1": "98116f4b15c912d57d51886f9bd7470ad7d397da",
+      "modrinth_sha1": "03d94d1735212ddccc9f9d2f8fbadc2d535a4cb0",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7704/753/letsdo-hearth_and_timber-neoforge-1.0.3.jar"
+      "download": "https://edge.forgecdn.net/files/8918/376/letsdo-hearth_and_timber-neoforge-1.0.4.jar"
     },
     {
-      "path": "mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "path": "mods/letsdo-herbalbrews-neoforge-1.1.4.jar",
       "projectID": 951221,
-      "fileID": 7657017,
-      "fileName": "letsdo-herbalbrews-neoforge-1.1.3.jar",
-      "fileSize": 757160,
+      "fileID": 8918021,
+      "fileName": "letsdo-herbalbrews-neoforge-1.1.4.jar",
+      "fileSize": 760078,
       "hashes": {
-        "sha1": "7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1",
-        "sha512": "cfcfc47c24daff1b82849d36cbe5aa1d731a8bfcd814bc6afda2909ae18c4ff29e928122a3c37bb622c14738825f0a0db00547b30b54cd06cdaafb4af155e201"
+        "sha512": "281bac102511bf7753371ab7ed488d6990dfb0caae0f216b931d3a05c74adfbe28330910e76d7eea0268f0a7d64997a7c0d7d9b3fc9efb43d9711487f36b4989",
+        "sha1": "22cddc92a7bca8d9816de608355a8329566e44cb"
       },
-      "modrinth_sha1": "7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1",
+      "modrinth_sha1": "22cddc92a7bca8d9816de608355a8329566e44cb",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7657/17/letsdo-herbalbrews-neoforge-1.1.3.jar"
+      "download": "https://edge.forgecdn.net/files/8918/21/letsdo-herbalbrews-neoforge-1.1.4.jar"
     },
     {
-      "path": "mods/letsdo-meadow-neoforge-1.4.8.jar",
+      "path": "mods/letsdo-meadow-neoforge-1.4.9.jar",
       "projectID": 821483,
-      "fileID": 7672847,
-      "fileName": "letsdo-meadow-neoforge-1.4.8.jar",
-      "fileSize": 2165946,
+      "fileID": 8913735,
+      "fileName": "letsdo-meadow-neoforge-1.4.9.jar",
+      "fileSize": 2166999,
       "hashes": {
-        "sha1": "a203a4b5180a55a3c97d32acf6299579ea45ad9f",
-        "sha512": "a45a42b1789c3c979e91bc65c422bf5832d514005a82def3860d812a9bf02a2a6d5079d53f625d976b09585cecda8f1d26802b310ce2e44751c5f5c930efe50d"
+        "sha1": "74aa328a49c3b4df00f489e63bf16eab04460e15",
+        "sha512": "d2964067e4e515c99f230d0c318497ae75c939f058eaaf686a3517f5b5277ffa431d3e9fd048715be965d2bc47bd28bea4f6b6fa880ce9ebbe2a38a989a8c783"
       },
-      "modrinth_sha1": "a203a4b5180a55a3c97d32acf6299579ea45ad9f",
+      "modrinth_sha1": "74aa328a49c3b4df00f489e63bf16eab04460e15",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7672/847/letsdo-meadow-neoforge-1.4.8.jar"
+      "download": "https://edge.forgecdn.net/files/8913/735/letsdo-meadow-neoforge-1.4.9.jar"
     },
     {
-      "path": "mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "path": "mods/letsdo-vinery-neoforge-1.5.4.jar",
       "projectID": 704465,
-      "fileID": 7539914,
-      "fileName": "letsdo-vinery-neoforge-1.5.3.jar",
-      "fileSize": 2001616,
+      "fileID": 8918247,
+      "fileName": "letsdo-vinery-neoforge-1.5.4.jar",
+      "fileSize": 2018257,
       "hashes": {
-        "sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2",
-        "sha512": "1a99d218420f57733ec133f059e9491fa1a1ec915e2e350c54a38d6fddb5332a61608ffd3703594faf2924dcc8e9d387ca2573f3816c6b82251046df0cdea122"
+        "sha1": "b2ee54792641fad12d8ac52ad218551a5f00ecab",
+        "sha512": "9abcd2dc17da92aea108d865ca51cbf256683a1130c4dc2f16de8903725d30216b5a8d040191263a1ede0aa2742b292e82f8dc8812b906acd1f850de095253d0"
       },
-      "modrinth_sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2",
+      "modrinth_sha1": "b2ee54792641fad12d8ac52ad218551a5f00ecab",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7539/914/letsdo-vinery-neoforge-1.5.3.jar"
-    },
-    {
-      "path": "mods/letsdo-wildernature-neoforge-1.1.5.jar",
-      "projectID": 1071657,
-      "fileID": 8543233,
-      "fileName": "letsdo-wildernature-neoforge-1.1.5.jar",
-      "fileSize": 3352801,
-      "hashes": {
-        "sha1": "5307a4edc885ab949eed4438d9d7f9cb6176421d",
-        "sha512": "aae0fbf63605d1e9ccd59522b897b890b21dc9b3878b3bdaafb887c034ae31877b20a38e03887476314226410e3581b2b27e89a6024dcdad6d787b9295694c31"
-      },
-      "modrinth_sha1": "5307a4edc885ab949eed4438d9d7f9cb6176421d",
-      "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8543/233/letsdo-wildernature-neoforge-1.1.5.jar"
+      "download": "https://edge.forgecdn.net/files/8918/247/letsdo-vinery-neoforge-1.5.4.jar"
     },
     {
       "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -1355,32 +1337,46 @@
       "download": "https://edge.forgecdn.net/files/8330/365/lithium-neoforge-0.15.4%2bmc1.21.1.jar"
     },
     {
-      "path": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+      "path": "mods/lithostitched-1.8.0-neoforge-21.1.jar",
       "projectID": 936015,
-      "fileID": 8378498,
-      "fileName": "lithostitched-1.7.13-neoforge-21.1.jar",
-      "fileSize": 852541,
+      "fileID": 8944659,
+      "fileName": "lithostitched-1.8.0-neoforge-21.1.jar",
+      "fileSize": 979783,
       "hashes": {
-        "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
-        "sha512": "04409013edce65678d02489a7b830ba7d5e18e7c705243c8208f52661da62e7e337a09fe2797c85d7a00bc66cb50949b157b267afd216e7b900ddde9849dff32"
+        "sha512": "0ba80383039270dec739f669fe936d091b87027c350972c88085729333e73e723e0c722d734c0592c08ffd6c5a21c16099f2e54cf7cfbcbd3061f5e3cbd62cb4",
+        "sha1": "fe7eb612a0fa0c41ce94d914162d298755bb25a3"
       },
-      "modrinth_sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
+      "modrinth_sha1": "fe7eb612a0fa0c41ce94d914162d298755bb25a3",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8378/498/lithostitched-1.7.13-neoforge-21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8944/659/lithostitched-1.8.0-neoforge-21.1.jar"
     },
     {
-      "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
+      "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
       "projectID": 361276,
-      "fileID": 8811105,
-      "fileName": "lootr-neoforge-1.21.1-1.11.38.125.jar",
-      "fileSize": 1000464,
+      "fileID": 8968561,
+      "fileName": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "fileSize": 1075929,
       "hashes": {
-        "sha1": "ad56869af94247d39f4364cba6403b115b3100b8",
-        "sha512": "2e8fe46ff11a7865408d9417c31f46d80450814dd1c7ce0d67d515e4daec40eb99c95e8f83c01158d82d6c58128ab1f26e5c536fdc1a4e15b1f318a4cde3d512"
+        "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+        "sha512": "7496051c1ba98f8801b8eb81773d1baec16166c3d2c5682476bd6f9433f794095099cea609fd5610525edb7c450b1bacd0011a31763e91c77c9a0034c8245ca3"
       },
-      "modrinth_sha1": "ad56869af94247d39f4364cba6403b115b3100b8",
+      "modrinth_sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8811/105/lootr-neoforge-1.21.1-1.11.38.125.jar"
+      "download": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar"
+    },
+    {
+      "path": "mods/mezz_config-1.21.1-neoforge-0.6.5.jar",
+      "projectID": 1689768,
+      "fileID": 8987766,
+      "fileName": "mezz_config-1.21.1-neoforge-0.6.5.jar",
+      "fileSize": 346663,
+      "hashes": {
+        "sha1": "3c5c3b49508a7f409fe60e74f0336d6cf422bf49",
+        "sha512": "dbb27eb7234a01243a778ca7d1af90d1a679ec079ba7f757744e60e2808c9eeb75776e8bc0d734b924c27a426681779a3f71853137268ddb21965f22cf7b0ca9"
+      },
+      "modrinth_sha1": "3c5c3b49508a7f409fe60e74f0336d6cf422bf49",
+      "comparison": "byte-identical",
+      "download": "https://edge.forgecdn.net/files/8987/766/mezz_config-1.21.1-neoforge-0.6.5.jar"
     },
     {
       "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
@@ -1397,46 +1393,46 @@
       "download": "https://edge.forgecdn.net/files/8774/737/modernfix-neoforge-5.27.24%2bmc1.21.1.jar"
     },
     {
-      "path": "mods/MoogsEndStructures-1.21-2.0.3.jar",
+      "path": "mods/MoogsEndStructures-universal-1.21-2.1.1.jar",
       "projectID": 892382,
-      "fileID": 8128039,
-      "fileName": "MoogsEndStructures-1.21-2.0.3.jar",
-      "fileSize": 1210283,
+      "fileID": 8902211,
+      "fileName": "MoogsEndStructures-universal-1.21-2.1.1.jar",
+      "fileSize": 2285901,
       "hashes": {
-        "sha1": "8725f8fa38ab3f3fd6e8627bf2f8f7f908ec2e51",
-        "sha512": "eaf67a1854fe548f9537dbb0ec60a913d0126980db24840318ced7c3dd0740979b2821100d6acd37e85a73aca6a190d410b4d78d4503dc68e36b23a6dfcc7b17"
+        "sha1": "ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a",
+        "sha512": "5732c98bf3d1e6aa3c76cf23db77301065dd96f060fb9bf85e8af00769bc6a93e213aad7ff79a3116b3cfd5015fe98437bdadf9fdc0dd829eae1759e3c1fee96"
       },
-      "modrinth_sha1": "8725f8fa38ab3f3fd6e8627bf2f8f7f908ec2e51",
+      "modrinth_sha1": "ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8128/39/MoogsEndStructures-1.21-2.0.3.jar"
+      "download": "https://edge.forgecdn.net/files/8902/211/MoogsEndStructures-universal-1.21-2.1.1.jar"
     },
     {
-      "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
+      "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
       "projectID": 1337167,
-      "fileID": 8731537,
-      "fileName": "MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
-      "fileSize": 413682,
+      "fileID": 8885814,
+      "fileName": "MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
+      "fileSize": 436563,
       "hashes": {
-        "sha1": "627a970a8cdf09ef86d36c97cb85b161459c04d3",
-        "sha512": "c2d4e6d6da6703c03d607245b78043fb54b8a96a1949169b263dee70b148da22d7029c495c3ea2bf14a1a045fb17a75222a783873c3f3b77713dc49dea65ac6b"
+        "sha1": "f4cd725a16d9994b9929723ef7535416b5533e22",
+        "sha512": "278367e24a30693c354f3ce85e92f4c8031ee679bed80c5bf4923b6a55eb0301ef593bb7341d598d04033c89bf2cd5cdfdf305fa09e22d56e35b7db42fd9f07e"
       },
-      "modrinth_sha1": "627a970a8cdf09ef86d36c97cb85b161459c04d3",
+      "modrinth_sha1": "f4cd725a16d9994b9929723ef7535416b5533e22",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8731/537/MoogsStructureLib-neoforge-1.21.1-3.1.2.jar"
+      "download": "https://edge.forgecdn.net/files/8885/814/MoogsStructureLib-neoforge-1.21.1-3.3.1.jar"
     },
     {
-      "path": "mods/moonlight-1.21.1-3.6.1-neoforge.jar",
+      "path": "mods/moonlight-1.21.1-3.7.0-neoforge.jar",
       "projectID": 499980,
-      "fileID": 8802498,
-      "fileName": "moonlight-1.21.1-3.6.1-neoforge.jar",
-      "fileSize": 2222232,
+      "fileID": 8981395,
+      "fileName": "moonlight-1.21.1-3.7.0-neoforge.jar",
+      "fileSize": 2298394,
       "hashes": {
-        "sha1": "4affb761c6d2d3df32b64b65d40a6e3769787a8f",
-        "sha512": "fabf0c99cb55255bca5251fdf90b994815bfab25697a8edca0e8d3663db5df0d761288ba5144179d3f87f6edfd4edec71bd867f07d7ed48117d8993db52cb9e0"
+        "sha512": "dbe4e44f61d9b83c89bb4da73228b72c4d42670b2c67b7c7e0cb16dca1c9673a291d99628c093cf2ae50e29c28d24631d9943e4d89465153e3a84487cc6f0a17",
+        "sha1": "3e909f886ffca21bbe03cce510c68da2e7165580"
       },
-      "modrinth_sha1": "4affb761c6d2d3df32b64b65d40a6e3769787a8f",
+      "modrinth_sha1": "3e909f886ffca21bbe03cce510c68da2e7165580",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8802/498/moonlight-1.21.1-3.6.1-neoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8981/395/moonlight-1.21.1-3.7.0-neoforge.jar"
     },
     {
       "path": "mods/more_rpg_library-neoforge-2.7.2+1.21.1.jar",
@@ -1467,18 +1463,18 @@
       "download": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
     },
     {
-      "path": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+      "path": "mods/mru-1.0.40+1.21.1-neoforge.jar",
       "projectID": 669659,
-      "fileID": 6803126,
-      "fileName": "mru-1.0.19+LTS+1.21.1+neoforge.jar",
-      "fileSize": 243953,
+      "fileID": 8858776,
+      "fileName": "mru-1.0.40+1.21.1-neoforge.jar",
+      "fileSize": 151039,
       "hashes": {
-        "sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc",
-        "sha512": "c0b39727c6d4e312cc6a6e6e5137149ecf907f3c9a518313e4188a05c8301b80c088fb62f7096831e9aa1026fc95a09d79b99fc43456f8da2a1ee36e9a86154d"
+        "sha512": "974d50c216360f41c6ba840c8774c51f5bd3ceecf991fd9b543543c49fd2f630e95c1042a91cb2f9c46caa92534f191d4ac785d3ace1d489d975cda81f4f81fd",
+        "sha1": "0991e3c589f14c73da9d3ed592c43e3ed5745fbd"
       },
-      "modrinth_sha1": "903f41bce1ff0b4bd13b66d46bfbd21423663bbc",
+      "modrinth_sha1": "0991e3c589f14c73da9d3ed592c43e3ed5745fbd",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/6803/126/mru-1.0.19%2bLTS%2b1.21.1%2bneoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8858/776/mru-1.0.40%2b1.21.1-neoforge.jar"
     },
     {
       "path": "mods/natures_spirit-2.2.5-1.21.1.jar",
@@ -1523,18 +1519,18 @@
       "download": "https://edge.forgecdn.net/files/6487/633/nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar"
     },
     {
-      "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "path": "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
       "projectID": 433760,
-      "fileID": 8274908,
-      "fileName": "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
-      "fileSize": 1939625,
+      "fileID": 8925075,
+      "fileName": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+      "fileSize": 1866035,
       "hashes": {
-        "sha1": "b509863deaa27890f8db600f612966a07490a6cd",
-        "sha512": "9d929cf8e0a0ff2c806e007571b10cd9b81cd508826519f55e25f0390149109c7c12605143e4c11b5b5fac749e69de532c1ad00aa6a257e4dd0d3a3a77f2461b"
+        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd",
+        "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc"
       },
-      "modrinth_sha1": "b509863deaa27890f8db600f612966a07490a6cd",
+      "modrinth_sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8274/908/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8925/75/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
     },
     {
       "path": "mods/Nullscape_1.21.x_v1.2.14.jar",
@@ -1565,23 +1561,18 @@
       "download": "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2b1.21.jar"
     },
     {
-      "path": "mods/paladins-neoforge-3.1.1+1.21.1.jar",
+      "path": "mods/paladins-neoforge-3.1.3+1.21.1.jar",
       "projectID": 856548,
-      "fileID": 8695303,
-      "fileName": "paladins-neoforge-3.1.1+1.21.1.jar",
-      "fileSize": 3114592,
+      "fileID": 8982136,
+      "fileName": "paladins-neoforge-3.1.3+1.21.1.jar",
+      "fileSize": 3115770,
       "hashes": {
-        "sha1": "b9ce95c051804382f3c0952c0b7f96d795a858b7",
-        "sha512": "ad25200513be13c8a64c3ad3f9d5a23fe61709534fc46bc50e109bed92b97bd280644a2e4c0b4523e93e8b6f44912507c25230836b3259e8ac4c391ac79c860b"
+        "sha1": "0491f4e5c30c15c1aba0a82055ea60ff3b9805e1",
+        "sha512": "e829b241f16a7cac60cfbc93aeb32dda0564ae2a49120d823b2b4d6942321cf5863b1cc9b20008118597983b659ecc004a8737fc280aedaa56dc139445e580c1"
       },
-      "modrinth_sha1": "b824fb1dd3b2229e781b24f3224d379998e2ddb8",
+      "modrinth_sha1": "4b322b6501b448e74ffded3b6a3aeb0376cceb16",
       "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8695/303/paladins-neoforge-3.1.1%2b1.21.1.jar",
-      "equivalence_checks": {
-        "files_checked": 766,
-        "nested_archives": 1,
-        "generated_build_ids": 1
-      }
+      "download": "https://edge.forgecdn.net/files/8982/136/paladins-neoforge-3.1.3%2b1.21.1.jar"
     },
     {
       "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
@@ -1668,18 +1659,18 @@
       "download": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2b1.21.1.jar"
     },
     {
-      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "path": "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
       "projectID": 388800,
-      "fileID": 6794589,
-      "fileName": "polymorph-neoforge-1.1.0+1.21.1.jar",
-      "fileSize": 174972,
+      "fileID": 8849478,
+      "fileName": "polymorph-neoforge-1.2.0+1.21.1.jar",
+      "fileSize": 172671,
       "hashes": {
-        "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
-        "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
+        "sha512": "dce77fffebae80532fec39d35c9c8b5817ba756bb03569022cc0854a8a6cf1868690f91451b587bd60d813e8403b5de91adbc324796bc423ef28deecfb13c775",
+        "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df"
       },
-      "modrinth_sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "modrinth_sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8849/478/polymorph-neoforge-1.2.0%2b1.21.1.jar"
     },
     {
       "path": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
@@ -1724,46 +1715,46 @@
       "download": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar"
     },
     {
-      "path": "mods/puffish_skills-0.19.0-1.21-neoforge.jar",
+      "path": "mods/puffish_skills-0.19.1-1.21-neoforge.jar",
       "projectID": 835091,
-      "fileID": 8792775,
-      "fileName": "puffish_skills-0.19.0-1.21-neoforge.jar",
-      "fileSize": 649853,
+      "fileID": 8941352,
+      "fileName": "puffish_skills-0.19.1-1.21-neoforge.jar",
+      "fileSize": 653105,
       "hashes": {
-        "sha1": "fa134a526ab2f098559b7d824269ae36aaac32b3",
-        "sha512": "3a7d1efac2cf06cb1d361535144873e8a7b223bde00bc6c2af87560498c700411c1766b2b8511de821187e72484a59407ec9edc3d4df13e9210e9ea1b2725337"
+        "sha1": "9e0b16f97427fc7b0049fa3f518579cdc9fe59f9",
+        "sha512": "2b5e11f8677b472d971cab3aa36e6e9267d04065ff40b70f537ace85f704b5d6e99b259b02776618d69592f26d01d5ea6dea5a241a1c5a3a4f5cde08ee492008"
       },
-      "modrinth_sha1": "fa134a526ab2f098559b7d824269ae36aaac32b3",
+      "modrinth_sha1": "9e0b16f97427fc7b0049fa3f518579cdc9fe59f9",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8792/775/puffish_skills-0.19.0-1.21-neoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8941/352/puffish_skills-0.19.1-1.21-neoforge.jar"
     },
     {
-      "path": "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
+      "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
       "projectID": 495476,
-      "fileID": 8777693,
-      "fileName": "PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
-      "fileSize": 1402525,
+      "fileID": 8829114,
+      "fileName": "PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+      "fileSize": 1442182,
       "hashes": {
-        "sha1": "a5bfa91390084a88e9c7f355f833e76e5cdc3f4c",
-        "sha512": "7a0f6e58728684c5099d9fa157a4a9a078019cfc263844506aa43ba87ee1c8f556e01f0b24cf96f9b6dd373bc5da714773f394442a6ad045b157d9a8a36ba5b4"
+        "sha1": "319fc1ea1498920b39a318ea324f6112a7318d67",
+        "sha512": "630bea2bfeed34074d82bc75a4e3f94bb8235d5ae4b13d59c3ee8832bd493eb34584e81d183c5447bd1754e1845d8397eb910d16678243f64e7df8389ce147ac"
       },
-      "modrinth_sha1": "a5bfa91390084a88e9c7f355f833e76e5cdc3f4c",
+      "modrinth_sha1": "319fc1ea1498920b39a318ea324f6112a7318d67",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8777/693/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
+      "download": "https://edge.forgecdn.net/files/8829/114/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar"
     },
     {
-      "path": "mods/raised-neoforge-1.21.1-5.1.2.jar",
+      "path": "mods/raised-neoforge-1.21.1-6.0.2.jar",
       "projectID": 570368,
-      "fileID": 7379923,
-      "fileName": "raised-neoforge-1.21.1-5.1.2.jar",
-      "fileSize": 92243,
+      "fileID": 8951296,
+      "fileName": "raised-neoforge-1.21.1-6.0.2.jar",
+      "fileSize": 142358,
       "hashes": {
-        "sha1": "43505377657a80ed2279571d473f5d9487ff50d7",
-        "sha512": "947d94d5001bc0481dce91f3c011499487c3f6fc645cdc47cb7b461a5b35e94cfa8d1bd465080bc8d75a8db31587129f8a34e9ca82a9a24fe186c326e72ac8cf"
+        "sha512": "9fd63b902a2da3647c0c7b7a795bc633786dbac830cb1de7f9aeb892b64e23eb3b1b7608dd190585992221a88d69a7ff49c0df6f0b50b2896894f4b01ad09882",
+        "sha1": "cd4b283d812a0da65258e711172f562809a2914c"
       },
-      "modrinth_sha1": "43505377657a80ed2279571d473f5d9487ff50d7",
+      "modrinth_sha1": "cd4b283d812a0da65258e711172f562809a2914c",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/7379/923/raised-neoforge-1.21.1-5.1.2.jar"
+      "download": "https://edge.forgecdn.net/files/8951/296/raised-neoforge-1.21.1-6.0.2.jar"
     },
     {
       "path": "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
@@ -1850,22 +1841,18 @@
       "download": "https://edge.forgecdn.net/files/7355/196/Ribbits-1.21.1-NeoForge-4.1.6.jar"
     },
     {
-      "path": "mods/rogues-neoforge-3.1.1+1.21.1.jar",
+      "path": "mods/rogues-neoforge-3.1.3+1.21.1.jar",
       "projectID": 1048409,
-      "fileID": 8695302,
-      "fileName": "rogues-neoforge-3.1.1+1.21.1.jar",
-      "fileSize": 1750311,
+      "fileID": 8982142,
+      "fileName": "rogues-neoforge-3.1.3+1.21.1.jar",
+      "fileSize": 1751945,
       "hashes": {
-        "sha1": "8c089aa2313ef13bbca571145cde13c74d331145",
-        "sha512": "4b59c80fb257077fcc600ec3b6a8f0a0ed45c759cb7a4a645e13d047a8abb785b1b65c514e5e1755ffc129ed834eb4132e404578784b6e267851202d9eb66b99"
+        "sha512": "2a2eb952c4aa74d67fccaca43b01f4769d92c0695d0af1d37580ff4c777d719717c6359d96e00df251d75d47111d437043c4541fd3622d96f2568bbf69bbe13d",
+        "sha1": "3d1071bc13298dba6142b7c39395e9bb73cca100"
       },
-      "modrinth_sha1": "8cb38897b20d8bc1ef49a76760272b9c643473ef",
-      "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8695/302/rogues-neoforge-3.1.1%2b1.21.1.jar",
-      "equivalence_checks": {
-        "files_checked": 606,
-        "generated_build_ids": 1
-      }
+      "modrinth_sha1": "3d1071bc13298dba6142b7c39395e9bb73cca100",
+      "comparison": "byte-identical",
+      "download": "https://edge.forgecdn.net/files/8982/142/rogues-neoforge-3.1.3%2b1.21.1.jar"
     },
     {
       "path": "mods/runes-neoforge-1.3.2+1.21.1.jar",
@@ -1966,18 +1953,18 @@
       "download": "https://edge.forgecdn.net/files/8715/141/SimplyTooltips-neoforge-0.1.5.jar"
     },
     {
-      "path": "mods/skill_tree-neoforge-1.6.0+1.21.1.jar",
+      "path": "mods/skill_tree-neoforge-1.6.1+1.21.1.jar",
       "projectID": 1311513,
-      "fileID": 8694289,
-      "fileName": "skill_tree-neoforge-1.6.0+1.21.1.jar",
-      "fileSize": 2964138,
+      "fileID": 8982842,
+      "fileName": "skill_tree-neoforge-1.6.1+1.21.1.jar",
+      "fileSize": 2964225,
       "hashes": {
-        "sha1": "16f434438df768ebfd8a6d692906c252261300f6",
-        "sha512": "85fb58fdc529007876bf6691cac80a0b695cc3dfccf0253db6ac6e2f40525d350257e426fcab0540df9d6451e919420bbdca1deb0389dc6d974c981fe6bd0293"
+        "sha1": "6a013f49bb59efbf4c5174ed130dcdd55ba5250f",
+        "sha512": "29c05b2049f2baffe371ea8e039106fb8f68854b6ff2877ff06ee78fb2e8e179eef0fc6850324c3eb2778caaa24de5e269dfc4c2b693c9d163c0d7b49410f3b4"
       },
-      "modrinth_sha1": "16f434438df768ebfd8a6d692906c252261300f6",
+      "modrinth_sha1": "6a013f49bb59efbf4c5174ed130dcdd55ba5250f",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8694/289/skill_tree-neoforge-1.6.0%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8982/842/skill_tree-neoforge-1.6.1%2b1.21.1.jar"
     },
     {
       "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
@@ -2008,76 +1995,60 @@
       "download": "https://edge.forgecdn.net/files/8756/580/sodium-neoforge-0.8.13%2bmc1.21.1.jar"
     },
     {
-      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.26.5.2171.jar",
       "projectID": 422301,
-      "fileID": 8687841,
-      "fileName": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
-      "fileSize": 1172245,
+      "fileID": 8992926,
+      "fileName": "sophisticatedbackpacks-1.21.1-3.26.5.2171.jar",
+      "fileSize": 1239518,
       "hashes": {
-        "sha1": "7ab827012ba48800d2d70eb961bdab4ab84696fb",
-        "sha512": "0d83c4988999264b4e7d1c96aa94c29875ae3a9efb0e8b6c8e34a19771298c2a026d177d97a835cfb1b44c155e7a86ccfa977efd2e9fa4899c22c74e88fff2f6"
+        "sha1": "dbe77825620ff12169800cc222993ed99c11964d",
+        "sha512": "84071a3d7a2233747f180b0168ca006d0768b590430acd864687762ab03c768cfe92ddcb306ef21e5bcf6c9d75e73ded1975645031ddc4d058edb813c4cb444d"
       },
-      "modrinth_sha1": "74192fd0039ead9680a5ede09889dae5b8f19ca7",
+      "modrinth_sha1": "db50ee793d0f18d064ca1210510d69df770afcd0",
       "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8687/841/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
-      "equivalence_checks": {
-        "files_checked": 826,
-        "timestamp_only_manifests": 1
-      }
+      "download": "https://edge.forgecdn.net/files/8992/926/sophisticatedbackpacks-1.21.1-3.26.5.2171.jar"
     },
     {
-      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
       "projectID": 1238567,
-      "fileID": 8398818,
-      "fileName": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
-      "fileSize": 82627,
+      "fileID": 8985949,
+      "fileName": "sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
+      "fileSize": 94445,
       "hashes": {
-        "sha1": "d574c93098fe1189bf21eccaaff97d7a58798b8a",
-        "sha512": "953ecfe402bb2b622ba649d9e0461a07864b90e1ef107f1f97d069a7c0e415c682835d8627e5cd6887925ef7a99c4939ae1d202872b23f93f200db3727cc760b"
+        "sha1": "2aceb2689c04006cca171657ead6feeeda48ac73",
+        "sha512": "811ab578c3a49ca065f2ef9a5f0fc92c4bbc05359bca9fc35be4f7c6a8d03086be697d3b2308a4f67956a78800edbc85597d152b6000a57f56b50548e8e9ff4a"
       },
-      "modrinth_sha1": "0896d95a20a799c130a665c4ca16778aa6a9a355",
+      "modrinth_sha1": "043b6cd6a7f60c4a843402e48d3fbcb94080a5e3",
       "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8398/818/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
-      "equivalence_checks": {
-        "files_checked": 40,
-        "timestamp_only_manifests": 1
-      }
+      "download": "https://edge.forgecdn.net/files/8985/949/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar"
     },
     {
-      "path": "mods/sophisticatedcore-1.21.1-1.4.90.2299.jar",
+      "path": "mods/sophisticatedcore-1.21.1-1.5.2.2343.jar",
       "projectID": 618298,
-      "fileID": 8705083,
-      "fileName": "sophisticatedcore-1.21.1-1.4.90.2299.jar",
-      "fileSize": 1687195,
+      "fileID": 8985869,
+      "fileName": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
+      "fileSize": 1809363,
       "hashes": {
-        "sha1": "b4d4252514f38224cab5d932baff66278bd84ff4",
-        "sha512": "ae290556a13924797b5c8bb550e8d446977049f2909e00d2a38fee5cb039465c0db483d365f2b7c67cd6944aabcf4dae71a6d8f31ed039a167a6d7bff006ead5"
+        "sha1": "b6267d5268062392c44b67541d0a623b5fc4b21e",
+        "sha512": "4a3696ccc8e4e09fb5f7d1bbc0991934695379231ba40b7d9a0edd86488df70b813a30f3d47c4407ff3fc9c620ee1f8a5b4c4f91484da98877e30cebb07d5368"
       },
-      "modrinth_sha1": "a7ab80bc6a5f069388325f552c8348a735dd6afb",
+      "modrinth_sha1": "86a5cf18608b3feec76c17a8ccac4de36d660fbc",
       "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8705/83/sophisticatedcore-1.21.1-1.4.90.2299.jar",
-      "equivalence_checks": {
-        "files_checked": 823,
-        "timestamp_only_manifests": 1
-      }
+      "download": "https://edge.forgecdn.net/files/8985/869/sophisticatedcore-1.21.1-1.5.2.2343.jar"
     },
     {
-      "path": "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "path": "mods/sophisticatedstorage-1.21.1-1.6.0.2136.jar",
       "projectID": 619320,
-      "fileID": 8687896,
-      "fileName": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
-      "fileSize": 1869204,
+      "fileID": 8985962,
+      "fileName": "sophisticatedstorage-1.21.1-1.6.0.2136.jar",
+      "fileSize": 1912108,
       "hashes": {
-        "sha1": "74d5c0a411edfdd521c800fd8813f53c0f9a6f30",
-        "sha512": "67f1e4ccdcc8fe0f14f6fd87e93f05e8d6891cafcdac87f1d973152fd692635a7a1a9bbbcf6fd5e34c5aaf1c5b476878794c3d60032a10cb74272751d3ea8ed4"
+        "sha1": "e5b839fbc6a99d229116b19ba79bd716d385170a",
+        "sha512": "44de6ea9097037227f9499e50eaf308c81f075261ce62a1367493e9c8c3ed6de48d5ad8f30abc65cc168a4d928b1048504de8bc587b3ccb75a04755948d831c7"
       },
-      "modrinth_sha1": "395b6111d6fa0117f2c540fca9fd5389ac7e339c",
+      "modrinth_sha1": "beea37f9065d5265d4c80e18bad5abda7196be4e",
       "comparison": "equivalent-build",
-      "download": "https://edge.forgecdn.net/files/8687/896/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
-      "equivalence_checks": {
-        "files_checked": 1879,
-        "timestamp_only_manifests": 1
-      }
+      "download": "https://edge.forgecdn.net/files/8985/962/sophisticatedstorage-1.21.1-1.6.0.2136.jar"
     },
     {
       "path": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
@@ -2126,18 +2097,18 @@
       "download": "https://edge.forgecdn.net/files/8313/124/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar"
     },
     {
-      "path": "mods/spell_engine-neoforge-1.10.5+1.21.1.jar",
+      "path": "mods/spell_engine-neoforge-1.10.7+1.21.1.jar",
       "projectID": 807653,
-      "fileID": 8786009,
-      "fileName": "spell_engine-neoforge-1.10.5+1.21.1.jar",
-      "fileSize": 4595567,
+      "fileID": 8918653,
+      "fileName": "spell_engine-neoforge-1.10.7+1.21.1.jar",
+      "fileSize": 4605810,
       "hashes": {
-        "sha1": "32c04f28caefc53a8afe605ae75f859c193ef81c",
-        "sha512": "19e3ada91b5466cff34155d438b70ed78bf89114064ca3704e844dcef3ebe36cd86062f220c9ff1c2ae2a64d08de82b84ed72ef4419056c4a7facb2bbb840d83"
+        "sha1": "996d0d1812edd9920c96b45169273383cccf9867",
+        "sha512": "1ace13122d39024e191a12aadf7398d896ebc0c3c2a4760ddc0bc3d45cdd199ad8c9a84acce87eaff6518d7988da2ea5238cbd4b3152d14651eeae4f5fbda943"
       },
-      "modrinth_sha1": "32c04f28caefc53a8afe605ae75f859c193ef81c",
+      "modrinth_sha1": "996d0d1812edd9920c96b45169273383cccf9867",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8786/9/spell_engine-neoforge-1.10.5%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8918/653/spell_engine-neoforge-1.10.7%2b1.21.1.jar"
     },
     {
       "path": "mods/spell_power-neoforge-1.6.0+1.21.1.jar",
@@ -2196,18 +2167,18 @@
       "download": "https://edge.forgecdn.net/files/8008/312/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
     },
     {
-      "path": "mods/supplementaries-1.21.1-3.9.7-neoforge.jar",
+      "path": "mods/supplementaries-1.21.1-3.9.9-neoforge.jar",
       "projectID": 412082,
-      "fileID": 8802603,
-      "fileName": "supplementaries-1.21.1-3.9.7-neoforge.jar",
-      "fileSize": 13545910,
+      "fileID": 8852720,
+      "fileName": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "fileSize": 13548968,
       "hashes": {
-        "sha1": "6cde08b0d903b57a1e865b47cb069f17cf6ab7c2",
-        "sha512": "bb41f31f0a80be3cccd69fe6e943ac05bce422676f23376a5d855e3d46064f182128d2522fb94db2af30a1a4b1c8b84e2dc4304f055075193189bba17cb12ede"
+        "sha1": "06ed05381a5653d90398dc6ebf3ad1154add6374",
+        "sha512": "f341d0971e644255c063f0cb363bb93e312f4f005304f8af76d7249c3cbc0c258f415cf6e7bddcdf02115ade9ba9a205ec6d062e2626b414afaef5725667f079"
       },
-      "modrinth_sha1": "6cde08b0d903b57a1e865b47cb069f17cf6ab7c2",
+      "modrinth_sha1": "06ed05381a5653d90398dc6ebf3ad1154add6374",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8802/603/supplementaries-1.21.1-3.9.7-neoforge.jar"
+      "download": "https://edge.forgecdn.net/files/8852/720/supplementaries-1.21.1-3.9.9-neoforge.jar"
     },
     {
       "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
@@ -2340,46 +2311,46 @@
       "download": "https://edge.forgecdn.net/files/8727/899/village_taverns-neoforge-1.3.0%2b1.21.1.jar"
     },
     {
-      "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.24.jar",
       "projectID": 416089,
-      "fileID": 8601207,
-      "fileName": "voicechat-neoforge-1.21.1-2.6.22.jar",
-      "fileSize": 4918442,
+      "fileID": 8928478,
+      "fileName": "voicechat-neoforge-1.21.1-2.6.24.jar",
+      "fileSize": 4934688,
       "hashes": {
-        "sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0",
-        "sha512": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad"
+        "sha1": "436ee200d5192ffda65fcf70c42c086fcdc00826",
+        "sha512": "730d2b2acc39afbac16cd3e4312d411e6f226f71aa58e26ff9c772110f962b2e2c7810baa3cd19cd82d28aed85c58d0c0df1ed5fc97dad8a89655008f3461a31"
       },
-      "modrinth_sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0",
+      "modrinth_sha1": "436ee200d5192ffda65fcf70c42c086fcdc00826",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8601/207/voicechat-neoforge-1.21.1-2.6.22.jar"
+      "download": "https://edge.forgecdn.net/files/8928/478/voicechat-neoforge-1.21.1-2.6.24.jar"
     },
     {
-      "path": "mods/witcher-class-mod-neoforge-3.1.2+1.21.1.jar",
+      "path": "mods/witcher-class-mod-neoforge-3.1.4+1.21.1.jar",
       "projectID": 992290,
-      "fileID": 8851166,
-      "fileName": "witcher-class-mod-neoforge-3.1.2+1.21.1.jar",
-      "fileSize": 1697326,
+      "fileID": 8942238,
+      "fileName": "witcher-class-mod-neoforge-3.1.4+1.21.1.jar",
+      "fileSize": 1723593,
       "hashes": {
-        "sha1": "53674430fa2ad8ff2ee48b2af07cc05783c63d23",
-        "sha512": "1255f9d1086b5ff3a7027281b9a68a7dd3244d555d631713c466471316ef09c5e8f46114df0dc330e937c9f131aaed43be92ad798aada56d0b45ee20c55fb69a"
+        "sha1": "27faf2ccc16ea8d46d95159912422e7b850b5f26",
+        "sha512": "6de132a84422ad1ccec5ddd591279a836e7bd65a4d9bd3d10107dad69c7c16b4c64e5efe54e904a2e4b43bf69340f86978c0c1aec5086b6e36dec67c7a157726"
       },
-      "modrinth_sha1": "53674430fa2ad8ff2ee48b2af07cc05783c63d23",
+      "modrinth_sha1": "27faf2ccc16ea8d46d95159912422e7b850b5f26",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8851/166/witcher-class-mod-neoforge-3.1.2%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8942/238/witcher-class-mod-neoforge-3.1.4%2b1.21.1.jar"
     },
     {
-      "path": "mods/wizards-neoforge-3.1.2+1.21.1.jar",
+      "path": "mods/wizards-neoforge-3.1.3+1.21.1.jar",
       "projectID": 734325,
-      "fileID": 8788027,
-      "fileName": "wizards-neoforge-3.1.2+1.21.1.jar",
-      "fileSize": 4517248,
+      "fileID": 8982151,
+      "fileName": "wizards-neoforge-3.1.3+1.21.1.jar",
+      "fileSize": 4519814,
       "hashes": {
-        "sha1": "b30170f17c41208930eac25c4e44307960252be7",
-        "sha512": "8b158d901c489fe455575cb0b2cb0836d3c5366e2b4b05ae5a1dd23f525ee9f50fe4235211903acaaf35d4e2505a65219678d33bb66114a4d39ec492d31c3f36"
+        "sha512": "6e093d08930e7e6582bddfb54c5d3a662d1fd2701dd7ff2d84e77b17c3258b654847778a1c28713aa991dbae2a7caf5396760edcbc1bbefc9ae42e5c28dd36d4",
+        "sha1": "be5513169318245e03a21a6e769ce347a4669bf4"
       },
-      "modrinth_sha1": "b30170f17c41208930eac25c4e44307960252be7",
+      "modrinth_sha1": "be5513169318245e03a21a6e769ce347a4669bf4",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8788/27/wizards-neoforge-3.1.2%2b1.21.1.jar"
+      "download": "https://edge.forgecdn.net/files/8982/151/wizards-neoforge-3.1.3%2b1.21.1.jar"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2396,18 +2367,18 @@
       "download": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"
     },
     {
-      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "projectID": 1015100,
-      "fileID": 8702150,
-      "fileName": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
-      "fileSize": 389834,
+      "fileID": 8894736,
+      "fileName": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "fileSize": 413763,
       "hashes": {
-        "sha1": "eb5757e5cb387553ed4d342e7aecf5b7dcb384a0",
-        "sha512": "83520e057a949ed6e8dcee33984ae0eef83c2e57d001ffbbba0b51090176608f7378327ece773312543cd8cbb802f951b7c24b57f3ab6cf19d2be10b47af30d0"
+        "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+        "sha512": "7e3cf0b429e8a1c51dca094c2d8eabf12245bb42cbcd8b6e3e54959f931bef93201b81a08d200b417059aaa438e8eb445c3978a09568597bfb588199b7775967"
       },
-      "modrinth_sha1": "eb5757e5cb387553ed4d342e7aecf5b7dcb384a0",
+      "modrinth_sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
       "comparison": "byte-identical",
-      "download": "https://edge.forgecdn.net/files/8702/150/YungsApi-1.21.1-NeoForge-5.1.8.jar"
+      "download": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar"
     },
     {
       "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
@@ -2548,6 +2519,24 @@
       "modrinth_sha1": "90c08f60ac5db0ef07bc029452b8cd4cdd26ee1a",
       "comparison": "byte-identical",
       "download": "https://edge.forgecdn.net/files/8791/766/ComplementaryReimagined_r5.9.zip"
+    }
+  ],
+  "external_files": [
+    {
+      "path": "mods/letsdo-wildernature-neoforge-1.1.6.jar",
+      "hashes": {
+        "sha512": "e44694b5e2b45072ff82b0cd36e6b444954dab13108891e30467f9845d9120df575d92165ecb160f8f91ab1191be346125d1f9d83c0c95a059ca0c0329e63626",
+        "sha1": "bc05ae236a7ee3ede8117d504a64cab76a2271d5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AAiRU4aQ/versions/jwvFJJGi/letsdo-wildernature-neoforge-1.1.6.jar"
+      ],
+      "fileSize": 3335904,
+      "reason": "This NeoForge build is published on Modrinth but is absent from the author's CurseForge project. Download it manually after importing the CurseForge ZIP."
     }
   ]
 }

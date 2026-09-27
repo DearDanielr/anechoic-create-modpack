@@ -1,11 +1,33 @@
 # Create Aeronautics - Vanilla Plus
 
-Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
+Minecraft **1.21.1**, NeoForge **21.1.252**, Java **21**.
 
-**1.11.1 fixes an intermittent startup crash during mob spawn registration.**
-It uses the same mods as 1.11.0 and works with the existing server.
+**1.12.0 updates 46 mods and NeoForge while keeping Minecraft 1.21.1.**
+Install the matching client and server update together. Older servers reject the
+new network channels added by several updated mods.
 
-[<img src="assets/icons/prism.svg" width="18" height="18" alt="Prism"> Download 1.11.1 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1-Prism.zip) · [<img src="assets/icons/modrinth.svg" width="18" height="18" alt="Modrinth"> Download 1.11.1 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1.mrpack) · [<img src="assets/icons/curseforge.svg" width="18" height="18" alt="CurseForge"> Download 1.11.1 CurseForge ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1-CurseForge.zip) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.1)
+[<img src="assets/icons/prism.svg" width="18" height="18" alt="Prism"> Download 1.12.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.12.0/Create-Aeronautics-Vanilla-Plus-1.12.0-Prism.zip) · [<img src="assets/icons/modrinth.svg" width="18" height="18" alt="Modrinth"> Download 1.12.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.12.0/Create-Aeronautics-Vanilla-Plus-1.12.0.mrpack) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.12.0)
+
+## What's new in 1.12.0
+
+NeoForge is now **21.1.252**, the newest 1.21.1 build checked on September 27, 2026.
+Updated mods include Distant Horizons, JEI, the RPG classes, Sophisticated
+Backpacks/Storage, JourneyMap, Aquamirae and their libraries. MezzConfig 0.6.5
+is added because the new JEI requires it. Six selected upstream builds are betas.
+The complete version list is in [mod-updates-1.12.0.json](mod-updates-1.12.0.json).
+
+**Spell Engine is pinned to 1.10.7.** Version 1.10.8 changes its loot API and crashes
+with the latest Witcher 3.1.4 during server startup (`LootHelper.configure`
+`NoSuchMethodError`). The pin retains Witcher and updates Spell Engine from 1.10.5.
+The single-worker startup fix from 1.11.1 remains enabled. Existing pack balance
+configuration and resource packs are retained.
+
+**CurseForge imports require one additional download.** After importing the
+[1.12.0 CurseForge ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.12.0/Create-Aeronautics-Vanilla-Plus-1.12.0-CurseForge.zip),
+install the **NeoForge** jar from [WilderNature 1.1.6](https://modrinth.com/mod/lets-do-wildernature/version/jwvFJJGi)
+into the instance's `mods` folder before launching. That build is absent from
+the author's CurseForge files. The ZIP includes `EXTERNAL-MODS.txt` with the
+exact upstream URL and checksum. Prism and MRPACK downloads install it automatically.
 
 ## Startup fix in 1.11.1
 
@@ -49,8 +71,7 @@ utility remain. See [BALANCE.md](BALANCE.md) for the full balance scope.
 The existing structure rarity and class balance remain. New biomes appear
 in newly generated chunks. Sodium's fog occlusion remains disabled for cave
 sandstorm visuals; Iris/Distant Horizons can still alter those effects.
-Chunky is pregenerating a 5,000-block-radius circle around the saved spawn.
-Storage monitoring pauses pregeneration if free space becomes low.
+Chunky pregeneration remains paused; this update does not restart it.
 
 ## Structure rates from 1.9.1
 

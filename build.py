@@ -30,7 +30,7 @@ def write_zip(path, files):
 def main():
     index = json.loads((ROOT / 'modrinth.index.json').read_text())
     assert index['formatVersion'] == 1 and index['game'] == 'minecraft'
-    assert index['dependencies'] == {'minecraft': '1.21.1', 'neoforge': '21.1.249'}
+    assert index['dependencies'] == {'minecraft': '1.21.1', 'neoforge': '21.1.252'}
     projects = json.loads((ROOT / 'upstream-projects.json').read_text())
     assert len(index['files']) == len(projects)
     assert len({entry['path'] for entry in index['files']}) == len(index['files'])
@@ -53,10 +53,15 @@ def main():
     assert lock['version'] == index['versionId']
     assert lock['minecraft'] == index['dependencies']['minecraft']
     assert lock['neoforge'] == index['dependencies']['neoforge']
-    assert {f['path'] for f in lock['files']} == {f['path'] for f in index['files']}
-    assert len(lock['files']) == len(index['files'])
+    external = lock.get('external_files', [])
+    all_locked = [*lock['files'], *external]
+    assert {f['path'] for f in all_locked} == {f['path'] for f in index['files']}
+    assert len(all_locked) == len(index['files'])
     assert len({(f['projectID'], f['fileID']) for f in lock['files']}) == len(lock['files'])
     originals = {f['path']: f for f in index['files']}
+    for f in external:
+        assert f['hashes'] == originals[f['path']]['hashes']
+        assert f['downloads'] == originals[f['path']]['downloads']
     for f in lock['files']:
         assert f['modrinth_sha1'] == originals[f['path']]['hashes']['sha1']
         assert PurePosixPath(f['fileName']).name == f['fileName'] and '..' not in f['fileName']
@@ -77,10 +82,23 @@ def main():
     manifest_path = DIST / 'manifest.json'
     manifest_path.write_text(json.dumps(manifest, indent=2) + '\n')
     curseforge = DIST / (stem + '-CurseForge.zip')
-    write_zip(curseforge, [('manifest.json', manifest_path),
+    extra_files = []
+    if external:
+        instructions = DIST / 'EXTERNAL-MODS.txt'
+        lines = ['Before launching this CurseForge import, download these upstream files',
+                 'and place them in the indicated instance paths. Prism/MRPACK imports',
+                 'download these files automatically.', '']
+        for f in external:
+            lines.extend([f['path'], f['downloads'][0],
+                          'SHA512: ' + f['hashes']['sha512'], f['reason'], ''])
+        instructions.write_text('\n'.join(lines) + '\n')
+        extra_files.append(('overrides/EXTERNAL-MODS.txt', instructions))
+    write_zip(curseforge, [('manifest.json', manifest_path), *extra_files,
         *[('overrides/' + name.removeprefix('client-overrides/'), source)
           for name, source in overlays]])
     manifest_path.unlink()
+    if external:
+        instructions.unlink()
     assets = [prism, mrpack, config, curseforge]
     checksums = ''.join(hashlib.file_digest(p.open('rb'), 'sha256').hexdigest() + '  ' + p.name + '\n' for p in assets)
     (DIST / 'SHA256SUMS.txt').write_text(checksums)

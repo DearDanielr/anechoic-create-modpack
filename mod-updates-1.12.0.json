@@ -1,0 +1,338 @@
+{
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.252",
+  "checked_utc": "2026-09-27",
+  "selection": "Newest published NeoForge/1.21.1 build, including beta releases, except documented runtime incompatibilities.",
+  "updates": [
+    {
+      "project": "Lithostitched",
+      "previous": "1.7.13-neoforge-21.1",
+      "version": "1.8.0-neoforge-21.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/sPmtDq1X"
+    },
+    {
+      "project": "Distant Horizons",
+      "previous": "3.2.0-b-1.21.1",
+      "version": "3.3.2-1.21.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/Ez3cx7Yd"
+    },
+    {
+      "project": "Witcher (More RPG Classes)",
+      "previous": "3.1.2+1.21.1-neoforge",
+      "version": "3.1.4+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/QF76fKlN"
+    },
+    {
+      "project": "Moog's Structure Lib (moogs_structures)",
+      "previous": "3.1.2",
+      "version": "3.3.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/u3jTXBML"
+    },
+    {
+      "project": "[Let's Do] Vinery",
+      "previous": "1.5.3",
+      "version": "1.5.4",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/lbCQKzNt"
+    },
+    {
+      "project": "Legendary Monsters",
+      "previous": "2.2.2",
+      "version": "1.21.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/Dfoikvr0"
+    },
+    {
+      "project": "Geckolib",
+      "previous": "4.9.2",
+      "version": "4.9.3",
+      "channel": "release",
+      "source": "https://modrinth.com/version/Grwn5rUB"
+    },
+    {
+      "project": "Sophisticated Backpacks Create Integration",
+      "previous": "1.21.1-0.1.8.134",
+      "version": "1.21.1-0.2.1.171",
+      "channel": "release",
+      "source": "https://modrinth.com/version/xQr7vEEu"
+    },
+    {
+      "project": "[Let's Do] HerbalBrews",
+      "previous": "1.1.3",
+      "version": "1.1.4",
+      "channel": "release",
+      "source": "https://modrinth.com/version/kGYbyn9P"
+    },
+    {
+      "project": "Simple Voice Chat",
+      "previous": "neoforge-1.21.1-2.6.22",
+      "version": "neoforge-1.21.1-2.6.24",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/qqNx1Yjm"
+    },
+    {
+      "project": "JourneyMap",
+      "previous": "1.21.1-6.0.7+neoforge",
+      "version": "1.21.1-6.0.9+neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/CtFE7hwT"
+    },
+    {
+      "project": "Balm",
+      "previous": "21.0.65+neoforge-1.21.1",
+      "version": "21.0.66+neoforge-1.21.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/CquiaiDj"
+    },
+    {
+      "project": "Polymorph",
+      "previous": "1.1.0+1.21.1",
+      "version": "1.2.0+1.21.1",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/9yWvrF5o"
+    },
+    {
+      "project": "Rogues & Warriors (RPG Series)",
+      "previous": "3.1.1+1.21.1-neoforge",
+      "version": "3.1.3+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/WxwS7HDW"
+    },
+    {
+      "project": "Sophisticated Backpacks",
+      "previous": "1.21.1-3.25.78.2107",
+      "version": "1.21.1-3.26.5.2171",
+      "channel": "release",
+      "source": "https://modrinth.com/version/tDbXyZq4"
+    },
+    {
+      "project": "Raised",
+      "previous": "NeoForge-1.21.1-5.1.2",
+      "version": "NeoForge-1.21.1-6.0.2",
+      "channel": "release",
+      "source": "https://modrinth.com/version/utAvUolB"
+    },
+    {
+      "project": "Lootr",
+      "previous": "1.21.1-1.11.38.125",
+      "version": "1.21.1-1.11.38.127",
+      "channel": "release",
+      "source": "https://modrinth.com/version/SPOrIzX8"
+    },
+    {
+      "project": "Pufferfish's Skills",
+      "previous": "0.19.0",
+      "version": "0.19.1",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/uqAz8XFU"
+    },
+    {
+      "project": "MRU",
+      "previous": "1.0.19+LTS+1.21.1-neoforge",
+      "version": "1.0.40+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/r8GfwQTK"
+    },
+    {
+      "project": "Moonlight Lib",
+      "previous": "1.21.1-3.6.1",
+      "version": "1.21.1-3.7.0",
+      "channel": "release",
+      "source": "https://modrinth.com/version/t6iFh4M3"
+    },
+    {
+      "project": "Fragmentum",
+      "previous": "2.4.4",
+      "version": "5.0.0",
+      "channel": "release",
+      "source": "https://modrinth.com/version/fbGohly4"
+    },
+    {
+      "project": "[Let's Do] Meadow",
+      "previous": "1.4.8",
+      "version": "1.4.9",
+      "channel": "release",
+      "source": "https://modrinth.com/version/SdTfMLxH"
+    },
+    {
+      "project": "Exposure",
+      "previous": "1.9.18",
+      "version": "1.9.19",
+      "channel": "release",
+      "source": "https://modrinth.com/version/iBvaR6AK"
+    },
+    {
+      "project": "Sophisticated Storage",
+      "previous": "1.21.1-1.5.91.2127",
+      "version": "1.21.1-1.6.0.2136",
+      "channel": "release",
+      "source": "https://modrinth.com/version/GvOv4X8M"
+    },
+    {
+      "project": "Fzzy Config",
+      "previous": "0.7.6+1.21+neoforge",
+      "version": "0.7.7+1.21+neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/uG7oHgw6"
+    },
+    {
+      "project": "CreativeCore",
+      "previous": "2.13.44",
+      "version": "2.13.49",
+      "channel": "release",
+      "source": "https://modrinth.com/version/vn4lrETC"
+    },
+    {
+      "project": "[Let's Do] Hearth & Timber",
+      "previous": "1.0.3",
+      "version": "1.0.4",
+      "channel": "release",
+      "source": "https://modrinth.com/version/BlP6d5J9"
+    },
+    {
+      "project": "Wizards (RPG Series)",
+      "previous": "3.1.2+1.21.1-neoforge",
+      "version": "3.1.3+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/lxbf57N2"
+    },
+    {
+      "project": "Archers (RPG Series)",
+      "previous": "3.1.1+1.21.1-neoforge",
+      "version": "3.1.3+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/7oSRQwU0"
+    },
+    {
+      "project": "[Let's Do] BloomingNature",
+      "previous": "1.1.10",
+      "version": "1.1.11",
+      "channel": "release",
+      "source": "https://modrinth.com/version/rX2cLHMJ"
+    },
+    {
+      "project": "Aquamirae",
+      "previous": "7.2.4",
+      "version": "7.2.10",
+      "channel": "release",
+      "source": "https://modrinth.com/version/iUPJ8ziU"
+    },
+    {
+      "project": "Create: Copycats+",
+      "previous": "3.0.8+mc.1.21.1-neoforge",
+      "version": "3.0.9+mc.1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/bPYeUWZx"
+    },
+    {
+      "project": "Sophisticated Core",
+      "previous": "1.21.1-1.4.90.2299",
+      "version": "1.21.1-1.5.2.2343",
+      "channel": "release",
+      "source": "https://modrinth.com/version/blXGSmAb"
+    },
+    {
+      "project": "Just Enough Items (JEI)",
+      "previous": "19.51.0.418",
+      "version": "19.57.0.449",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/TKsCmRlt"
+    },
+    {
+      "project": "Paladins & Priests (RPG Series)",
+      "previous": "3.1.1+1.21.1-neoforge",
+      "version": "3.1.3+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/7oCw7txX"
+    },
+    {
+      "project": "Spell Engine",
+      "previous": "1.10.5+1.21.1-neoforge",
+      "version": "1.10.7+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/wKITXgNx",
+      "compatibility_pin": "1.10.8 removes the Supplier overload used by Witcher 3.1.4; isolated server fails with NoSuchMethodError."
+    },
+    {
+      "project": "Jewelry (RPG Series)",
+      "previous": "2.4.0+1.21.1-neoforge",
+      "version": "2.5.0+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/pAH3fT69"
+    },
+    {
+      "project": "KotlinLangForge",
+      "previous": "2.13.0-k2.4.20-3.0+neoforge",
+      "version": "2.14.1-k2.4.20-3.0+neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/SRMod41B"
+    },
+    {
+      "project": "Colorwheel",
+      "previous": "1.2.9+mc1.21.1",
+      "version": "1.3.0+mc1.21.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/8rq5KP4U"
+    },
+    {
+      "project": "Not Enough Animations",
+      "previous": "1.12.4",
+      "version": "1.12.6",
+      "channel": "release",
+      "source": "https://modrinth.com/version/VCuMsK45"
+    },
+    {
+      "project": "Supplementaries",
+      "previous": "1.21.1-3.9.7",
+      "version": "1.21.1-3.9.9",
+      "channel": "release",
+      "source": "https://modrinth.com/version/WrZWfRjP"
+    },
+    {
+      "project": "Puzzles Lib",
+      "previous": "21.1.56",
+      "version": "21.1.60",
+      "channel": "release",
+      "source": "https://modrinth.com/version/lh44g7RC"
+    },
+    {
+      "project": "Skill Tree (RPG Series)",
+      "previous": "1.6.0+1.21.1-neoforge",
+      "version": "1.6.1+1.21.1-neoforge",
+      "channel": "release",
+      "source": "https://modrinth.com/version/Vr94BeiF"
+    },
+    {
+      "project": "MES - Moog's End Structures",
+      "previous": "2.0.3",
+      "version": "2.1.1",
+      "channel": "release",
+      "source": "https://modrinth.com/version/S7bUhX4n"
+    },
+    {
+      "project": "[Let's Do] WilderNature",
+      "previous": "1.1.5",
+      "version": "1.1.6",
+      "channel": "beta",
+      "source": "https://modrinth.com/version/jwvFJJGi"
+    },
+    {
+      "project": "YUNG's API",
+      "previous": "1.21.1-NeoForge-5.1.8",
+      "version": "1.21.1-NeoForge-5.1.9",
+      "channel": "release",
+      "source": "https://modrinth.com/version/2prKITKh"
+    }
+  ],
+  "added": [
+    {
+      "project": "MezzConfig",
+      "version": "0.6.5",
+      "reason": "Required by updated JEI."
+    }
+  ]
+}

@@ -1,53 +1,53 @@
 [
   {
-    "path": "mods/letsdo-bloomingnature-neoforge-1.1.10.jar",
+    "path": "mods/letsdo-bloomingnature-neoforge-1.1.11.jar",
     "title": "[Let's Do] BloomingNature",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "project": "https://modrinth.com/mod/lets-do-bloomingnature",
     "license": "LicenseRef-Custom",
     "license_url": "https://github.com/satisfyu/BloomingNature/blob/main/License",
     "source": "https://github.com/Let-s-Do-Collection/BloomingNature"
   },
   {
-    "path": "mods/letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+    "path": "mods/letsdo-hearth_and_timber-neoforge-1.0.4.jar",
     "title": "[Let's Do] Hearth & Timber",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "project": "https://modrinth.com/mod/lets-do-hearth-timber",
     "license": "LicenseRef-Custom",
     "license_url": "https://github.com/Let-s-Do-Collection/HearthAndTimber/blob/main/License",
     "source": "https://github.com/Let-s-Do-Collection/HearthAndTimber"
   },
   {
-    "path": "mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+    "path": "mods/letsdo-herbalbrews-neoforge-1.1.4.jar",
     "title": "[Let's Do] HerbalBrews",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "project": "https://modrinth.com/mod/lets-do-herbalbrews",
     "license": "LicenseRef-custom",
     "license_url": "https://github.com/satisfyu/HerbalBrews/blob/main/License",
     "source": "https://github.com/Let-s-Do-Collection/HerbalBrews"
   },
   {
-    "path": "mods/letsdo-meadow-neoforge-1.4.8.jar",
+    "path": "mods/letsdo-meadow-neoforge-1.4.9.jar",
     "title": "[Let's Do] Meadow",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "project": "https://modrinth.com/mod/lets-do-meadow",
     "license": "LicenseRef-custom",
     "license_url": "https://github.com/satisfyu/Meadow/commit/cf8192e07ceff0f05035146c4fa6383a78aebf84",
     "source": "https://github.com/Let-s-Do-Collection/Meadow"
   },
   {
-    "path": "mods/letsdo-vinery-neoforge-1.5.3.jar",
+    "path": "mods/letsdo-vinery-neoforge-1.5.4.jar",
     "title": "[Let's Do] Vinery",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "project": "https://modrinth.com/mod/lets-do-vinery",
     "license": "LicenseRef-custom",
     "license_url": "https://github.com/satisfyu/Vinery/commit/bbb097825c0b4c2d5efeb2b6de5e9eb00268e6f7",
     "source": "https://github.com/Let-s-Do-Collection/vinery"
   },
   {
-    "path": "mods/letsdo-wildernature-neoforge-1.1.5.jar",
+    "path": "mods/letsdo-wildernature-neoforge-1.1.6.jar",
     "title": "[Let's Do] WilderNature",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "project": "https://modrinth.com/mod/lets-do-wildernature",
     "license": "LicenseRef-Custom",
     "license_url": "https://github.com/satisfyu/WilderNature/blob/f81df933a3311af496793cef5534fe3e589921c8/License",
@@ -126,18 +126,18 @@
     "source": "https://github.com/squeek502/AppleSkin"
   },
   {
-    "path": "mods/aquamirae-neoforge-1.21.1-7.2.4.jar",
+    "path": "mods/aquamirae-neoforge-1.21.1-7.2.10.jar",
     "title": "Aquamirae",
-    "version": "7.2.4",
+    "version": "7.2.10",
     "project": "https://modrinth.com/mod/aquamirae",
     "license": "LicenseRef-Obscuria-Modding",
     "license_url": "https://obscurialithium.github.io/license/",
     "source": "https://github.com/ObscuriaLithium/Aquamirae"
   },
   {
-    "path": "mods/archers-neoforge-3.1.1+1.21.1.jar",
+    "path": "mods/archers-neoforge-3.1.3+1.21.1.jar",
     "title": "Archers (RPG Series)",
-    "version": "3.1.1+1.21.1-neoforge",
+    "version": "3.1.3+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/archers",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -198,9 +198,9 @@
     "source": "https://github.com/ochotonida/artifacts"
   },
   {
-    "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
+    "path": "mods/balm-neoforge-1.21.1-21.0.66.jar",
     "title": "Balm",
-    "version": "21.0.65+neoforge-1.21.1",
+    "version": "21.0.66+neoforge-1.21.1",
     "project": "https://modrinth.com/mod/balm",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": "https://mods.twelveiterations.com/permissions",
@@ -306,9 +306,9 @@
     "source": "https://github.com/jaredlll08/Clumps"
   },
   {
-    "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+    "path": "mods/colorwheel-neoforge-1.3.0+mc1.21.1.jar",
     "title": "Colorwheel",
-    "version": "1.2.9+mc1.21.1",
+    "version": "1.3.0+mc1.21.1",
     "project": "https://modrinth.com/mod/colorwheel",
     "license": "MIT",
     "license_url": null,
@@ -387,9 +387,9 @@
     "source": "https://github.com/talrey/CreateDeco"
   },
   {
-    "path": "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+    "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
     "title": "Create: Copycats+",
-    "version": "3.0.8+mc.1.21.1-neoforge",
+    "version": "3.0.9+mc.1.21.1-neoforge",
     "project": "https://modrinth.com/mod/copycats",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -405,9 +405,9 @@
     "source": "https://github.com/george8188625/Create-Diesel-Generators"
   },
   {
-    "path": "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+    "path": "mods/CreativeCore_NEOFORGE_v2.13.49_mc1.21.1.jar",
     "title": "CreativeCore",
-    "version": "2.13.44",
+    "version": "2.13.49",
     "project": "https://modrinth.com/mod/creativecore",
     "license": "LGPL-3.0-only",
     "license_url": null,
@@ -459,9 +459,9 @@
     "source": "https://github.com/TheIllusiveC4/Curios"
   },
   {
-    "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+    "path": "mods/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
     "title": "Distant Horizons",
-    "version": "3.2.0-b-1.21.1",
+    "version": "3.3.2-1.21.1",
     "project": "https://modrinth.com/mod/distanthorizons",
     "license": "LGPL-3.0-only",
     "license_url": null,
@@ -549,9 +549,9 @@
     "source": null
   },
   {
-    "path": "mods/exposure-neoforge-1.21.1-1.9.18.jar",
+    "path": "mods/exposure-neoforge-1.21.1-1.9.19.jar",
     "title": "Exposure",
-    "version": "1.9.18",
+    "version": "1.9.19",
     "project": "https://modrinth.com/mod/exposure",
     "license": "MIT",
     "license_url": null,
@@ -603,9 +603,9 @@
     "source": "https://github.com/Sinytra/ForgifiedFabricAPI"
   },
   {
-    "path": "mods/fragmentum-neoforge-1.21.1-2.4.4.jar",
+    "path": "mods/fragmentum-5.0.0+1.21.1-neoforge.jar",
     "title": "Fragmentum",
-    "version": "2.4.4",
+    "version": "5.0.0",
     "project": "https://modrinth.com/mod/fragmentum",
     "license": "LicenseRef-Obscuria-Ecosystem",
     "license_url": "https://obscurialithium.github.io/license/",
@@ -621,9 +621,9 @@
     "source": "https://github.com/Faboslav/friends-and-foes"
   },
   {
-    "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+    "path": "mods/fzzy_config-0.7.7+1.21+neoforge.jar",
     "title": "Fzzy Config",
-    "version": "0.7.6+1.21+neoforge",
+    "version": "0.7.7+1.21+neoforge",
     "project": "https://modrinth.com/mod/fzzy-config",
     "license": "LicenseRef-TDL-M",
     "license_url": "https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified",
@@ -657,9 +657,9 @@
     "source": "https://github.com/ZsoltMolnarrr/Gazebo"
   },
   {
-    "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+    "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
     "title": "Geckolib",
-    "version": "4.9.2",
+    "version": "4.9.3",
     "project": "https://modrinth.com/mod/geckolib",
     "license": "MIT",
     "license_url": null,
@@ -765,27 +765,27 @@
     "source": "https://github.com/Snownee/Jade"
   },
   {
-    "path": "mods/jewelry-neoforge-2.4.0+1.21.1.jar",
+    "path": "mods/jewelry-neoforge-2.5.0+1.21.1.jar",
     "title": "Jewelry (RPG Series)",
-    "version": "2.4.0+1.21.1-neoforge",
+    "version": "2.5.0+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/jewelry",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/ZsoltMolnarrr/Jewelry"
   },
   {
-    "path": "mods/journeymap-neoforge-1.21.1-6.0.7.jar",
+    "path": "mods/journeymap-neoforge-1.21.1-6.0.9.jar",
     "title": "JourneyMap",
-    "version": "1.21.1-6.0.7+neoforge",
+    "version": "1.21.1-6.0.9+neoforge",
     "project": "https://modrinth.com/mod/journeymap",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/TeamJM/journeymap"
   },
   {
-    "path": "mods/jei-1.21.1-neoforge-19.51.0.418.jar",
+    "path": "mods/jei-1.21.1-neoforge-19.57.0.449.jar",
     "title": "Just Enough Items (JEI)",
-    "version": "19.51.0.418",
+    "version": "19.57.0.449",
     "project": "https://modrinth.com/mod/jei",
     "license": "MIT",
     "license_url": null,
@@ -810,18 +810,18 @@
     "source": "https://github.com/thedarkcolour/KotlinForForge"
   },
   {
-    "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.0+neoforge.jar",
+    "path": "mods/KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar",
     "title": "KotlinLangForge",
-    "version": "2.13.0-k2.4.20-3.0+neoforge",
+    "version": "2.14.1-k2.4.20-3.0+neoforge",
     "project": "https://modrinth.com/mod/kotlin-lang-forge",
     "license": "GPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/btwonion/KotlinLangForge"
   },
   {
-    "path": "mods/legendary_monsters-2.2.2 MC 1.21.1.jar",
+    "path": "mods/legendary_monsters-2.2.3 MC 1.21.1.jar",
     "title": "Legendary Monsters",
-    "version": "2.2.2",
+    "version": "1.21.1",
     "project": "https://modrinth.com/mod/legendary-monsters",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -846,31 +846,40 @@
     "source": "https://github.com/caffeinemc/lithium-fabric"
   },
   {
-    "path": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+    "path": "mods/lithostitched-1.8.0-neoforge-21.1.jar",
     "title": "Lithostitched",
-    "version": "1.7.13-neoforge-21.1",
+    "version": "1.8.0-neoforge-21.1",
     "project": "https://modrinth.com/mod/lithostitched",
     "license": "MIT",
     "license_url": null,
     "source": "https://github.com/Apollounknowndev/lithostitched/"
   },
   {
-    "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
+    "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
     "title": "Lootr",
-    "version": "1.21.1-1.11.38.125",
+    "version": "1.21.1-1.11.38.127",
     "project": "https://modrinth.com/mod/lootr",
     "license": "MIT",
     "license_url": null,
     "source": "https://github.com/noobanidus/lootr"
   },
   {
-    "path": "mods/MoogsEndStructures-1.21-2.0.3.jar",
+    "path": "mods/MoogsEndStructures-universal-1.21-2.1.1.jar",
     "title": "MES - Moog's End Structures",
-    "version": "2.0.3",
+    "version": "2.1.1",
     "project": "https://modrinth.com/mod/mes-moogs-end-structures",
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/FinnSetchell/MoogsEndStructures"
+  },
+  {
+    "path": "mods/mezz_config-1.21.1-neoforge-0.6.5.jar",
+    "title": "MezzConfig",
+    "version": "0.6.5",
+    "project": "https://modrinth.com/mod/mezzconfig",
+    "license": "MIT",
+    "license_url": null,
+    "source": "https://github.com/mezz/MezzConfig"
   },
   {
     "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
@@ -882,18 +891,18 @@
     "source": "https://github.com/embeddedt/ModernFix"
   },
   {
-    "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
+    "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.3.1.jar",
     "title": "Moog's Structure Lib (moogs_structures)",
-    "version": "3.1.2",
+    "version": "3.3.1",
     "project": "https://modrinth.com/mod/moogs-structure-lib",
     "license": "LGPL-3.0-only",
     "license_url": null,
     "source": "https://github.com/FinnSetchell/MoogsStructureLib/"
   },
   {
-    "path": "mods/moonlight-1.21.1-3.6.1-neoforge.jar",
+    "path": "mods/moonlight-1.21.1-3.7.0-neoforge.jar",
     "title": "Moonlight Lib",
-    "version": "1.21.1-3.6.1",
+    "version": "1.21.1-3.7.0",
     "project": "https://modrinth.com/mod/moonlight",
     "license": "LicenseRef-LGPL-with-additional-dependency-clause",
     "license_url": "https://github.com/MehVahdJukaar/Moonlight/blob/1.20/license.md",
@@ -918,9 +927,9 @@
     "source": "https://github.com/YaLTeR/MouseTweaks"
   },
   {
-    "path": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+    "path": "mods/mru-1.0.40+1.21.1-neoforge.jar",
     "title": "MRU",
-    "version": "1.0.19+LTS+1.21.1-neoforge",
+    "version": "1.0.40+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/mru",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -954,9 +963,9 @@
     "source": "https://github.com/NemoNotFound/NemosInventorySorting"
   },
   {
-    "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+    "path": "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
     "title": "Not Enough Animations",
-    "version": "1.12.4",
+    "version": "1.12.6",
     "project": "https://modrinth.com/mod/not-enough-animations",
     "license": "LicenseRef-tr7zw-Protective-License",
     "license_url": "https://github.com/tr7zw/NotEnoughAnimations/blob/main/LICENSE",
@@ -972,9 +981,9 @@
     "source": "https://github.com/Stardust-Labs-MC/Nullscape"
   },
   {
-    "path": "mods/paladins-neoforge-3.1.1+1.21.1.jar",
+    "path": "mods/paladins-neoforge-3.1.3+1.21.1.jar",
     "title": "Paladins & Priests (RPG Series)",
-    "version": "3.1.1+1.21.1-neoforge",
+    "version": "3.1.3+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/paladins-and-priests",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1026,9 +1035,9 @@
     "source": "https://github.com/KosmX/fabricPlayerAnimation"
   },
   {
-    "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+    "path": "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
     "title": "Polymorph",
-    "version": "1.1.0+1.21.1",
+    "version": "1.2.0+1.21.1",
     "project": "https://modrinth.com/mod/polymorph",
     "license": "LGPL-3.0-or-later",
     "license_url": null,
@@ -1071,27 +1080,27 @@
     "source": "https://github.com/AHilyard/Prism/"
   },
   {
-    "path": "mods/puffish_skills-0.19.0-1.21-neoforge.jar",
+    "path": "mods/puffish_skills-0.19.1-1.21-neoforge.jar",
     "title": "Pufferfish's Skills",
-    "version": "0.19.0",
+    "version": "0.19.1",
     "project": "https://modrinth.com/mod/skills",
     "license": "LicenseRef-Custom",
     "license_url": "https://github.com/pufmat/skillsmod/wiki/License",
     "source": "https://github.com/pufmat/skillsmod"
   },
   {
-    "path": "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
+    "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
     "title": "Puzzles Lib",
-    "version": "21.1.56",
+    "version": "21.1.60",
     "project": "https://modrinth.com/mod/puzzles-lib",
     "license": "MPL-2.0",
     "license_url": null,
     "source": "https://github.com/Fuzss/puzzleslib"
   },
   {
-    "path": "mods/raised-neoforge-1.21.1-5.1.2.jar",
+    "path": "mods/raised-neoforge-1.21.1-6.0.2.jar",
     "title": "Raised",
-    "version": "NeoForge-1.21.1-5.1.2",
+    "version": "NeoForge-1.21.1-6.0.2",
     "project": "https://modrinth.com/mod/raised",
     "license": "LGPL-3.0-or-later",
     "license_url": null,
@@ -1152,9 +1161,9 @@
     "source": "https://github.com/yungnickyoung/Ribbits"
   },
   {
-    "path": "mods/rogues-neoforge-3.1.1+1.21.1.jar",
+    "path": "mods/rogues-neoforge-3.1.3+1.21.1.jar",
     "title": "Rogues & Warriors (RPG Series)",
-    "version": "3.1.1+1.21.1-neoforge",
+    "version": "3.1.3+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/rogues-and-warriors",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1215,9 +1224,9 @@
     "source": "https://github.com/MisterPeModder/ShulkerBoxTooltip"
   },
   {
-    "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+    "path": "mods/voicechat-neoforge-1.21.1-2.6.24.jar",
     "title": "Simple Voice Chat",
-    "version": "neoforge-1.21.1-2.6.22",
+    "version": "neoforge-1.21.1-2.6.24",
     "project": "https://modrinth.com/mod/simple-voice-chat",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1242,9 +1251,9 @@
     "source": "https://github.com/Sweenus/simplytooltips"
   },
   {
-    "path": "mods/skill_tree-neoforge-1.6.0+1.21.1.jar",
+    "path": "mods/skill_tree-neoforge-1.6.1+1.21.1.jar",
     "title": "Skill Tree (RPG Series)",
-    "version": "1.6.0+1.21.1-neoforge",
+    "version": "1.6.1+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/skill-tree",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1269,36 +1278,36 @@
     "source": "https://github.com/CaffeineMC/sodium"
   },
   {
-    "path": "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+    "path": "mods/sophisticatedbackpacks-1.21.1-3.26.5.2171.jar",
     "title": "Sophisticated Backpacks",
-    "version": "1.21.1-3.25.78.2107",
+    "version": "1.21.1-3.26.5.2171",
     "project": "https://modrinth.com/mod/sophisticated-backpacks",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/P3pp3rF1y/SophisticatedBackpacks"
   },
   {
-    "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+    "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
     "title": "Sophisticated Backpacks Create Integration",
-    "version": "1.21.1-0.1.8.134",
+    "version": "1.21.1-0.2.1.171",
     "project": "https://modrinth.com/mod/sophisticated-backpacks-create-integration",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/P3pp3rF1y/SophisticatedBackpacksCreateIntegration"
   },
   {
-    "path": "mods/sophisticatedcore-1.21.1-1.4.90.2299.jar",
+    "path": "mods/sophisticatedcore-1.21.1-1.5.2.2343.jar",
     "title": "Sophisticated Core",
-    "version": "1.21.1-1.4.90.2299",
+    "version": "1.21.1-1.5.2.2343",
     "project": "https://modrinth.com/mod/sophisticated-core",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/P3pp3rF1y/SophisticatedCore"
   },
   {
-    "path": "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+    "path": "mods/sophisticatedstorage-1.21.1-1.6.0.2136.jar",
     "title": "Sophisticated Storage",
-    "version": "1.21.1-1.5.91.2127",
+    "version": "1.21.1-1.6.0.2136",
     "project": "https://modrinth.com/mod/sophisticated-storage",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1332,9 +1341,9 @@
     "source": "https://github.com/Tschipcraft/spawnanimations"
   },
   {
-    "path": "mods/spell_engine-neoforge-1.10.5+1.21.1.jar",
+    "path": "mods/spell_engine-neoforge-1.10.7+1.21.1.jar",
     "title": "Spell Engine",
-    "version": "1.10.5+1.21.1-neoforge",
+    "version": "1.10.7+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/spell-engine",
     "license": "GPL-3.0-only",
     "license_url": null,
@@ -1377,9 +1386,9 @@
     "source": "https://github.com/MincraftEinstein/SubtleEffects"
   },
   {
-    "path": "mods/supplementaries-1.21.1-3.9.7-neoforge.jar",
+    "path": "mods/supplementaries-1.21.1-3.9.9-neoforge.jar",
     "title": "Supplementaries",
-    "version": "1.21.1-3.9.7",
+    "version": "1.21.1-3.9.9",
     "project": "https://modrinth.com/mod/supplementaries",
     "license": "LicenseRef-Supplementaries-Team-License",
     "license_url": "https://github.com/MehVahdJukaar/Supplementaries-Team-License/blob/main/LICENSE.md",
@@ -1485,18 +1494,18 @@
     "source": null
   },
   {
-    "path": "mods/witcher-class-mod-neoforge-3.1.2+1.21.1.jar",
+    "path": "mods/witcher-class-mod-neoforge-3.1.4+1.21.1.jar",
     "title": "Witcher (More RPG Classes)",
-    "version": "3.1.2+1.21.1-neoforge",
+    "version": "3.1.4+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/witcher-rpg-class",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
     "source": "https://github.com/ProfessorFichte/Witcher-RPG-Class"
   },
   {
-    "path": "mods/wizards-neoforge-3.1.2+1.21.1.jar",
+    "path": "mods/wizards-neoforge-3.1.3+1.21.1.jar",
     "title": "Wizards (RPG Series)",
-    "version": "3.1.2+1.21.1-neoforge",
+    "version": "3.1.3+1.21.1-neoforge",
     "project": "https://modrinth.com/mod/wizards",
     "license": "LicenseRef-All-Rights-Reserved",
     "license_url": null,
@@ -1512,9 +1521,9 @@
     "source": "https://github.com/isXander/YetAnotherConfigLib"
   },
   {
-    "path": "mods/YungsApi-1.21.1-NeoForge-5.1.8.jar",
+    "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
     "title": "YUNG's API",
-    "version": "1.21.1-NeoForge-5.1.8",
+    "version": "1.21.1-NeoForge-5.1.9",
     "project": "https://modrinth.com/mod/yungs-api",
     "license": "LGPL-3.0-only",
     "license_url": null,
