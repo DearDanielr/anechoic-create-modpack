@@ -18,7 +18,9 @@
     "world_render_observed": true,
     "sable_udp_authenticated": true,
     "voice_chat_authenticated": true,
-    "startup_mod_workers": 1
+    "startup_mod_workers": 1,
+    "actual_production_join": true,
+    "production_world_render_observed": true
   },
   "server": {
     "production_jar_count": 147,
@@ -65,7 +67,9 @@
     "fresh_world_start_and_saved_test_world_restart": true,
     "tested_worlds": "Disposable normal world for startup/mining/anvils/login; flat fixture for controlled native spawning checks.",
     "production_stage_files_sha256_verified": 251,
-    "production_activation": "Pending authorized restart; production worlds and mods have not been changed."
+    "production_activation": "Live 2026-09-27 20:03:10 UTC after a clean stop and verified full offline backup; existing world loaded successfully.",
+    "production_tps": 20.0,
+    "production_backup_verified_files": 4296
   },
   "packages": {
     "assets": [
@@ -97,8 +101,8 @@
     "curseforge_equivalence": "Four Sophisticated builds differ only in build timestamp. Paladins differs only in generated Architectury identifiers; nested library entries compare identically. Existing unchanged files retain previously verified pins."
   },
   "limits": [
-    "One actual loopback client join was observed; this is not a multiplayer load or extended gameplay test.",
-    "The production saved world has not been run under the new software before activation. A verified full offline backup is required before installation.",
+    "One actual loopback join and one production join were observed; this is not a multiplayer load or extended gameplay test.",
+    "The existing production world loaded successfully after activation. The full pre-update offline backup was verified file by file and copied to a second machine with matching SHA256.",
     "Nonfatal upstream recipe, optional compatibility, resource and missing-tag warnings remain; successful startup does not mean warning-free logs.",
     "The CurseForge app itself was not used to perform a fresh import.",
     "Private QA modules and QA world/configuration changes are excluded from the staged server release."

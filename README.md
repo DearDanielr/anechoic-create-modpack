@@ -139,7 +139,7 @@ function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the 1.11.1 Prism ZIP or MRPACK. Import it as a separate instance
+   and select the 1.12.0 Prism ZIP or MRPACK. Import it as a separate instance
    to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. Join `play.create.anechoicaxolotl.com`.
@@ -152,13 +152,12 @@ your launcher. [CurseForge's import instructions](https://support.curseforge.com
 show the app's import screen.
 
 The Prism ZIP and MRPACK download the pinned files from Modrinth.
-The CurseForge ZIP downloads all 177 mods and one shader from CurseForge,
-with the same pack settings, resource pack, and controls. No manual mod copying
-is needed. All 178 downloads were verified; 165 match the Modrinth files byte
-for byte, and 13 use upstream builds of the same versions with only verified
-build metadata, generated build IDs, ZIP packaging, or access-rule ordering
-differences. CurseForge's Terralith JAR has a different filename but identical
-bytes. Actual import in the CurseForge app has not been tested.
+The CurseForge ZIP downloads 178 files from CurseForge, with the same pack
+settings, resource pack, and controls. Add the NeoForge WilderNature 1.1.6 jar
+manually as described above. All 46 changed CurseForge downloads were verified;
+five equivalent builds differ only in build timestamps or generated identifiers.
+Unchanged downloads retain their previously verified pins. Actual import in the
+CurseForge app has not been tested.
 
  An internet
 connection is required. The Prism ZIP uses Prism's Modrinth importer; it is
@@ -167,20 +166,22 @@ resource pack for an installation that already has these exact mod versions.
 
 ## Contents and checks
 
-The production server also includes the pack's matching JEI 19.51.0.418, which
+The production server also includes the pack's matching JEI 19.57.0.449, which
 supports the **Move Items** / **+** recipe-transfer button. This fixes the
 "server must have JEI installed" message. The current pack includes this exact version.
 
-1.11.1 contains **177 client mods and one shader**, with exactly the same
-upstream files as 1.11.0. It is compatible with the existing 1.11.0 server
-and its server-only tools. No mod or shader binaries
+1.12.0 contains **178 client mods and one shader**, matched to the updated
+1.12.0 server and its server-only tools. No mod or shader binaries
 are redistributed by this repository: manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.
 `modrinth.index.json` pins URLs, sizes, and SHA-1/SHA-512 hashes; `mods.sha256`
 records an additional inventory. `curseforge-lock.json` pins CurseForge project/file
-IDs and hashes; `curseforge-validation-1.11.0.json` records the unchanged upstream conversion checks. `SHA256SUMS.txt` accompanies the release assets.
+IDs and hashes; `validation-1.12.0.json` records the current update checks and
+`curseforge-validation-1.11.0.json` records the earlier conversion checks.
+`SHA256SUMS.txt` accompanies the release assets.
 
+Current update and production checks are in `validation-1.12.0.json`.
 Startup-fix checks are recorded in `validation-1.11.1.json`; earlier terrain
 and gameplay deployment checks remain in `validation-1.11.0.json`.
 Automated compatibility and terrain samples do not establish that every
