@@ -1,26 +1,28 @@
-Adds larger landscapes and new biomes to explore:
+Fixes an intermittent startup crash in the 1.11.0 client pack.
 
-- **Tectonic 3.0.26:** large mountain ranges, canyons, valleys, deep oceans,
-  and underground rivers, with built-in Terralith compatibility.
-- **Nature's Spirit 2.2.5:** 51 surface biomes, including redwood and wisteria
-  forests, lavender fields, tropical shores, and white cliffs.
-- **YUNG's Cave Biomes 3.1.1:** Frosted Caves and Lost Caves with new creatures
-  and underground discoveries.
-- **Gardens of the Dead 5.0.2:** two new Nether forest biomes.
+NeoForge now constructs mods using one worker (`maxThreads = 1` in
+`config/fml.toml`). This avoids concurrent writes to Architectury 13.0.11's
+spawn-registration list, where Critters and Companions 2.7.0 failed during
+startup. Better Mods Button's later config exception was a secondary failure.
 
-**Everyone needs this updated client pack to join.** Import it as a separate
-Prism instance to preserve older saves. Use Java 21 and up to 8 GiB of memory.
-The server runs the same additions. JEI's Move Items button is supported.
+**Same 177 mods and one shader as 1.11.0. Compatible with the existing server;
+no server update or restart needed.** Gameplay threading is unchanged.
 
-Large structure placement remains 50% lower than 1.9.0; other configured
-structures remain 25% lower. New Nature's Spirit villages inherit the reduced
-village rate. Existing RPG, boss, gear, and mining balance stays in place.
+For an existing 1.11.0 instance, close Minecraft and change `maxThreads = -1`
+to `maxThreads = 1` in its `minecraft/config/fml.toml` (or
+`.minecraft/config/fml.toml`, depending on launcher). Preserve other settings.
+You do not need to reinstall or copy your saves.
 
-Contains 177 client mods, one shader, and 143 server mods. All earlier mod
-versions are retained. The import files fetch pinned official Modrinth downloads;
-no third-party mod binaries are rehosted here.
+For a fresh installation, import the Prism ZIP, MRPACK, or CurseForge ZIP
+appropriate for your launcher. Use Java 21 and up to 8 GiB memory.
 
-Validation: full-pack startup passed, all 55 added biomes registered, eight
-representative chunks generated, and all 150 earlier structure settings matched.
-Terrain samples included mountains reaching Y 275. This is not a full-world
-survey or multiplayer flight test.
+All upstream file pins and hashes are unchanged. The sole gameplay-folder
+change from the published 1.11.0 pack is `config/fml.toml`.
+
+Validation: the installed client completed startup, joined the production
+server, authenticated Sable UDP and connected to voice chat after the change.
+The server remained running throughout. All four archives passed integrity
+checks and contain the setting; all 178 download pins are unchanged.
+This was one observed client launch and join, not a repeated-start or gameplay
+soak test. Fresh CurseForge app import was not performed.
+See `validation-1.11.1.json` for details.

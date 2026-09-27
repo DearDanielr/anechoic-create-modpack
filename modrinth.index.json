@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.11.0",
+  "versionId": "1.11.1",
   "name": "Create Aeronautics - Vanilla Plus",
-  "summary": "Terralith and rich biomes without Tectonic; balanced Relics for existing Spell Engine classes, rare structures and Hard server difficulty.",
+  "summary": "Startup stability fix for the Architectury spawn-registration race; same mods, gameplay and server compatibility as 1.11.0.",
   "files": [
     {
       "path": "mods/additional_rpg_jewelry-neoforge-2.3.1+1.21.1.jar",

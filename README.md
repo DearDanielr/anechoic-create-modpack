@@ -2,10 +2,30 @@
 
 Minecraft **1.21.1**, NeoForge **21.1.249**, Java **21**.
 
-**1.11.0 removes Tectonic and expands the existing Spell Engine classes with
-Relics (RPG Series).** Install this version to join the updated server.
+**1.11.1 fixes an intermittent startup crash during mob spawn registration.**
+It uses the same mods as 1.11.0 and works with the existing server.
 
-[<img src="assets/icons/prism.svg" width="18" height="18" alt="Prism"> Download 1.11.0 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-Prism.zip) · [<img src="assets/icons/modrinth.svg" width="18" height="18" alt="Modrinth"> Download 1.11.0 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0.mrpack) · [<img src="assets/icons/curseforge.svg" width="18" height="18" alt="CurseForge"> Download 1.11.0 CurseForge ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.0/Create-Aeronautics-Vanilla-Plus-1.11.0-CurseForge.zip) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.0)
+[<img src="assets/icons/prism.svg" width="18" height="18" alt="Prism"> Download 1.11.1 Prism ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1-Prism.zip) · [<img src="assets/icons/modrinth.svg" width="18" height="18" alt="Modrinth"> Download 1.11.1 MRPACK](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1.mrpack) · [<img src="assets/icons/curseforge.svg" width="18" height="18" alt="CurseForge"> Download 1.11.1 CurseForge ZIP](https://github.com/DearDanielr/anechoic-create-modpack/releases/download/v1.11.1/Create-Aeronautics-Vanilla-Plus-1.11.1-CurseForge.zip) · [Release notes](https://github.com/DearDanielr/anechoic-create-modpack/releases/tag/v1.11.1)
+
+## Startup fix in 1.11.1
+
+NeoForge now loads mods with one worker (`maxThreads = 1` in
+`config/fml.toml`). Architectury 13.0.11 collects spawn registrations in an
+unsynchronized list; concurrent mod construction can crash inside that list,
+as observed while Critters and Companions 2.7.0 was initializing. This explains
+why the same files can launch successfully before failing on another launch.
+Better Mods Button's later "Cannot get config value before config is loaded"
+exception was a secondary failure after mod construction had already failed.
+
+Existing **1.11.0** installations can apply the fix without reinstalling:
+close Minecraft, open the instance's `minecraft/config/fml.toml` (some launchers
+use `.minecraft/config/fml.toml`), change `maxThreads = -1` to `maxThreads = 1`,
+and launch again. Preserve the rest of the file. This limits startup mod loading;
+it does not set gameplay, chunk generation, or rendering to one thread.
+No mods, saves, controls, or server configuration need changing.
+
+Source: [Architectury spawn registration](https://github.com/architectury/architectury-api/blob/1.21/neoforge/src/main/java/dev/architectury/registry/level/entity/forge/SpawnPlacementsRegistryImpl.java).
+Verification and limitations: [validation-1.11.1.json](validation-1.11.1.json).
 
 ## What's new in 1.11.0
 
@@ -98,7 +118,7 @@ function. Saved quest files are retained in the server backup.
 ## Install
 
 1. In [Prism Launcher](https://prismlauncher.org/), choose **Add Instance → Import**
-   and select the 1.11.0 Prism ZIP or MRPACK. Import it as a separate instance
+   and select the 1.11.1 Prism ZIP or MRPACK. Import it as a separate instance
    to preserve any local saves and settings in your older instance.
 2. Use Java 21 and allow up to **8 GiB** of client memory.
 3. Join `play.create.anechoicaxolotl.com`.
@@ -130,17 +150,18 @@ The production server also includes the pack's matching JEI 19.51.0.418, which
 supports the **Move Items** / **+** recipe-transfer button. This fixes the
 "server must have JEI installed" message. The current pack includes this exact version.
 
-1.11.0 contains **177 client mods and one shader**. The matching server runs
-143 mod files, including its existing server tools. All 1.10.0 mod versions
-other than the removed Tectonic file are retained. No mod or shader binaries
+1.11.1 contains **177 client mods and one shader**, with exactly the same
+upstream files as 1.11.0. It is compatible with the existing 1.11.0 server
+and its server-only tools. No mod or shader binaries
 are redistributed by this repository: manifests reference upstream downloads.
 
 [THIRD-PARTY.md](THIRD-PARTY.md) lists projects and licenses.
 `modrinth.index.json` pins URLs, sizes, and SHA-1/SHA-512 hashes; `mods.sha256`
 records an additional inventory. `curseforge-lock.json` pins CurseForge project/file
-IDs and hashes; `curseforge-validation-1.11.0.json` records the conversion checks. `SHA256SUMS.txt` accompanies the release assets.
+IDs and hashes; `curseforge-validation-1.11.0.json` records the unchanged upstream conversion checks. `SHA256SUMS.txt` accompanies the release assets.
 
-Validation and deployment results are recorded in `validation-1.11.0.json`.
+Startup-fix checks are recorded in `validation-1.11.1.json`; earlier terrain
+and gameplay deployment checks remain in `validation-1.11.0.json`.
 Automated compatibility and terrain samples do not establish that every
 structure, class combination, or boss fight has been playtested.
 

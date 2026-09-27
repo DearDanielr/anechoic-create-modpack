@@ -3,7 +3,8 @@ disableConfigWatcher = false
 #Should we control the window. Disabling this disables new GL features and can be bad for mods that rely on them.
 earlyWindowControl = true
 #Max threads for early initialization parallelism,  -1 is based on processor count
-maxThreads = -1
+# Serialize mod construction to avoid the Architectury spawn-registration race.
+maxThreads = 1
 #Enable NeoForge global version checking
 versionCheck = true
 #Default config path for servers

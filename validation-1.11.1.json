@@ -1,0 +1,78 @@
+{
+  "version": "1.11.1",
+  "date_utc": "2026-09-27",
+  "change": "Serialize NeoForge mod loading using config/fml.toml maxThreads = 1.",
+  "diagnosis": {
+    "first_failure": "Critters and Companions 2.7.0 called Architectury 13.0.11 SpawnPlacementsRegistryImpl.register; ArrayList.add threw ArrayIndexOutOfBoundsException.",
+    "likely_cause": "Concurrent writes to Architectury static unsynchronized ArrayList during parallel mod construction.",
+    "secondary_failure": "Better Mods Button accessed unloaded config after mod construction had failed.",
+    "installed_architectury_bytecode_verified": true,
+    "installed_fml_4_0_44_reads_max_threads_for_mod_worker_pool": true,
+    "before_runtime_mod_loading_threads": 16,
+    "after_runtime_mod_loading_threads": 1
+  },
+  "unchanged_upstream_files": 178,
+  "unchanged_curseforge_download_pins": 178,
+  "changed_override_files": [
+    "config/fml.toml"
+  ],
+  "override_files": 298,
+  "client_check": {
+    "all_178_pinned_files_match_sha512": true,
+    "existing_extra_mod_preserved": "Game Scrapbook Companion 0.2.0 (not included in release)",
+    "startup_completed": true,
+    "original_construction_failure_absent": true,
+    "better_mods_button_config_failure_absent": true,
+    "authenticated_production_join_observed": true,
+    "sable_udp_authentication_observed": true,
+    "voice_chat_connection_validated": true
+  },
+  "server_check": {
+    "create_process_unchanged": true,
+    "restarted": false,
+    "uptime_at_check": "14 days",
+    "idle_tps": 20.0,
+    "idle_overall_ms_per_tick": 0.635,
+    "public_create_status_passed": true,
+    "public_vanilla_status_passed": true,
+    "root_filesystem_free_gib": 32,
+    "storage_filesystem_free_gib": 15,
+    "earlier_log_errors": "Disconnect packet encoder errors were present before the client launch; not the cause of the local construction crash."
+  },
+  "assets": [
+    {
+      "name": "Create-Aeronautics-Vanilla-Plus-1.11.1-Configs.zip",
+      "bytes": 232391,
+      "sha256": "134e3fdaf187a86f1e537a5600900ce94cc63517cf60072fd20e567c35bab620",
+      "fml_max_threads": 1,
+      "archive_integrity": true
+    },
+    {
+      "name": "Create-Aeronautics-Vanilla-Plus-1.11.1-CurseForge.zip",
+      "bytes": 240562,
+      "sha256": "89a09f8f0e400cc9b1f31f7efa0c59c21e6d8536aadc1232f6c9453da60f21a1",
+      "fml_max_threads": 1,
+      "archive_integrity": true
+    },
+    {
+      "name": "Create-Aeronautics-Vanilla-Plus-1.11.1-Prism.zip",
+      "bytes": 271834,
+      "sha256": "c18d1ca9630b2a83d04a8739c77810f2f9ea8e9a681e6667853ad43a6a4909c3",
+      "fml_max_threads": 1,
+      "archive_integrity": true
+    },
+    {
+      "name": "Create-Aeronautics-Vanilla-Plus-1.11.1.mrpack",
+      "bytes": 271834,
+      "sha256": "c18d1ca9630b2a83d04a8739c77810f2f9ea8e9a681e6667853ad43a6a4909c3",
+      "fml_max_threads": 1,
+      "archive_integrity": true
+    }
+  ],
+  "limits": [
+    "One real client startup and authenticated server join were observed after the change; this is not a repeated-start or full gameplay soak test.",
+    "The exact racing interleaving was inferred from the exception, unsynchronized installed code and 16-worker configuration, not captured with a concurrency tracer.",
+    "Fresh import in the CurseForge app was not performed.",
+    "No production server configuration, mods or world data were changed."
+  ]
+}
